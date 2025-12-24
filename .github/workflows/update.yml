@@ -7,13 +7,16 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout live repo
         uses: actions/checkout@v4
 
-      - name: Clone private engine
+      - name: Checkout private engine
         uses: actions/checkout@v4
         with:
           repository: satashi2012/engine
