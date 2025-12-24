@@ -14,9 +14,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Clone private engine
-        run: |
-          git clone https://${{ secrets.ENGINE_TOKEN }}@github.com/satashi2012/engine.git engine
-          cp engine/main.py ./main.py
+        uses: actions/checkout@v4
+        with:
+          repository: satashi2012/engine
+          token: ${{ secrets.ENGINE_TOKEN }}
+          path: engine
+
+      - name: Copy engine main
+        run: cp engine/main.py ./main.py
 
       - name: Set up Python
         uses: actions/setup-python@v5
