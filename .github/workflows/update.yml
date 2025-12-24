@@ -1,4 +1,4 @@
-name: Update Playlist
+name: Update Playlists
 
 on:
   schedule:
@@ -9,7 +9,6 @@ jobs:
   build:
     permissions:
       contents: write
-
     runs-on: ubuntu-latest
 
     steps:
@@ -23,8 +22,10 @@ jobs:
           token: ${{ secrets.ENGINE_TOKEN }}
           path: engine
 
-      - name: Copy engine main
-        run: cp engine/main.py ./main.py
+      - name: Copy engine files
+        run: |
+          cp engine/main.py ./main.py
+          cp engine/ppv.py ./ppv.py
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,13 +35,18 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run crawler
-        run: python main.py
+      - name: Install Playwright browsers
+        run: python -m playwright install firefox
 
-      - name: Commit playlist
+      - name: Run crawlers
+        run: |
+          python main.py
+          python ppv.py
+
+      - name: Commit playlists
         run: |
           git config --global user.name "playlist-bot"
           git config --global user.email "bot@github.com"
-          git add StreamedSU.m3u8
-          git commit -m "Auto update playlist" || echo "No changes"
+          git add StreamedSU.m3u8 PPVLand.m3u8
+          git commit -m "Auto update playlists" || echo "No changes"
           git push
