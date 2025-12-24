@@ -1,0 +1,38 @@
+name: Update Playlist
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout live repo
+        uses: actions/checkout@v4
+
+      - name: Clone private engine
+        run: |
+          git clone https://${{ secrets.ENGINE_TOKEN }}@github.com/satashi2012/engine.git engine
+          cp engine/main.py ./main.py
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run crawler
+        run: python main.py
+
+      - name: Commit playlist
+        run: |
+          git config --global user.name "playlist-bot"
+          git config --global user.email "bot@github.com"
+          git add StreamedSU.m3u8
+          git commit -m "Auto update playlist" || echo "No changes"
+          git push
