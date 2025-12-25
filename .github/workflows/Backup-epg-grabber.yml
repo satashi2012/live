@@ -1,19 +1,26 @@
-name: ▶️ Backup-epg-grabber
+name: ▶️ Backup EPG Grabber
 
 on:
   schedule:
-    # Runs every 8 hours at 00:00, 08:00, 16:00 UTC
     - cron: '0 */8 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   epg-grabber:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout live repo
+        uses: actions/checkout@v4
+
+      - name: Checkout engine repo
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
+          repository: satashi2012/engine
+          path: engine
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -23,13 +30,21 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run epg grabber
-        run: cd Backup && python Backup-epg-grabber.py
+      - name: Run EPG engine
+        run: |
+          mkdir -p epgs
+          python engine/Backup/Backup-epg-grabber.py
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "actions-user"
-          git config --global user.email "actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
           git add epgs/Backup-epg.xml epgs/Backup-epg.xml.gz
-          git diff --staged --quiet || git commit -m "🔄 Update epg"
-          git push --force
+
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "🔄 Update EPG"
+            git push
+          fi
