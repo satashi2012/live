@@ -1,4 +1,4 @@
-name: ▶️ Backup EPG Grabber
+name: ▶️ EPG Grabber
 
 on:
   schedule:
