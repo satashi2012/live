@@ -1,2 +1,1223 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv />
+<tv><channel id="tvbvn">
+    <display-name lang="vi">TVB Việt Nam</display-name>
+    <display-name lang="en">TVB Vietnam</display-name>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiur6-fWh2c9HH6LXbffDvmFtRHLHI5Yqe1GwRyhIcRrHbSXr29vkP4L9q_q_dXBavCh1YnSpS8S8KxRRJDNsBNMhQae86A7Kw75GXyMYBM1Lvw_H36gzcFhzriLUafmVk7nxlIK3RljnQDoLwI60iP7rfg7WesNbNazUD-dt-PtrO5Slhp2u8OIZRQ/s310/784px-Tvb_logo.svg.png" />
+    <url>https://www.tvbusa.com/schedule/#tvbv</url>
+  </channel>
+  <programme start="20251229230000 +0700" stop="20251229234500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Quan Trường Hiểm Hóc</title>
+    <desc lang="vi">Phim tập : Quan Trường Hiểm Hóc</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251229234500 +0700" stop="20251230024500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập ngày Chủ nhật (4 tập) : Sóng Gió Vương Triều</title>
+    <desc lang="vi">Phim tập ngày Chủ nhật (4 tập) : Sóng Gió Vương Triều (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230024500 +0700" stop="20251230033000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Quan Trường Hiểm Hóc</title>
+    <desc lang="vi">Phim tập : Quan Trường Hiểm Hóc (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230033000 +0700" stop="20251230041500 +0700" channel="tvbvn">
+    <title lang="vi">Phim truyện ngắn Chủ nhật : Đại Thái Giám</title>
+    <desc lang="vi">Phim truyện ngắn Chủ nhật : Đại Thái Giám (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230041500 +0700" stop="20251230050000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án</title>
+    <desc lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230050500 +0700" stop="20251230063500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251230063500 +0700" stop="20251230080500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251230081000 +0700" stop="20251230094000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230095000 +0700" stop="20251230112000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251230113000 +0700" stop="20251230121500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230122000 +0700" stop="20251230130500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230131000 +0700" stop="20251230133300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại ngày trước)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230133500 +0700" stop="20251230142000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230142000 +0700" stop="20251230155000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230160000 +0700" stop="20251230173000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230173500 +0700" stop="20251230175800 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251230180000 +0700" stop="20251230184500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251230185500 +0700" stop="20251230194000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251230195000 +0700" stop="20251230203500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251230203500 +0700" stop="20251230220500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230221000 +0700" stop="20251230225500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Bà Hoàng Cự Tháp</title>
+    <desc lang="vi">Phim tập : Bà Hoàng Cự Tháp (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251230230000 +0700" stop="20251231003000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231003000 +0700" stop="20251231005300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231005500 +0700" stop="20251231022500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231022500 +0700" stop="20251231031000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231031000 +0700" stop="20251231044000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231044000 +0700" stop="20251231050300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231050500 +0700" stop="20251231063500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251231063500 +0700" stop="20251231080500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251231081000 +0700" stop="20251231094000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231095000 +0700" stop="20251231112000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251231113000 +0700" stop="20251231121500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231122000 +0700" stop="20251231130500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231131000 +0700" stop="20251231133300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại ngày trước)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231133500 +0700" stop="20251231142000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231142000 +0700" stop="20251231155000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231160000 +0700" stop="20251231173000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231173500 +0700" stop="20251231175800 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251231180000 +0700" stop="20251231184500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251231185500 +0700" stop="20251231194000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251231195000 +0700" stop="20251231203500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251231203500 +0700" stop="20251231220500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231221000 +0700" stop="20251231225500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Bà Hoàng Cự Tháp</title>
+    <desc lang="vi">Phim tập : Bà Hoàng Cự Tháp (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251231230000 +0700" stop="20260101003000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101003000 +0700" stop="20260101005300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101005500 +0700" stop="20260101022500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101022500 +0700" stop="20260101031000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101031000 +0700" stop="20260101044000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101044000 +0700" stop="20260101050300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101050500 +0700" stop="20260101063500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20260101063500 +0700" stop="20260101080500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20260101081000 +0700" stop="20260101094000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101095000 +0700" stop="20260101112000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20260101113000 +0700" stop="20260101121500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101122000 +0700" stop="20260101130500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101131000 +0700" stop="20260101133300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại ngày trước)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101133500 +0700" stop="20260101142000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101142000 +0700" stop="20260101155000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101160000 +0700" stop="20260101173000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101173500 +0700" stop="20260101175800 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20260101180000 +0700" stop="20260101184500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20260101185500 +0700" stop="20260101194000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20260101195000 +0700" stop="20260101203500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20260101203500 +0700" stop="20260101220500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20260101221000 +0700" stop="20260101225500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Bà Hoàng Cự Tháp</title>
+    <desc lang="vi">Phim tập : Bà Hoàng Cự Tháp (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-31</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251225230000 +0700" stop="20251226003000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Đối Tác Hôn Nhân</title>
+    <desc lang="vi">Phim tập (2 tập) : Đối Tác Hôn Nhân (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226003000 +0700" stop="20251226005300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226005500 +0700" stop="20251226022500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226022500 +0700" stop="20251226031000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226031000 +0700" stop="20251226044000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226044000 +0700" stop="20251226050300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226050500 +0700" stop="20251226063500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251226063500 +0700" stop="20251226080500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251226081000 +0700" stop="20251226094000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226095000 +0700" stop="20251226112000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251226113000 +0700" stop="20251226121500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226122000 +0700" stop="20251226130500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226131000 +0700" stop="20251226133300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại ngày trước)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226133500 +0700" stop="20251226142000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226142000 +0700" stop="20251226155000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226160000 +0700" stop="20251226173000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226173500 +0700" stop="20251226175800 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251226180000 +0700" stop="20251226184500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251226185500 +0700" stop="20251226194000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251226195000 +0700" stop="20251226203500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251226203500 +0700" stop="20251226220500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226221000 +0700" stop="20251226225500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Bà Hoàng Cự Tháp</title>
+    <desc lang="vi">Phim tập : Bà Hoàng Cự Tháp (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-25</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251226230000 +0700" stop="20251227003000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227003000 +0700" stop="20251227005300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227005500 +0700" stop="20251227022500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227022500 +0700" stop="20251227031000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227031000 +0700" stop="20251227044000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227044000 +0700" stop="20251227050300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227050500 +0700" stop="20251227063500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251227063500 +0700" stop="20251227080500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251227081000 +0700" stop="20251227094000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227095000 +0700" stop="20251227112000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251227113000 +0700" stop="20251227121500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227122000 +0700" stop="20251227130500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227131000 +0700" stop="20251227133300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại ngày trước)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227133500 +0700" stop="20251227142000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227142000 +0700" stop="20251227155000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227160000 +0700" stop="20251227173000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227173500 +0700" stop="20251227175800 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251227180000 +0700" stop="20251227184500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Rừng Vàng</title>
+    <desc lang="vi">Phim tập : Rừng Vàng</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251227185500 +0700" stop="20251227194000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251227195000 +0700" stop="20251227203500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Mùa Luyến Ái</title>
+    <desc lang="vi">Phim tập : Mùa Luyến Ái</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251227203500 +0700" stop="20251227220500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập (2 tập) : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227221000 +0700" stop="20251227225500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Bà Hoàng Cự Tháp</title>
+    <desc lang="vi">Phim tập : Bà Hoàng Cự Tháp (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-26</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251227230000 +0700" stop="20251228003000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan</title>
+    <desc lang="vi">Phim tập (2 tập) : Huyên Náo Núi Võ Đan (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228003000 +0700" stop="20251228005300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228005500 +0700" stop="20251228022500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng</title>
+    <desc lang="vi">Phim tập (2 tập) : Lưới Trời Lồng Lộng (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228022500 +0700" stop="20251228031000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập : Tuyệt Thế Anh Tài (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228031000 +0700" stop="20251228044000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Chuyện Về Zombie</title>
+    <desc lang="vi">Phim tập : Chuyện Về Zombie (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228044000 +0700" stop="20251228050300 +0700" channel="tvbvn">
+    <title lang="vi">Phim hài : Mái Ấm Gia Đình</title>
+    <desc lang="vi">Phim hài : Mái Ấm Gia Đình (chiếu lại)</desc>
+    <category lang="en">Sitcom</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228050500 +0700" stop="20251228080500 +0700" channel="tvbvn">
+    <title lang="vi">Phim cổ điển ngày Thứ bảy (4 tập) : Nữ Pháp Y JD</title>
+    <desc lang="vi">Phim cổ điển ngày Thứ bảy (4 tập) : Nữ Pháp Y JD</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251228080500 +0700" stop="20251228093500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Vạch Tội</title>
+    <desc lang="vi">Phim tập (2 tập) : Vạch Tội</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251228094000 +0700" stop="20251228132500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập trong tuần : Rừng Vàng</title>
+    <desc lang="vi">Phim tập trong tuần : Rừng Vàng (chiếu lại Thứ hai - Thứ sáu)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228133000 +0700" stop="20251228163000 +0700" channel="tvbvn">
+    <title lang="vi">Phim cổ điển ngày Thứ bảy (4 tập) : Nữ Pháp Y JD</title>
+    <desc lang="vi">Phim cổ điển ngày Thứ bảy (4 tập) : Nữ Pháp Y JD (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228163000 +0700" stop="20251228171500 +0700" channel="tvbvn">
+    <title lang="vi">Phim truyện ngắn Thứ bảy : Đại Thái Giám</title>
+    <desc lang="vi">Phim truyện ngắn Thứ bảy : Đại Thái Giám</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251228172000 +0700" stop="20251228180500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án</title>
+    <desc lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251228181000 +0700" stop="20251228194000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Vạch Tội</title>
+    <desc lang="vi">Phim tập (2 tập) : Vạch Tội (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228194500 +0700" stop="20251228203000 +0700" channel="tvbvn">
+    <title lang="vi">Phim truyện ngắn Thứ bảy : Đại Thái Giám</title>
+    <desc lang="vi">Phim truyện ngắn Thứ bảy : Đại Thái Giám (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228203500 +0700" stop="20251228212000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án</title>
+    <desc lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228212500 +0700" stop="20251228225500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Vạch Tội</title>
+    <desc lang="vi">Phim tập (2 tập) : Vạch Tội (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-27</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251228230000 +0700" stop="20251228234500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Quan Trường Hiểm Hóc</title>
+    <desc lang="vi">Phim tập : Quan Trường Hiểm Hóc</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251228234500 +0700" stop="20251229024500 +0700" channel="tvbvn">
+    <title lang="vi">Phim cổ điển ngày Thứ bảy (4 tập) : Nữ Pháp Y JD</title>
+    <desc lang="vi">Phim cổ điển ngày Thứ bảy (4 tập) : Nữ Pháp Y JD (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251229024500 +0700" stop="20251229033000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập : Quan Trường Hiểm Hóc</title>
+    <desc lang="vi">Phim tập : Quan Trường Hiểm Hóc (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251229033000 +0700" stop="20251229041500 +0700" channel="tvbvn">
+    <title lang="vi">Phim truyện ngắn Thứ bảy : Đại Thái Giám</title>
+    <desc lang="vi">Phim truyện ngắn Thứ bảy : Đại Thái Giám (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251229041500 +0700" stop="20251229050000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án</title>
+    <desc lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251229050500 +0700" stop="20251229080500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập ngày Chủ nhật (4 tập) : Sóng Gió Vương Triều</title>
+    <desc lang="vi">Phim tập ngày Chủ nhật (4 tập) : Sóng Gió Vương Triều</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251229080500 +0700" stop="20251229093500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Vạch Tội</title>
+    <desc lang="vi">Phim tập (2 tập) : Vạch Tội</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251229094000 +0700" stop="20251229132500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập trong tuần : Tuyệt Thế Anh Tài</title>
+    <desc lang="vi">Phim tập trong tuần : Tuyệt Thế Anh Tài (chiếu lại Thứ hai - Thứ sáu)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251229133000 +0700" stop="20251229163000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập ngày Chủ nhật (4 tập) : Sóng Gió Vương Triều</title>
+    <desc lang="vi">Phim tập ngày Chủ nhật (4 tập) : Sóng Gió Vương Triều (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251229163000 +0700" stop="20251229171500 +0700" channel="tvbvn">
+    <title lang="vi">Phim truyện ngắn Chủ nhật : Đại Thái Giám</title>
+    <desc lang="vi">Phim truyện ngắn Chủ nhật : Đại Thái Giám</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251229172000 +0700" stop="20251229180500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án</title>
+    <desc lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+  </programme>
+  <programme start="20251229181000 +0700" stop="20251229194000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Vạch Tội</title>
+    <desc lang="vi">Phim tập (2 tập) : Vạch Tội (chiếu lại ngày trước)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251229194500 +0700" stop="20251229203000 +0700" channel="tvbvn">
+    <title lang="vi">Phim truyện ngắn Chủ nhật : Đại Thái Giám</title>
+    <desc lang="vi">Phim truyện ngắn Chủ nhật : Đại Thái Giám (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251229203500 +0700" stop="20251229212000 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án</title>
+    <desc lang="vi">Phim tập cuối tuần : Mất Tích Kỳ Án (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+  <programme start="20251229212500 +0700" stop="20251229225500 +0700" channel="tvbvn">
+    <title lang="vi">Phim tập (2 tập) : Vạch Tội</title>
+    <desc lang="vi">Phim tập (2 tập) : Vạch Tội (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2025-12-28</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
+</tv>
