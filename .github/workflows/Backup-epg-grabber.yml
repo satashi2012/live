@@ -36,14 +36,14 @@ jobs:
       - name: Run EPG engine
         run: |
           mkdir -p epgs
-          python engine/Backup/Backup-epg-grabber.py
+          python engine/Backup/epg-grabber.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add epgs/Backup-epg.xml epgs/Backup-epg.xml.gz
+          git add epgs/epg.xml epgs/epg.xml.gz
 
           if git diff --staged --quiet; then
             echo "No changes"
