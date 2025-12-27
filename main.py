@@ -2,6 +2,7 @@ import requests
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 from pathlib import Path
+from xml.dom import minidom
 import xml.etree.ElementTree as ET
 
 # Timezone VN
@@ -64,6 +65,12 @@ add_programmes(style, "tv5.style")
 add_programmes(info, "tv5.info")
 
 Path("data").mkdir(exist_ok=True)
-ET.ElementTree(tv).write("data/epg.xml", encoding="utf-8", xml_declaration=True)
+raw = ET.tostring(tv, "utf-8")
+parsed = minidom.parseString(raw)
+pretty_xml = parsed.toprettyxml(indent="  ", encoding="utf-8")
+
+with open("data/epg.xml", "wb") as f:
+    f.write(pretty_xml)
 
 print("Saved: data/epg.xml")
+
