@@ -1,82 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Backup EPG" last-update="2025-12-28T03:16:00Z">
+<tv generator-info-name="Backup EPG" last-update="2025-12-28T06:50:35Z">
   <channel id="abcaustralia">
-    <display-name>ABC Australia</display-name>
-    <icon src="https://vnepg.site/logos/153.png" />
+    <display-name lang="vi">ABC Australia</display-name>
+    <icon src="http://trada.info/tv/logos/abcaustralia.jpg" />
   </channel>
-  <programme channel="abcaustralia" start="20251229230200 +0700" stop="20251230003200 +0700">
-    <title lang="vi">ABC News Mornings</title>
-    <desc lang="vi">Joe O'Brien guides you through the morning with a mix of the latest news, live crosses to ABC reporters on the scene as well as fast, accurate analysis with experts and guests.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X326832.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <channel id="afnhd">
-    <display-name>Asian Food Network</display-name>
-    <icon src="https://vnepg.site/logos/172.png" />
+    <display-name lang="vi">Asian Food Network</display-name>
+    <icon src="http://trada.info/tv/logos/afnhd.jpg" />
   </channel>
-  <programme channel="afnhd" start="20251228235500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Star Vs Food - Malaysia - S2 - Sao Làm Bếp - Malaysia (Mùa 2)</title>
-    <icon src="https://vnepg.site/logos/172.png" />
-  </programme>
-  <channel id="angiang1">
-    <display-name>An Giang 1</display-name>
-    <icon src="https://vnepg.site/logos/79.png" />
-  </channel>
-  <programme channel="angiang1" start="20251228231500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Giới thiệu chương trình</title>
-    <icon src="https://vnepg.site/logos/79.png" />
-  </programme>
-  <channel id="angiang2">
-    <display-name>An Giang 2</display-name>
-    <icon src="https://vnepg.site/logos/80.png" />
-  </channel>
-  <programme channel="angiang2" start="20251228225500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Giới thiệu chương trình ngày mai</title>
-    <icon src="https://vnepg.site/logos/80.png" />
-  </programme>
-  <channel id="angiang3">
-    <display-name>An Giang 3</display-name>
-    <icon src="https://vnepg.site/logos/81.png" />
-  </channel>
-  <programme channel="angiang3" start="20251228234500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Giới thiệu chương trình</title>
-    <icon src="https://vnepg.site/logos/81.png" />
-  </programme>
-  <channel id="angiangradio1">
-    <display-name>An Giang Radio 1</display-name>
-    <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO99.4.png" />
-  </channel>
-  <programme channel="angiangradio1" start="20251229000000 +0700" stop="20251229000100 +0700">
-    <title lang="vi">Sân khấu hài - Quảng cáo, giới thiệu chương trình</title>
-    <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO99.4.png" />
-  </programme>
-  <channel id="angiangradio2">
-    <display-name>An Giang Radio 2</display-name>
-    <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO-93.1.png" />
-  </channel>
-  <programme channel="angiangradio2" start="20251228213000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Đọc truyện ngắn</title>
-    <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO-93.1.png" />
-  </programme>
   <channel id="animalhd">
-    <display-name>Animal Planet</display-name>
-    <icon src="https://vnepg.site/logos/143.png" />
+    <display-name lang="en">Animal Planet</display-name>
+    <icon src="http://trada.info/tv/logos/animalhd.jpg" />
   </channel>
-  <programme channel="animalhd" start="20251229235500 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Sinh Tồn Nơi Hoang Dã</title>
-    <desc lang="vi">Survive The Wild (S1)</desc>
-    <icon src="https://vnepg.site/logos/143.png" />
-  </programme>
   <channel id="antvhd">
-    <display-name>ANTV</display-name>
-    <icon src="https://vnepg.site/logos/71.png" />
+    <display-name lang="vi">ANTV</display-name>
+    <icon src="http://trada.info/tv/logos/antvhd.jpg" />
   </channel>
-  <programme channel="antvhd" start="20251229235000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Nhân vật sự kiện (10)</title>
-    <desc lang="vi">Nơi tình người được nuôi dưỡng cùng kỷ luật thép</desc>
-    <icon src="https://vnepg.site/logos/71.png" />
-  </programme>
   <programme start="20251228000000 +0700" stop="20251228005500 +0700" channel="antvhd">
     <title lang="vi">Phim truyện 17h05: Người giàu cũng khóc, tập 25/65</title>
   </programme>
@@ -401,33 +340,14 @@
   <programme start="20251229233000 +0700" stop="20251229235000 +0700" channel="antvhd">
     <title lang="vi">Góc Nhìn Sự Thật: Hành Trình Của Đức Tin</title>
   </programme>
-  <channel id="anvienhd">
-    <display-name>Bình Dương 9</display-name>
-    <icon src="https://vnepg.site/logos/85.png" />
-  </channel>
-  <programme channel="anvienhd" start="20251228234000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Miền đất Phật - Huế - Bóng phật chốn kinh kỳ - Tập 2</title>
-    <icon src="https://vnepg.site/logos/85.png" />
-  </programme>
   <channel id="arirang">
-    <display-name>Arirang</display-name>
-    <icon src="https://vnepg.site/logos/152.png" />
+    <display-name lang="vi">Arirang</display-name>
+    <icon src="http://trada.info/tv/logos/arirang.jpg" />
   </channel>
-  <programme channel="arirang" start="20251229213000 +0700" stop="20251229220000 +0700">
-    <title lang="vi">DIPLOMAT'S ARCHIVE: HIDDEN STORIES #36</title>
-    <desc lang="vi">As of April 2025, S. Korea has established diplomatic relations with a total of 194 countries. Among them are countries that have had ties and exchanges with Korea for hundreds of years. With such long-standing relationships with so many nations, might there be fascinating hidden stories between Korea and the rest of the world that we don’t know yet? &amp;quot;Diplomat’s Archives: Hidden Stories&amp;quot; begins with this very question. Together with foreign embassies in Korea, the series uncovers and sheds light on meaningful yet lesser-known stories between Korea and other countries. Through this, we aim to reaffirm the deep friendships that have been built over time, highlight how countries are interconnected—bilaterally and multilaterally— and emphasize the importance of cooperation on the global stage today.</desc>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202504/2985531324875408146.jpg" />
-    <category lang="vi">Current Affairs</category>
-  </programme>
   <channel id="axnhd">
-    <display-name>AXN</display-name>
-    <icon src="https://vnepg.site/logos/163.png" />
+    <display-name lang="en">AXN</display-name>
+    <icon src="http://trada.info/tv/logos/axnhd.jpg" />
   </channel>
-  <programme channel="axnhd" start="20251229231500 +0700" stop="20251229235900 +0700">
-    <title lang="vi">M3Gan</title>
-    <desc lang="vi">M3Gan</desc>
-    <icon src="https://vnepg.site/logos/163.png" />
-  </programme>
   <programme start="20251228003000 +0700" stop="20251228023000 +0700" channel="axnhd">
     <title lang="en">Mega Film Asia</title>
   </programme>
@@ -525,34 +445,13 @@
     <title lang="en">Indosiar</title>
   </programme>
   <channel id="bacninh">
-    <display-name>Bắc Ninh</display-name>
-    <icon src="https://vnepg.site/logos/82.png" />
+    <display-name lang="vi">Bắc Ninh</display-name>
+    <icon src="http://trada.info/tv/logos/bacninh.jpg" />
   </channel>
-  <programme channel="bacninh" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim tài liệu</title>
-    <desc lang="vi">Hà Nội những ngày khói lửa</desc>
-    <icon src="https://vnepg.site/logos/82.png" />
-  </programme>
-  <channel id="bacninhradio">
-    <display-name>Bắc Ninh Radio</display-name>
-    <icon src="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg" />
-  </channel>
-  <programme channel="bacninhradio" start="20251229220000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Đọc truyện</title>
-    <desc lang="vi">Tiểu thuyết: Dấu chân người lính - Phần 25</desc>
-    <icon src="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg" />
-  </programme>
   <channel id="bbcearth">
-    <display-name>BBC Earth</display-name>
-    <icon src="https://vnepg.site/logos/148.png" />
+    <display-name lang="en">BBC Earth</display-name>
+    <icon src="http://trada.info/tv/logos/bbcearth.jpg" />
   </channel>
-  <programme channel="bbcearth" start="20251229234000 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Bí Ẩn Cuộc Sống Của Cây</title>
-    <desc lang="vi">Ngay cả cây sồi mạnh mẽ nhất cũng phải bắt đầu cuộc sống như một quả sồi nhỏ bé. Chúng tôi khám phá cuộc sống bí mật của những cây non, khám phá cách chúng biến đổi một cách kỳ diệu từ những hạt giống nhỏ thành những cây trưởng thành. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000542X914937.jpg" />
-    <category lang="vi">Thực tế &amp;amp; Tài liệu</category>
-    <category lang="vi">Phim tài liệu</category>
-  </programme>
   <programme start="20251228002500 +0700" stop="20251228011500 +0700" channel="bbcearth">
     <title lang="en">Big Adv.: Mississippi</title>
     <episode-num system="onscreen">S1 E1</episode-num>
@@ -786,16 +685,9 @@
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <channel id="bbclifestyle">
-    <display-name>BBC Lifestyle</display-name>
-    <icon src="https://vnepg.site/logos/149.png" />
+    <display-name lang="en">BBC Life Style</display-name>
+    <icon src="http://trada.info/tv/logos/bbclifestyle.jpg" />
   </channel>
-  <programme channel="bbclifestyle" start="20251229232500 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Các Món Ăn Dubai Của Jason Atherton</title>
-    <desc lang="vi">Jason đang có chuyến du lịch sức khỏe ra khỏi Dubai để khám phá vẻ đẹp của sa mạc, còn Ranvir Singh nếm thử những loài hoa ăn được và gặp một đầu bếp thuần chay là bậc thầy về nấm. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000541X926524.jpg" />
-    <category lang="vi">Phong cách sống, Giải trí, Sở thích</category>
-    <category lang="vi">Đồ ăn</category>
-  </programme>
   <programme start="20251228004500 +0700" stop="20251228012000 +0700" channel="bbclifestyle">
     <title lang="en">My Unique B&amp;b S2E3</title>
     <sub-title lang="en">Ruben's Cob House</sub-title>
@@ -1083,25 +975,13 @@
     <category lang="en">Variety</category>
   </programme>
   <channel id="bloomberg">
-    <display-name>Bloomberg</display-name>
-    <icon src="https://vnepg.site/logos/154.png" />
+    <display-name lang="vi">Bloomberg</display-name>
+    <icon src="http://trada.info/tv/logos/bloomberg.jpg" />
   </channel>
-  <programme channel="bloomberg" start="20251229233200 +0700" stop="20251230000200 +0700">
-    <title lang="vi">Bloomberg Primer</title>
-    <desc lang="vi">Scientists and entrepreneurs are testing radical ideas like solar radiation management and ocean fertilisation - and finding funding for it.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000522X883747.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <channel id="boomerang">
-    <display-name>Cartoonito</display-name>
-    <icon src="https://www.diversetechgeek.com/wp-content/uploads/2021/09/cartoonito_logo.jpeg" />
+    <display-name lang="vi">Boomerang</display-name>
+    <icon src="http://trada.info/tv/logos/boomerang.jpg" />
   </channel>
-  <programme channel="boomerang" start="20251229210000 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Đội Chế Tạo Mecha</title>
-    <desc lang="vi">Mecha Builders</desc>
-    <icon src="https://www.diversetechgeek.com/wp-content/uploads/2021/09/cartoonito_logo.jpeg" />
-  </programme>
   <programme start="20251228000000 +0700" stop="20251228010000 +0700" channel="boomerang">
     <title lang="vi">Ella Giữa Những Vì Sao Xa</title>
   </programme>
@@ -1340,88 +1220,25 @@
     <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
   </programme>
   <channel id="boxhits">
-    <display-name>Box Hits</display-name>
-    <icon src="https://vnepg.site/logos/134.png" />
+    <display-name lang="vi">Box Hits</display-name>
+    <icon src="http://trada.info/tv/logos/boxhits.jpg" />
   </channel>
-  <programme channel="boxhits" start="20251229225800 +0700" stop="20251230005700 +0700">
-    <title lang="vi">Cao ốc - High-Rise</title>
-    <desc lang="vi">Câu chuyện có thật về một chàng trai trẻ bị buộc tội hiếp dâm và bị kết án sáu năm trong nhà tù an ninh tối đa. Anh ta phải dựa vào các kỹ năng sinh tồn và mối liên kết khó có thể xảy ra với một tù nhân khét tiếng để chứng minh mình vô tội và lấy lại tự do.</desc>
-    <icon src="https://image.tmdb.org/t/p/original/3j9jb4v4LxlDptmFCNCSxMlDcrt.jpg" />
-    <category lang="vi">Phim Hình Sự</category>
-    <category lang="vi">Phim Gây Cấn</category>
-    <category lang="vi">Phim Chính Kịch</category>
-  </programme>
   <channel id="boxmovie1">
-    <display-name>Box Movies 1</display-name>
-    <icon src="https://vnepg.site/logos/131.png" />
+    <display-name lang="vi">BOX Movie 1</display-name>
+    <icon src="http://trada.info/tv/logos/boxmovie1.jpg" />
   </channel>
-  <programme channel="boxmovie1" start="20251229232800 +0700" stop="20251230011900 +0700">
-    <title lang="vi">ĐƯỜNG VỀ - The Way Back</title>
-    <desc lang="vi">Bộ phim kể về một cựu hiện tượng bóng rổ HS, đấu tranh với chứng nghiện rượu, được mời làm công việc huấn luyện tại trường cũ của mình. Khi đội bắt đầu chiến thắng, anh ta có thể có lý do để đối đầu với những con quỷ cũ của mình. Nhưng nó sẽ đủ để đặt anh ta trên con đường cứu chuộc?</desc>
-    <icon src="https://image.tmdb.org/t/p/original/iTLGqoHkiSqUts9nPIdYLPtOz8C.jpg" />
-    <category lang="vi">Phim Chính Kịch</category>
-  </programme>
   <channel id="camau">
-    <display-name>Cà Mau</display-name>
-    <icon src="https://vnepg.site/logos/89.png" />
+    <display-name lang="vi">Cà Mau</display-name>
+    <icon src="http://trada.info/tv/logos/camau.jpg" />
   </channel>
-  <programme channel="camau" start="20251228233000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Phim truyện Việt Nam</title>
-    <desc lang="vi">Những người viết huyền thoại (Phần 1)</desc>
-    <icon src="https://vnepg.site/logos/89.png" />
-  </programme>
-  <channel id="camauradio">
-    <display-name>Cà Mau Radio</display-name>
-    <icon src="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg" />
-  </channel>
-  <programme channel="camauradio" start="20251228221000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Sân khấu truyền thanh (P2)</title>
-    <icon src="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg" />
-  </programme>
-  <channel id="cantho1">
-    <display-name>Cần Thơ 1</display-name>
-    <icon src="https://vnepg.site/logos/86.png" />
-  </channel>
-  <programme channel="cantho1" start="20251229233000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Phim truyện Philippines</title>
-    <desc lang="vi">MẬT MÃ SONG SINH 3– Tập 22/47</desc>
-    <icon src="https://vnepg.site/logos/86.png" />
-  </programme>
-  <channel id="cantho2">
-    <display-name>Cần Thơ 2</display-name>
-    <icon src="https://vnepg.site/logos/87.png" />
-  </channel>
-  <programme channel="cantho2" start="20251228230000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Chương trình nghệ thuật Khai mạc Lễ hội Văn hóa Sông nước Cần Thơ 2025 – Phần 1</title>
-    <icon src="https://vnepg.site/logos/87.png" />
-  </programme>
-  <channel id="cantho3">
-    <display-name>Cần Thơ 3</display-name>
-    <icon src="https://vnepg.site/logos/88.png" />
-  </channel>
-  <programme channel="cantho3" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Sân khấu cải lương</title>
-    <icon src="https://vnepg.site/logos/88.png" />
-  </programme>
   <channel id="caobang">
-    <display-name>Cao Bằng</display-name>
-    <icon src="https://vnepg.site/logos/90.png" />
+    <display-name lang="vi">Cao Bằng</display-name>
+    <icon src="http://trada.info/tv/logos/caobang.jpg" />
   </channel>
-  <programme channel="caobang" start="20251229223000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Giới thiệu chương trình</title>
-    <icon src="https://vnepg.site/logos/90.png" />
-  </programme>
   <channel id="cartoonhd">
-    <display-name>Cartoon Network</display-name>
-    <icon src="https://vnepg.site/logos/140.png" />
+    <display-name lang="vi">Cartoon Network</display-name>
+    <icon src="http://trada.info/tv/logos/cartoonhd.jpg" />
   </channel>
-  <programme channel="cartoonhd" start="20251229231500 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Steven Universe</title>
-    <desc lang="vi">Steven cố gắng tránh mặt Connie. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/982X17090.jpg" />
-    <category lang="vi">Trẻ em</category>
-    <category lang="vi">Hoạt hình</category>
-  </programme>
   <programme start="20251228000000 +0700" stop="20251228010000 +0700" channel="cartoonhd">
     <title lang="vi">Chương Trình Thường Nhật</title>
   </programme>
@@ -1638,47 +1455,10 @@
   <programme start="20251229221500 +0700" stop="20251229231500 +0700" channel="cartoonhd">
     <title lang="vi">Giờ Phiêu Lưu</title>
   </programme>
-  <channel id="cgtn">
-    <display-name>CGTN</display-name>
-    <icon src="https://linear-poster.astro.com.my/prod/poster/ivp_default_1121_IVP_LAND_586x330.jpg" />
-  </channel>
-  <programme channel="cgtn" start="20251229233300 +0700" stop="20251230000300 +0700">
-    <title lang="vi">The World Today Ep619</title>
-    <desc lang="vi">Catch up live coverage, in-depth reporting, expert analysis and sustained coverage as The World Today keeps viewers up-to-date with all the world's top stories as they happen.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1121X134138.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Magazine</category>
-  </programme>
-  <channel id="cgtndocu">
-    <display-name>CGTN Documentary</display-name>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/CGTN_DOC_IVP_LAND_917x516.jpg" />
-  </channel>
-  <programme channel="cgtndocu" start="20251229234000 +0700" stop="20251230001000 +0700">
-    <title lang="vi">Victory 1931-1945 Ep10</title>
-    <desc lang="vi">A documentary series featuring historical and archaeological exploration.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000732X931516.jpg" />
-    <category lang="vi">Factual &amp;amp; Documentary</category>
-    <category lang="vi">Documentary</category>
-  </programme>
-  <channel id="cinemaworldhd">
-    <display-name>Cinema World</display-name>
-    <icon src="https://vnepg.site/logos/164.png" />
-  </channel>
-  <programme channel="cinemaworldhd" start="20251228224500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">CONFETTI - HOA GIẤY</title>
-    <icon src="https://vnepg.site/logos/164.png" />
-  </programme>
   <channel id="cinemaxhd">
-    <display-name>Cinemax</display-name>
-    <icon src="https://vnepg.site/logos/130.png" />
+    <display-name lang="en">Cinemax</display-name>
+    <icon src="http://trada.info/tv/logos/cinemaxhd.jpg" />
   </channel>
-  <programme channel="cinemaxhd" start="20251229220000 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Chúa Tể Những Chiếc Nhẫn: Hiệp Hội Của Nhẫn</title>
-    <desc lang="vi">Frodo Baggins, một người Hobbit, chiến đấu chống lại Chúa tể bóng tối Sauron để cứu thế giới của anh ta, Trung Địa, khỏi sự kìm kẹp của cái ác. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X155027.jpg" />
-    <category lang="vi">Phim</category>
-    <category lang="vi">Kịch</category>
-  </programme>
   <programme start="20251228012000 +0700" stop="20251228030600 +0700" channel="cinemaxhd">
     <title lang="en">Platinum</title>
   </programme>
@@ -1754,113 +1534,41 @@
   <programme start="20251229222500 +0700" stop="20251230004200 +0700" channel="cinemaxhd">
     <title lang="en">Platinum</title>
   </programme>
-  <channel id="cna">
-    <display-name>CNA</display-name>
-    <icon src="https://vnepg.site/logos/157.png" />
-  </channel>
-  <programme channel="cna" start="20251229233200 +0700" stop="20251230000200 +0700">
-    <title lang="vi">Singapore After Work</title>
-    <desc lang="vi">After work, oncology counsellor Huibing is a running buddy to people with disabilities and special needs. Human resource executive Hsin Ching finds joy working with horses every week.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_10000336_IVP_LAND_917x516.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
-  <channel id="cnbc">
-    <display-name>CNBC</display-name>
-    <icon src="https://vnepg.site/logos/155.png" />
-  </channel>
-  <programme channel="cnbc" start="20251229230200 +0700" stop="20251230000200 +0700">
-    <title lang="vi">U.S. Markets Edition</title>
-    <desc lang="vi">U.S. Markets Edition will deliver key takeaways from the most impactful interviews and insights from CNBC's programming in the US.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/CNBC_2025_IVP_LAND_917x516.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Discussion / Interview / Debate</category>
-  </programme>
   <channel id="cnn">
-    <display-name>CNN</display-name>
-    <icon src="https://vnepg.site/logos/156.png" />
+    <display-name lang="vi">CNN</display-name>
+    <icon src="http://trada.info/tv/logos/cnn.jpg" />
   </channel>
-  <programme channel="cnn" start="20251229230200 +0700" stop="20251230000200 +0700">
-    <title lang="vi">The Brief With Jim Sciutto</title>
-    <desc lang="vi">The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000370X890088.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <channel id="daklak">
-    <display-name>Đắk Lắk</display-name>
-    <icon src="https://vnepg.site/logos/91.png" />
+    <display-name lang="vi">Đăk Lăk</display-name>
+    <icon src="http://trada.info/tv/logos/daklak.jpg" />
   </channel>
-  <programme channel="daklak" start="20251228235900 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Giới thiệu chương trình cuối tối</title>
-    <icon src="https://vnepg.site/logos/91.png" />
-  </programme>
-  <channel id="daklakradio">
-    <display-name>Đắk Lắk Radio</display-name>
-    <icon src="https://drt.vn/upload/files/backgroud_phat_thanh.png" />
-  </channel>
-  <programme channel="daklakradio" start="20251228232000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Blog âm nhạc</title>
-    <icon src="https://drt.vn/upload/files/backgroud_phat_thanh.png" />
-  </programme>
   <channel id="danang1">
-    <display-name>Đà Nẵng 1</display-name>
-    <icon src="https://vnepg.site/logos/93.png" />
+    <display-name lang="vi">Đà Nẵng 1</display-name>
+    <icon src="http://trada.info/tv/logos/danang1.jpg" />
   </channel>
-  <programme channel="danang1" start="20251228233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim tài liệu - Biên giới Tây Nam - Tập 10 Hết</title>
-    <icon src="https://vnepg.site/logos/93.png" />
-  </programme>
   <channel id="danang2">
-    <display-name>Đà Nẵng 2</display-name>
-    <icon src="https://vnepg.site/logos/94.png" />
+    <display-name lang="vi">Đà Nẵng 2</display-name>
+    <icon src="http://trada.info/tv/logos/danang2.jpg" />
   </channel>
-  <programme channel="danang2" start="20251228233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Văn hóa dân tộc - Lễ hội bên dòng sông thiêng</title>
-    <icon src="https://vnepg.site/logos/94.png" />
-  </programme>
   <channel id="davinci">
-    <display-name>DaVinci</display-name>
-    <icon src="https://vnepg.site/logos/142.png" />
+    <display-name lang="vi">DaVinci</display-name>
+    <icon src="http://trada.info/tv/logos/davinci.jpg" />
   </channel>
-  <programme channel="davinci" start="20251228235400 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Khoa Học Bất Ngờ</title>
-    <desc lang="vi">Chỉ Huy Đáng Kính</desc>
-    <icon src="https://vnepg.site/logos/142.png" />
-  </programme>
   <channel id="dienbien">
-    <display-name>Điện Biên</display-name>
-    <icon src="https://vnepg.site/logos/92.png" />
+    <display-name lang="vi">Điện Biên</display-name>
+    <icon src="http://trada.info/tv/logos/dienbien.jpg" />
   </channel>
-  <programme channel="dienbien" start="20251229235500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Giới thiệu chương trình ngày hôm sau</title>
-    <icon src="https://vnepg.site/logos/92.png" />
-  </programme>
   <channel id="discoveryasiahd">
-    <display-name>Discovery Asia</display-name>
-    <icon src="https://vnepg.site/logos/145.png" />
+    <display-name lang="vi">Discovery Asia</display-name>
+    <icon src="http://trada.info/tv/logos/discoveryasiahd.jpg" />
   </channel>
-  <programme channel="discoveryasiahd" start="20251229234500 +0700" stop="20251230003500 +0700">
-    <title lang="vi">On the Edge of Chaos: Reimagining a Hong Kong Icon</title>
-    <desc lang="vi">We follow the renovation team as they embark on a mission to breathe a new life into The Magistracy, Hong Kong's former central courthouse.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000068X933168.jpg" />
-    <category lang="vi">Factual &amp;amp; Documentary</category>
-    <category lang="vi">Documentary</category>
-  </programme>
   <channel id="discoveryhd">
-    <display-name>Discovery</display-name>
-    <icon src="https://vnepg.site/logos/144.png" />
+    <display-name lang="vi">Discovery Channel</display-name>
+    <icon src="http://trada.info/tv/logos/discoveryhd.jpg" />
   </channel>
-  <programme channel="discoveryhd" start="20251229225000 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Đào Vàng Ở Biển Bering</title>
-    <desc lang="vi">Căng thẳng bùng nổ về vụ kiện Tomcod! Chris có hành động quyết liệt chống lại một tàu nạo vét mà anh tin rằng đang vi phạm yêu sách của mình. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000382X861786.jpg" />
-    <category lang="vi">Thực tế &amp;amp; Tài liệu</category>
-    <category lang="vi">Phim tài liệu</category>
-  </programme>
   <channel id="dmax">
-    <display-name>DMAX</display-name>
-    <icon src="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1200x1200x0/cmc_new/img.live_channel/0/0/0/0/271.jpg" />
+    <display-name lang="en">DMAX</display-name>
+    <icon src="http://trada.info/tv/logos/dmax.jpg" />
   </channel>
   <programme start="20251228000500 +0700" stop="20251228005000 +0700" channel="dmax">
     <title lang="en">Twin Turbos S1E1</title>
@@ -2169,216 +1877,61 @@
     <category lang="en">Infotainment</category>
   </programme>
   <channel id="dongnai1">
-    <display-name>Đồng Nai 1</display-name>
-    <icon src="https://vnepg.site/logos/95.png" />
+    <display-name lang="vi">Đồng Nai 1</display-name>
+    <icon src="http://trada.info/tv/logos/dongnai1.jpg" />
   </channel>
-  <programme channel="dongnai1" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">PHIM TÀI LIỆU</title>
-    <desc lang="vi">GIỜ</desc>
-    <icon src="https://vnepg.site/logos/95.png" />
-  </programme>
   <channel id="dongnai2">
-    <display-name>Đồng Nai 2</display-name>
-    <icon src="https://vnepg.site/logos/96.png" />
+    <display-name lang="vi">Đồng Nai 2</display-name>
+    <icon src="http://trada.info/tv/logos/dongnai2.jpg" />
   </channel>
-  <programme channel="dongnai2" start="20251229231000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phát lại Tọa đàm</title>
-    <icon src="https://vnepg.site/logos/96.png" />
-  </programme>
-  <channel id="dongnai3">
-    <display-name>Đồng Nai 3</display-name>
-    <icon src="https://vnepg.site/logos/174.png" />
-  </channel>
-  <channel id="dongnairadio">
-    <display-name>Đồng Nai Radio</display-name>
-    <icon src="https://1288372527.pop.vnptcdn.com/assets/thumbnail/2025/08/01/sqzoonhn_logo-channel-Dong-nai357c9d92c747edc7343d3c68c2e51667.png" />
-  </channel>
-  <channel id="dongthap1">
-    <display-name>Đồng Tháp 1</display-name>
-    <icon src="https://vnepg.site/logos/97.png" />
-  </channel>
-  <programme channel="dongthap1" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Thời sự</title>
-    <icon src="https://vnepg.site/logos/97.png" />
-  </programme>
-  <channel id="dongthap2">
-    <display-name>Đồng Tháp 2</display-name>
-    <icon src="https://vnepg.site/logos/98.png" />
-  </channel>
-  <programme channel="dongthap2" start="20251228231500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Ca nhạc</title>
-    <icon src="https://vnepg.site/logos/98.png" />
-  </programme>
-  <channel id="dongthapradio">
-    <display-name>Đồng Tháp Radio</display-name>
-    <icon src="https://quantri.thdt.vn/wp-content/uploads/2023/08/radio.jpg" />
-  </channel>
-  <programme channel="dongthapradio" start="20251228213000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Đọc truyện</title>
-    <icon src="https://quantri.thdt.vn/wp-content/uploads/2023/08/radio.jpg" />
-  </programme>
   <channel id="dreamworks">
-    <display-name>Dreamworks</display-name>
-    <icon src="https://vnepg.site/logos/141.png" />
+    <display-name lang="vi">DreamWorks</display-name>
+    <icon src="http://trada.info/tv/logos/dreamworks.jpg" />
   </channel>
   <channel id="drfithd">
-    <display-name>Dr. Fit</display-name>
-    <icon src="https://vnepg.site/logos/136.png" />
+    <display-name lang="vi">Dr.Fit</display-name>
+    <icon src="http://trada.info/tv/logos/drfithd.jpg" />
   </channel>
-  <programme channel="drfithd" start="20251229000000 +0700" stop="20251229000000 +0700">
-    <title lang="vi">108</title>
-    <icon src="https://vnepg.site/logos/136.png" />
-  </programme>
   <channel id="dw">
-    <display-name>DW</display-name>
-    <icon src="https://vnepg.site/logos/158.png" />
+    <display-name lang="vi">DW</display-name>
+    <icon src="http://trada.info/tv/logos/dw.jpg" />
   </channel>
-  <programme channel="dw" start="20251229233000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Close up</title>
-    <desc lang="vi">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, 'Close up' is informative, gripping and visually powerful</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000317X373577.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <channel id="fashionhd">
-    <display-name>FashionTV</display-name>
-    <icon src="https://vnepg.site/logos/165.png" />
+    <display-name lang="vi">Fashion TV</display-name>
+    <icon src="http://trada.info/tv/logos/fashionhd.jpg" />
   </channel>
-  <programme channel="fashionhd" start="20251229234000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">LINGERIE - NỘI Y</title>
-    <icon src="https://vnepg.site/logos/165.png" />
-  </programme>
   <channel id="france24eng">
-    <display-name>France 24</display-name>
-    <icon src="https://vnepg.site/logos/159.png" />
+    <display-name lang="vi">France 24 English</display-name>
+    <icon src="http://trada.info/tv/logos/france24eng.jpg" />
   </channel>
-  <programme channel="france24eng" start="20251229235200 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Entre Nous</title>
-    <desc lang="vi">Entre Nous</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000318X792534.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Magazine</category>
-  </programme>
   <channel id="gialai">
-    <display-name>Gia Lai</display-name>
-    <icon src="https://vnepg.site/logos/99.png" />
+    <display-name lang="vi">Gia Lai</display-name>
+    <icon src="http://trada.info/tv/logos/gialai.jpg" />
   </channel>
-  <programme channel="gialai" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Bản tin GTV News</title>
-    <icon src="https://vnepg.site/logos/99.png" />
-  </programme>
   <channel id="haiphong">
-    <display-name>Hải Phòng</display-name>
-    <icon src="https://vnepg.site/logos/103.png" />
+    <display-name lang="vi">Hải Phòng</display-name>
+    <icon src="http://trada.info/tv/logos/haiphong.jpg" />
   </channel>
-  <programme channel="haiphong" start="20251228234500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Phim truyện Việt Nam</title>
-    <desc lang="vi">Kẻ sát nhân cô độc (Phần 1 - Tập 24)</desc>
-    <icon src="https://vnepg.site/logos/103.png" />
-  </programme>
-  <channel id="haiphong1022">
-    <display-name>Hải Phòng FM 102.2</display-name>
-    <icon src="https://media.thhp.vn/upload/channel/f600e570fb8a372fd4000ce3a786975a.png" />
-  </channel>
-  <programme channel="haiphong1022" start="20251228200000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Nhạc kết</title>
-    <icon src="https://media.thhp.vn/upload/channel/f600e570fb8a372fd4000ce3a786975a.png" />
-  </programme>
-  <channel id="haiphong3">
-    <display-name>Hải Phòng 3</display-name>
-    <icon src="https://vnepg.site/logos/105.png" />
-  </channel>
-  <programme channel="haiphong3" start="20251229231500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim truyện</title>
-    <icon src="https://vnepg.site/logos/105.png" />
-  </programme>
-  <channel id="haiphong937">
-    <display-name>Hải Phòng FM 93.7</display-name>
-    <icon src="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg" />
-  </channel>
-  <programme channel="haiphong937" start="20251228233000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Nhạc kết và lời chào hết chương trình</title>
-    <icon src="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg" />
-  </programme>
-  <channel id="haiphongplus">
-    <display-name>Hải Phòng+</display-name>
-    <icon src="https://vnepg.site/logos/104.png" />
-  </channel>
-  <programme channel="haiphongplus" start="20251228230000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Biển đảo Việt Nam</title>
-    <desc lang="vi">Vươn khơi giữ vững ngư trường</desc>
-    <icon src="https://vnepg.site/logos/104.png" />
-  </programme>
   <channel id="hanoi1">
-    <display-name>Hà Nội 1</display-name>
-    <icon src="https://vnepg.site/logos/100.png" />
+    <display-name lang="vi">Hà Nội 1</display-name>
+    <icon src="http://trada.info/tv/logos/hanoi1.jpg" />
   </channel>
-  <programme channel="hanoi1" start="20251228233500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Chuyện ở ngoại thành</title>
-    <desc lang="vi">Kết nối nông lâm thủy sản Hà Nội với các tỉnh thành</desc>
-    <icon src="https://vnepg.site/logos/100.png" />
-  </programme>
   <channel id="hanoi2">
-    <display-name>Hà Nội 2</display-name>
-    <icon src="https://vnepg.site/logos/101.png" />
+    <display-name lang="vi">Hà Nội 2</display-name>
+    <icon src="http://trada.info/tv/logos/hanoi2.jpg" />
   </channel>
-  <programme channel="hanoi2" start="20251228233500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Truyền hình Quốc phòng Thủ đô</title>
-    <icon src="https://vnepg.site/logos/101.png" />
-  </programme>
-  <channel id="hanoi90">
-    <display-name>Hà Nội FM90</display-name>
-    <icon src="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/ZDJCR2V8J9QT.jpg" />
-  </channel>
-  <programme channel="hanoi90" start="20251228223000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Đọc truyện đêm khuya</title>
-    <desc lang="vi">Tiểu thuyết &amp;quot;Một thế giới không có đàn bà&amp;quot; (Phần 8) - Nhà văn Bùi Anh Tấn</desc>
-    <icon src="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/ZDJCR2V8J9QT.jpg" />
-  </programme>
-  <channel id="hanoi96">
-    <display-name>Hà Nội FM96</display-name>
-    <icon src="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/PVBHDT4A5DFI.jpg" />
-  </channel>
-  <programme channel="hanoi96" start="20251228223000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Đọc truyện đêm khuya</title>
-    <desc lang="vi">Tiểu thuyết &amp;quot;Một thế giới không có đàn bà&amp;quot; (Phần 8) - Nhà văn Bùi Anh Tấn</desc>
-    <icon src="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/PVBHDT4A5DFI.jpg" />
-  </programme>
   <channel id="happykids">
-    <display-name>Happy Kids</display-name>
-    <icon src="https://vnepg.site/logos/137.png" />
+    <display-name lang="vi">Happy Kids</display-name>
+    <icon src="http://trada.info/tv/logos/happykids.jpg" />
   </channel>
-  <programme channel="happykids" start="20251229053500 +0700" stop="20251229235900 +0700">
-    <title lang="vi">The Deep S02</title>
-    <icon src="https://vnepg.site/logos/137.png" />
-  </programme>
   <channel id="hatinh">
-    <display-name>Hà Tĩnh</display-name>
-    <icon src="https://vnepg.site/logos/102.png" />
+    <display-name lang="vi">Hà Tĩnh</display-name>
+    <icon src="http://trada.info/tv/logos/hatinh.jpg" />
   </channel>
-  <programme channel="hatinh" start="20251228235900 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Hẹn gặp lại</title>
-    <icon src="https://vnepg.site/logos/102.png" />
-  </programme>
-  <channel id="hatinhradio">
-    <display-name>Hà Tĩnh Radio</display-name>
-    <icon src="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg" />
-  </channel>
-  <programme channel="hatinhradio" start="20251229180000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Tiếp sóng VOV1</title>
-    <icon src="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg" />
-  </programme>
   <channel id="hbofamily">
-    <display-name>HBO Family</display-name>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Family_IVP_LAND_586x330.jpg" />
+    <display-name lang="en">HBO Family</display-name>
+    <icon src="http://trada.info/tv/logos/hbofamily.jpg" />
   </channel>
-  <programme channel="hbofamily" start="20251229231000 +0700" stop="20251230002000 +0700">
-    <title lang="vi">REGULAR SHOW: The MOVIE</title>
-    <desc lang="vi">After accidentally creating a Timenado, two slacker groundskeepers have to go back in time and battle an evil volleyball coach in order to save the universe... and their friendship.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000151X20833.jpg" />
-    <category lang="vi">Movie</category>
-    <category lang="vi">Animation</category>
-  </programme>
   <programme start="20251228004100 +0700" stop="20251228013100 +0700" channel="hbofamily">
     <title lang="en">Silver</title>
   </programme>
@@ -2467,16 +2020,9 @@
     <title lang="en">Silver</title>
   </programme>
   <channel id="hbohd">
-    <display-name>HBO</display-name>
-    <icon src="https://vnepg.site/logos/129.png" />
+    <display-name lang="en">HBO</display-name>
+    <icon src="http://trada.info/tv/logos/hbohd.jpg" />
   </channel>
-  <programme channel="hbohd" start="20251229225000 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Joker: Điên Có Đôi</title>
-    <desc lang="vi">Trong khi đấu tranh với danh tính kép của mình, Arthur Fleck tình cờ gặp được tình yêu đích thực và tìm thấy âm nhạc bên trong mình. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X884209.jpg" />
-    <category lang="vi">Phim</category>
-    <category lang="vi">Kịch</category>
-  </programme>
   <programme start="20251228012100 +0700" stop="20251228025900 +0700" channel="hbohd">
     <title lang="en">Platinum</title>
   </programme>
@@ -2553,16 +2099,9 @@
     <title lang="en">Beyond The Sky</title>
   </programme>
   <channel id="hbohits">
-    <display-name>HBO Hits</display-name>
-    <icon src="https://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_586x330.jpg" />
+    <display-name lang="en">HBO Hits</display-name>
+    <icon src="http://trada.info/tv/logos/hbohits.jpg" />
   </channel>
-  <programme channel="hbohits" start="20251229212500 +0700" stop="20251230000000 +0700">
-    <title lang="vi">WICKED</title>
-    <desc lang="vi">The untold story of the Witches of Oz, spotlighting the untold stories of Oz's most infamous characters.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X891871.jpg" />
-    <category lang="vi">Movie</category>
-    <category lang="vi">Romance</category>
-  </programme>
   <programme start="20251228003600 +0700" stop="20251228025600 +0700" channel="hbohits">
     <title lang="en">Platinum</title>
   </programme>
@@ -2639,166 +2178,55 @@
     <title lang="en">A Day To Die</title>
   </programme>
   <channel id="hgtv">
-    <display-name>HGTV</display-name>
-    <icon src="https://vnepg.site/logos/166.png" />
+    <display-name lang="vi">HGTV</display-name>
+    <icon src="http://trada.info/tv/logos/hgtv.jpg" />
   </channel>
-  <programme channel="hgtv" start="20251229234500 +0700" stop="20251230001000 +0700">
-    <title lang="vi">House Hunters International S197 Ep07</title>
-    <desc lang="vi">A travel-loving couple from New Zealand makes the most of an unexpected job loss with a family move to Phnom Penh, Cambodia.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000227X932372.jpg" />
-    <category lang="vi">Lifestyle, Leisure, Hobbies</category>
-    <category lang="vi">Home</category>
-  </programme>
   <channel id="historyhd">
-    <display-name>History Channel</display-name>
-    <icon src="https://vnepg.site/logos/147.png" />
+    <display-name lang="vi">History</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
   </channel>
-  <programme channel="historyhd" start="20251229231000 +0700" stop="20251230000500 +0700">
-    <title lang="vi">The UnBelievable With Dan Aykroyd S1 Ep07</title>
-    <desc lang="vi">Imagine free falling 30,000 feet without a parachute, or being buried alive and living to tell the tale. Or... what about getting trapped in a tiny room inside a sunken ship on the ocean floor...</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000017X820335.jpg" />
-    <category lang="vi">Factual &amp;amp; Documentary</category>
-    <category lang="vi">Documentary</category>
-  </programme>
   <channel id="hitv">
-    <display-name>HiTV</display-name>
-    <icon src="https://vnepg.site/logos/73.png" />
+    <display-name lang="vi">HITV</display-name>
   </channel>
-  <programme channel="hitv" start="20251229233400 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Tiểu Phẩm Hài</title>
-    <desc lang="vi">Làng Văn Hóa Xuất Sắc</desc>
-    <icon src="https://vnepg.site/logos/73.png" />
-  </programme>
   <channel id="hollywoodclassics">
-    <display-name>Hollywood Classics</display-name>
-    <icon src="https://vnepg.site/logos/132.png" />
+    <display-name lang="vi">Hollywood Classics</display-name>
   </channel>
-  <programme channel="hollywoodclassics" start="20251229220300 +0700" stop="20251230002000 +0700">
-    <title lang="vi">Người nhện 3 - Spider-Man 3</title>
-    <desc lang="vi">Peter Parker đã bị lộ mặt và không còn có thể tách biệt cuộc sống bình thường của mình với những yêu cầu cao của việc trở thành một Siêu anh hùng. Khi anh ta yêu cầu sự giúp đỡ từ Doctor Strange, mọi thứ càng trở nên nguy hiểm hơn, buộc anh ta phải khám phá ra ý nghĩa thực sự của việc trở thành Người Nhện.</desc>
-    <icon src="https://image.tmdb.org/t/p/original/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg" />
-    <category lang="vi">Phim Hành Động</category>
-    <category lang="vi">Phim Phiêu Lưu</category>
-    <category lang="vi">Phim Khoa Học Viễn Tưởng</category>
-  </programme>
   <channel id="htv1">
-    <display-name>HTV1</display-name>
-    <icon src="https://vnepg.site/logos/32.png" />
+    <display-name lang="vi">HTV1</display-name>
   </channel>
-  <programme channel="htv1" start="20251228234500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Vườn Sao Mai</title>
-    <icon src="https://vnepg.site/logos/32.png" />
-  </programme>
   <channel id="htv2hd">
-    <display-name>HTV2 - Vie Channel</display-name>
-    <icon src="https://vnepg.site/logos/33.png" />
+    <display-name lang="vi">HTV2</display-name>
   </channel>
-  <programme channel="htv2hd" start="20251228233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim truyện VN (71T)</title>
-    <desc lang="vi">Cây táo nở hoa - Tập 37</desc>
-    <icon src="https://vnepg.site/logos/33.png" />
-  </programme>
   <channel id="htv3">
-    <display-name>HTV3</display-name>
-    <icon src="https://vnepg.site/logos/34.png" />
+    <display-name lang="vi">HTV3</display-name>
   </channel>
-  <programme channel="htv3" start="20251229234500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Nghệ thuật và cuộc sống</title>
-    <icon src="https://vnepg.site/logos/34.png" />
-  </programme>
   <channel id="htv7hd">
-    <display-name>HTV7</display-name>
-    <icon src="https://vnepg.site/logos/36.png" />
+    <display-name lang="vi">HTV7</display-name>
   </channel>
-  <programme channel="htv7hd" start="20251229034000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Bản lĩnh đối mặt</title>
-    <icon src="https://vnepg.site/logos/36.png" />
-  </programme>
   <channel id="htv9hd">
-    <display-name>HTV9</display-name>
-    <icon src="https://vnepg.site/logos/37.png" />
+    <display-name lang="vi">HTV9</display-name>
   </channel>
-  <programme channel="htv9hd" start="20251228235000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Câu lạc bộ thể thao</title>
-    <icon src="https://vnepg.site/logos/37.png" />
-  </programme>
   <channel id="htvccanhachd">
-    <display-name>HTVC Ca Nhạc</display-name>
-    <icon src="https://vnepg.site/logos/43.png" />
+    <display-name lang="vi">HTVC Ca Nhạc</display-name>
   </channel>
-  <programme channel="htvccanhachd" start="20251229235900 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Ca nhạc - Tập 1 Những chuyến tàu</title>
-    <icon src="https://vnepg.site/logos/43.png" />
-  </programme>
   <channel id="htvcdulichhd">
-    <display-name>HTVC Du Lịch và Cuộc Sống</display-name>
-    <icon src="https://vnepg.site/logos/44.png" />
+    <display-name lang="vi">HTVC Du Lịch</display-name>
   </channel>
-  <programme channel="htvcdulichhd" start="20251229234400 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Chuyên đề CS_Không gian sống</title>
-    <desc lang="vi">Nghệ thuật trang trí tranh trong nhà</desc>
-    <icon src="https://vnepg.site/logos/44.png" />
-  </programme>
   <channel id="htvcgiadinhhd">
-    <display-name>HTVC Gia Đình</display-name>
-    <icon src="https://vnepg.site/logos/40.png" />
+    <display-name lang="vi">HTVC Gia Đình</display-name>
   </channel>
-  <programme channel="htvcgiadinhhd" start="20251229235900 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">Vui cùng con cháu - Đội Trâu vàng và Chuột đồng</desc>
-    <icon src="https://vnepg.site/logos/40.png" />
-  </programme>
-  <channel id="htvcphimhd">
-    <display-name>HTVC Phim</display-name>
-    <icon src="https://vnepg.site/logos/42.png" />
-  </channel>
-  <programme channel="htvcphimhd" start="20251228230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Kỳ nghỉ của Nick</title>
-    <icon src="https://vnepg.site/logos/42.png" />
-  </programme>
   <channel id="htvcphunuhd">
-    <display-name>HTVC Phụ Nữ</display-name>
-    <icon src="https://vnepg.site/logos/41.png" />
+    <display-name lang="vi">HTVC Phụ Nữ</display-name>
   </channel>
-  <programme channel="htvcphunuhd" start="20251228234500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Nhạc nước ngoài - Những bài hát trong phim HH Over The Moon</title>
-    <icon src="https://vnepg.site/logos/41.png" />
-  </programme>
   <channel id="htvcplushd">
-    <display-name>HTVC Plus</display-name>
-    <icon src="https://vnepg.site/logos/45.png" />
+    <display-name lang="vi">HTVC Plus</display-name>
   </channel>
-  <programme channel="htvcplushd" start="20251228233400 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim truyện Việt Nam</title>
-    <desc lang="vi">Về phía cầu vồng - Tập 52</desc>
-    <icon src="https://vnepg.site/logos/45.png" />
-  </programme>
   <channel id="htvcthuanviet">
-    <display-name>HTVC Thuần Việt</display-name>
-    <icon src="https://vnepg.site/logos/39.png" />
+    <display-name lang="vi">HTVC Thuần Việt</display-name>
   </channel>
-  <programme channel="htvcthuanviet" start="20251229233500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">CS Tống Hạo Nhiên</desc>
-    <icon src="https://vnepg.site/logos/39.png" />
-  </programme>
-  <channel id="htvkey">
-    <display-name>HTV Key</display-name>
-    <icon src="https://vnepg.site/logos/35.png" />
-  </channel>
-  <programme channel="htvkey" start="20251229223000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim truyện Việt Nam</title>
-    <desc lang="vi">Oan gia khó tránh - Tập 23+24</desc>
-    <icon src="https://vnepg.site/logos/35.png" />
-  </programme>
   <channel id="htvthethaohd">
-    <display-name>HTV Thể Thao</display-name>
-    <icon src="https://vnepg.site/logos/38.png" />
+    <display-name lang="vi">HTV Thể Thao</display-name>
   </channel>
-  <programme channel="htvthethaohd" start="20251229234500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Bản tin 365</title>
-    <icon src="https://vnepg.site/logos/38.png" />
-  </programme>
   <programme start="20251228000000 +0700" stop="20251228003000 +0700" channel="htvthethaohd">
     <title lang="vi">Tạp chí thể thao thế giới</title>
   </programme>
@@ -2952,107 +2380,24 @@
   <programme start="20251229204500 +0700" stop="20251229234500 +0700" channel="htvthethaohd">
     <title lang="vi">Câu lạc bộ thể thao: Tường thuật bóng đá Seagames 33</title>
   </programme>
-  <channel id="hue">
-    <display-name>Huế</display-name>
-    <icon src="https://vnepg.site/logos/106.png" />
-  </channel>
-  <programme channel="hue" start="20251229220500 +0700" stop="20251229225000 +0700">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Điệp viên ngầm - Tập 44</desc>
-    <icon src="https://vnepg.site/logos/106.png" />
-  </programme>
   <channel id="hungyen">
-    <display-name>Hưng Yên</display-name>
-    <icon src="https://vnepg.site/logos/107.png" />
+    <display-name lang="vi">Hưng Yên</display-name>
   </channel>
-  <programme channel="hungyen" start="20251228233500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Bản tin quốc tế</title>
-    <icon src="https://vnepg.site/logos/107.png" />
-  </programme>
-  <channel id="hungyenradio">
-    <display-name>Hưng Yên Radio</display-name>
-    <icon src="https://hungyentv.vn/templates/frontend/hytv/Assets/img/backgroud-radio.jpg" />
-  </channel>
-  <programme channel="hungyenradio" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Xuôi dòng cổ nhạc</title>
-    <icon src="https://hungyentv.vn/templates/frontend/hytv/Assets/img/backgroud-radio.jpg" />
-  </programme>
   <channel id="inthebox">
-    <display-name>In The Box Channel</display-name>
-    <icon src="https://vnepg.site/logos/133.png" />
+    <display-name lang="vi">InTheBox Channel</display-name>
   </channel>
-  <programme channel="inthebox" start="20251229235600 +0700" stop="20251230004400 +0700">
-    <title lang="vi">BẦU TRỜI SỤP ĐỔ - Falling Skies S02</title>
-    <desc lang="vi">Falling Skies mở ra trong bối cảnh hỗn loạn sau cuộc tấn công của người ngoài hành tinh khiến phần lớn thế giới mất khả năng hoàn toàn.  Trong sáu tháng kể từ cuộc xâm lược đầu tiên, một số ít người sống sót đã tập hợp lại bên ngoài các thành phố lớn để bắt đầu nhiệm vụ khó khăn chiến đấu trở lại.  Mỗi ngày là một bài kiểm tra khả năng sống sót khi những người lính công dân làm việc để bảo vệ những người dân được họ chăm sóc trong khi cũng tham gia vào một chiến dịch nổi dậy chống lại lực lượng người ngoài hành tinh đang chiếm đóng.</desc>
-    <icon src="https://image.tmdb.org/t/p/original/lUincM93AWXWQbq0Y3PIKu10HEL.jpg" />
-    <category lang="vi">Action &amp;amp; Adventure</category>
-    <category lang="vi">Sci-Fi &amp;amp; Fantasy</category>
-    <category lang="vi">Phim Chính Kịch</category>
-  </programme>
-  <channel id="kactionhd">
-    <display-name>K+ ACTION</display-name>
-    <icon src="https://vnepg.site/logos/67.png" />
-  </channel>
-  <programme channel="kactionhd" start="20251229055000 +0700" stop="20251229055800 +0700">
-    <title lang="vi">Ngôi sao điện ảnh: Lưu Diệc Phi</title>
-    <desc lang="vi">Tiểu sử cuộc đời và sự nghiệp của thần tiên tỷ tỷ Lưu Diệc Phi</desc>
-    <icon src="https://img4.kplus.vn/images?filename=Media/HDVN/2024_05/SHC_CIN785_98c03290-cbfe-4eb4-b5c5-2d87296a08b9.jpg&amp;orientation=landscape" />
-    <category lang="vi">Giải trí sở thích</category>
-    <category lang="vi">Giải trí</category>
-  </programme>
   <channel id="kbsworld">
-    <display-name>KBS World</display-name>
-    <icon src="https://vnepg.site/logos/160.png" />
+    <display-name lang="vi">KBS World</display-name>
   </channel>
-  <programme channel="kbsworld" start="20251229235000 +0700" stop="20251230013000 +0700">
-    <title lang="vi">Two Days and One Night 4</title>
-    <desc lang="vi">Two-day road trip to the beautiful spots in all the corners of Korea! Instead of fancy studio, this on-the-road reality show takes place in the rural sides. While over 10 million Koreans travel abroad each year, the &amp;quot;2 Days and 1 Night&amp;quot; casts travel around Korea - to the mountains, farms, fishing villages, islands - where you can meet the welcoming smiles of our neighbors and the beautiful nature that cleanse our eyes.</desc>
-    <icon src="https://kbsworldimage.kbs.co.kr/images/data_program/1763427548_480.jpg" />
-  </programme>
   <channel id="kcinehd">
-    <display-name>K+ CINE</display-name>
-    <icon src="https://vnepg.site/logos/66.png" />
+    <display-name lang="vi">K+CINE</display-name>
   </channel>
-  <programme channel="kcinehd" start="20251229040000 +0700" stop="20251229055100 +0700">
-    <title lang="vi">Cô gái trên tàu/The girl on the train</title>
-    <desc lang="vi">Rachel Watson, một cô gái đi làm mỗi ngày bằng tàu. Hàng ngày, Rachel đều đi qua dãy nhà ngoại ô ấm cúng, nơi tàu dừng lại và cô có thể quan sát một đôi vợ chồng hạnh phúc bên nhau. Nhưng trong một lần như thế, điều kinh ngạc đã xảy ra và thay đổi cuộc đời Rachel mãi mãi</desc>
-    <icon src="https://img4.kplus.vn/images?filename=Media/HDVN/2023_04/MOV_CRI_23__2694717_81e865a3-adea-438d-9de4-ff64663932e6.jpg&amp;orientation=landscape" />
-    <category lang="vi">Phim trinh thám</category>
-    <category lang="vi">Phim</category>
-  </programme>
   <channel id="khanhhoa">
-    <display-name>Khánh Hòa</display-name>
-    <icon src="https://vnepg.site/logos/108.png" />
+    <display-name lang="vi">Khánh Hòa</display-name>
   </channel>
-  <programme channel="khanhhoa" start="20251229231500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">BẢN TIN TIẾNG ANH TỐI</title>
-    <icon src="https://vnepg.site/logos/108.png" />
-  </programme>
-  <channel id="khanhhoa1">
-    <display-name>Khánh Hòa 1</display-name>
-    <icon src="https://vnepg.site/logos/109.png" />
-  </channel>
-  <programme channel="khanhhoa1" start="20251229231500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">BẢN TIN TIẾNG ANH TỐI</title>
-    <icon src="https://vnepg.site/logos/109.png" />
-  </programme>
-  <channel id="khanhhoaradio">
-    <display-name>Khánh Hoà Radio</display-name>
-    <icon src="https://baokhanhhoa.vn/common/v1/images/radio106.jpg" />
-  </channel>
-  <programme channel="khanhhoaradio" start="20251229170000 +0700" stop="20251229173000 +0700">
-    <title lang="vi">Chương trình Giao thông đô thị</title>
-    <icon src="https://baokhanhhoa.vn/common/v1/images/radio106.jpg" />
-  </programme>
   <channel id="kix">
-    <display-name>KIX</display-name>
-    <icon src="https://vnepg.site/logos/167.png" />
+    <display-name lang="en">KIX</display-name>
   </channel>
-  <programme channel="kix" start="20251229215000 +0700" stop="20251229225959 +0700">
-    <title lang="vi">Iron Squad W</title>
-    <desc lang="vi">The fourth season of this Korean military survival show will determine the most elite female soldier. It brings together six Special Force units to compete in challenging missions across land, sea, and air. Top female reservists form teams of four to compete against one another. Witness how they battle to the end in front of six celebrity hosts!</desc>
-    <icon src="https://vnepg.site/logos/167.png" />
-  </programme>
   <programme start="20251228013000 +0700" stop="20251228030500 +0700" channel="kix">
     <title lang="en">Elimination Game</title>
   </programme>
@@ -3159,78 +2504,18 @@
     <title lang="en">Monkey Twins</title>
   </programme>
   <channel id="kkidshd">
-    <display-name>K+ KIDS</display-name>
-    <icon src="https://vnepg.site/logos/70.png" />
+    <display-name lang="vi">K+KIDS</display-name>
   </channel>
-  <programme channel="kkidshd" start="20251229052800 +0700" stop="20251229055900 +0700">
-    <title lang="vi">Hành tinh vuông</title>
-    <desc lang="vi">Ảo thuật bóng bàn lăn trên ống hút + Tranh băng dính</desc>
-    <icon src="https://img4.kplus.vn/images?filename=Media/HDVN/2013_01/KID_EDU_HNCP__VN_31584_2412050_397df1ff-542e-40ab-821e-dde76ed7d43c.jpg&amp;orientation=landscape" />
-    <category lang="vi">Thiếu nhi</category>
-  </programme>
-  <channel id="kplushd">
-    <display-name>K+</display-name>
-    <icon src="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000315_IVP_LAND_586x330.jpg" />
-  </channel>
-  <programme channel="kplushd" start="20251229235500 +0700" stop="20251230011000 +0700">
-    <title lang="vi">The Art of Negotiation Ep06</title>
-    <desc lang="vi">Jin-soo obtains important information about Shimizu's internal state. Park Rae-kyung makes a chance encounter with President Song, upon Joo-no's advice.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X878084.jpg" />
-    <category lang="vi">TV Show</category>
-    <category lang="vi">Drama</category>
-  </programme>
   <channel id="ksport1hd">
-    <display-name>K+ SPORT1</display-name>
-    <icon src="https://vnepg.site/logos/68.png" />
+    <display-name lang="vi">K+SPORT1</display-name>
   </channel>
-  <programme channel="ksport1hd" start="20251229233000 +0700" stop="20251229235500 +0700">
-    <title lang="vi">Chân dung Ngoại hạng: Michael Carrick</title>
-    <desc lang="vi">Michael Carrick chia sẻ về tuổi thơ lớn lên dưới cái bóng của sân St James' Park, những bước khởi đầu sớm với bóng đá, và hành trình đưa anh đến đỉnh cao của Ngoại hạng Anh.</desc>
-    <icon src="https://img4.kplus.vn/images?filename=Media/HDVN/2025_08/EPL_MAG2779_cff56526-46af-42f9-8c84-5efe403f2b4a.jpg&amp;orientation=landscape" />
-    <category lang="vi">Thể thao</category>
-  </programme>
   <channel id="ksport2hd">
-    <display-name>K+ SPORT2</display-name>
-    <icon src="https://vnepg.site/logos/69.png" />
+    <display-name lang="vi">K+SPORT2</display-name>
   </channel>
-  <programme channel="ksport2hd" start="20251229233000 +0700" stop="20251229235300 +0700">
-    <title lang="vi">UFC Fight Night 197 - Benoit Saint Denis vs Mauricio Ruffy</title>
-    <desc lang="vi">Là một trong những võ sĩ MMA hàng đầu của Pháp, Benoit Saint Denis đã chiến đấu bằng tất cả những gì mình có trong môn thể thao này và điều đó vẫn tiếp tục tại UFC, nơi anh đã giành 6 chiến thắng bằng các pha kết liễu.</desc>
-    <icon src="https://img4.kplus.vn/images?filename=Media/HDVN/2025_09/MA2610_99836a5f-ba9d-43d5-b1f1-3675c17fc4a7.jpg&amp;orientation=landscape" />
-    <category lang="vi">Thể thao</category>
-  </programme>
   <channel id="kubocast">
     <display-name lang="vi">KuboCast</display-name>
     <icon src="https://ip1.qphim.xyz/image/kubocast.png" />
   </channel>
-  <programme channel="kubocast" start="20251227000000 +0700" stop="20251227020000 +0700">
-    <title lang="vi">R1 Radio</title>
-    <desc lang="vi">Chương trình có thời lượng 2 giờ.</desc>
-  </programme>
-  <programme channel="kubocast" start="20251227020000 +0700" stop="20251227080000 +0700">
-    <title lang="vi">Capital Dance Non Stop 24/7</title>
-    <desc lang="vi">Chương trình có thời lượng 6 giờ.</desc>
-  </programme>
-  <programme channel="kubocast" start="20251227080000 +0700" stop="20251227130000 +0700">
-    <title lang="vi">KuboCast Radio</title>
-    <desc lang="vi">Chương trình có thời lượng 5 giờ.</desc>
-  </programme>
-  <programme channel="kubocast" start="20251227130000 +0700" stop="20251227180000 +0700">
-    <title lang="vi">R1 Radio</title>
-    <desc lang="vi">Chương trình có thời lượng 5 giờ.</desc>
-  </programme>
-  <programme channel="kubocast" start="20251227180000 +0700" stop="20251227190000 +0700">
-    <title lang="vi">Capital Dance Non Stop 24/7</title>
-    <desc lang="vi">Chương trình có thời lượng 1 giờ.</desc>
-  </programme>
-  <programme channel="kubocast" start="20251227190000 +0700" stop="20251227230000 +0700">
-    <title lang="vi">Kiss Radio</title>
-    <desc lang="vi">Chương trình có thời lượng 4 giờ.</desc>
-  </programme>
-  <programme channel="kubocast" start="20251227230000 +0700" stop="20251228000000 +0700">
-    <title lang="vi">R1 Radio</title>
-    <desc lang="vi">Chương trình có thời lượng 1 giờ.</desc>
-  </programme>
   <programme channel="kubocast" start="20251228000000 +0700" stop="20251228020000 +0700">
     <title lang="vi">R1 Radio</title>
     <desc lang="vi">Chương trình có thời lượng 2 giờ.</desc>
@@ -3339,802 +2624,181 @@
     <title lang="vi">Kiss Radio</title>
     <desc lang="vi">Chương trình có thời lượng 5 giờ.</desc>
   </programme>
+  <programme channel="kubocast" start="20260103000000 +0700" stop="20260103020000 +0700">
+    <title lang="vi">R1 Radio</title>
+    <desc lang="vi">Chương trình có thời lượng 2 giờ.</desc>
+  </programme>
+  <programme channel="kubocast" start="20260103020000 +0700" stop="20260103080000 +0700">
+    <title lang="vi">Capital Dance Non Stop 24/7</title>
+    <desc lang="vi">Chương trình có thời lượng 6 giờ.</desc>
+  </programme>
+  <programme channel="kubocast" start="20260103080000 +0700" stop="20260103130000 +0700">
+    <title lang="vi">KuboCast Radio</title>
+    <desc lang="vi">Chương trình có thời lượng 5 giờ.</desc>
+  </programme>
+  <programme channel="kubocast" start="20260103130000 +0700" stop="20260103180000 +0700">
+    <title lang="vi">R1 Radio</title>
+    <desc lang="vi">Chương trình có thời lượng 5 giờ.</desc>
+  </programme>
+  <programme channel="kubocast" start="20260103180000 +0700" stop="20260103190000 +0700">
+    <title lang="vi">Capital Dance Non Stop 24/7</title>
+    <desc lang="vi">Chương trình có thời lượng 1 giờ.</desc>
+  </programme>
+  <programme channel="kubocast" start="20260103190000 +0700" stop="20260103230000 +0700">
+    <title lang="vi">Kiss Radio</title>
+    <desc lang="vi">Chương trình có thời lượng 4 giờ.</desc>
+  </programme>
+  <programme channel="kubocast" start="20260103230000 +0700" stop="20260104000000 +0700">
+    <title lang="vi">R1 Radio</title>
+    <desc lang="vi">Chương trình có thời lượng 1 giờ.</desc>
+  </programme>
   <channel id="kubolive">
     <display-name lang="vi">KuboLive</display-name>
     <icon src="https://ip1.qphim.xyz/image/kubolive-full.png" />
   </channel>
-  <programme channel="kubolive" start="20251227000000 +0700" stop="20251228000000 +0700">
+  <programme channel="kubolive" start="20251228000000 +0700" stop="20251229000000 +0700">
     <title lang="vi">CHƯƠNG TRÌNH CHƯA ĐẾN GIỜ PHÁT SÓNG</title>
     <desc lang="vi">Chương trình chưa có lịch phát sóng, khán giả vui lòng quay lại vào thứ 4 hoặc chủ nhật hàng tuần. Trân Trọng!</desc>
   </programme>
   <channel id="laichau">
-    <display-name>Lai Châu</display-name>
-    <icon src="https://vnepg.site/logos/110.png" />
+    <display-name lang="vi">Lai Châu</display-name>
   </channel>
-  <programme channel="laichau" start="20251229223500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Giới Thiệu Cuối Ngày + Dừng Hình</title>
-    <icon src="https://vnepg.site/logos/110.png" />
-  </programme>
-  <channel id="lamdong1">
-    <display-name>Lâm Đồng 1</display-name>
-    <icon src="https://vnepg.site/logos/111.png" />
-  </channel>
-  <programme channel="lamdong1" start="20251229234500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Giới thiệu chương trình ngày mai</title>
-    <icon src="https://vnepg.site/logos/111.png" />
-  </programme>
-  <channel id="lamdong2">
-    <display-name>Lâm Đồng 2</display-name>
-    <icon src="https://vnepg.site/logos/112.png" />
-  </channel>
-  <programme channel="lamdong2" start="20251229224500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim truyện</title>
-    <icon src="https://vnepg.site/logos/112.png" />
-  </programme>
-  <channel id="lamdong3">
-    <display-name>Lâm Đồng 3</display-name>
-    <icon src="https://vnepg.site/logos/113.png" />
-  </channel>
-  <programme channel="lamdong3" start="20251228234500 +0700" stop="20251229000000 +0700">
-    <title lang="vi">Giới thiệu chương trình ngày mai</title>
-    <icon src="https://vnepg.site/logos/113.png" />
-  </programme>
   <channel id="langson">
-    <display-name>Lạng Sơn</display-name>
-    <icon src="https://vnepg.site/logos/114.png" />
+    <display-name lang="vi">Lạng Sơn</display-name>
   </channel>
-  <programme channel="langson" start="20251228235800 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Kết thúc chương trình</title>
-    <desc lang="vi">Giới thiệu chương trình ngày mai</desc>
-    <icon src="https://vnepg.site/logos/114.png" />
-  </programme>
-  <channel id="langsonradio">
-    <display-name>Lạng Sơn Radio</display-name>
-    <icon src="https://langsontv.vn/assets/images/logo_radio_default.jpg" />
-  </channel>
-  <programme channel="langsonradio" start="20251228190000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Chương trình ca nhạc tiếng Kinh</title>
-    <icon src="https://langsontv.vn/assets/images/logo_radio_default.jpg" />
-  </programme>
   <channel id="laocai">
-    <display-name>Lào Cai</display-name>
-    <icon src="https://vnepg.site/logos/115.png" />
+    <display-name lang="vi">Lào Cai</display-name>
   </channel>
-  <programme channel="laocai" start="20251229234000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Giới thiệu chương trình ngày mai</title>
-    <icon src="https://vnepg.site/logos/115.png" />
-  </programme>
-  <channel id="lovenature4k">
-    <display-name>Love Nature 4K</display-name>
-    <icon src="https://linear-poster.astro.com.my/prod/poster/LoveNature4K_2025_IVP_LAND_1280x720.jpg" />
-  </channel>
-  <programme channel="lovenature4k" start="20251229232000 +0700" stop="20251230001500 +0700">
-    <title lang="vi">Animals Like Us S1 Ep06</title>
-    <desc lang="vi">Marvel at the toothy fish that help sharks maintain their pearly whites and discover the signature calls of dolphin families.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000574X805162.jpg" />
-    <category lang="vi">Factual &amp;amp; Documentary</category>
-    <category lang="vi">Nature</category>
-  </programme>
   <channel id="man">
-    <display-name>Man</display-name>
-    <icon src="https://vnepg.site/logos/135.png" />
+    <display-name lang="vi">MAN</display-name>
   </channel>
-  <programme channel="man" start="20251229000000 +0700" stop="20251229000000 +0700">
-    <title lang="vi">8</title>
-    <icon src="https://vnepg.site/logos/135.png" />
-  </programme>
-  <channel id="mtvlive">
-    <display-name>MTV Live</display-name>
-    <icon src="https://www.billboard.com/wp-content/uploads/media/MTV-Live-Logo.jpg" />
-  </channel>
-  <programme channel="mtvlive" start="20251229212000 +0700" stop="20251230010000 +0700">
-    <title lang="vi">MTV's Guitar Hits</title>
-    <desc lang="vi">Turn it up for our ultimate playlist of the greatest guitar hits ever to have graced MTV's airwaves!</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/MTV_Live_IVP_LAND_917x516.jpg" />
-    <category lang="vi">Music &amp;amp; Dance</category>
-    <category lang="vi">Rock / Pop</category>
-  </programme>
   <channel id="musicbox">
-    <display-name>Music Box</display-name>
-    <icon src="https://vnepg.site/logos/171.png" />
-  </channel>
-  <programme channel="musicbox" start="20251229235700 +0700" stop="20251230003000 +0700">
-    <title lang="vi">LET'S DANCE</title>
-    <icon src="https://vnepg.site/logos/171.png" />
-  </programme>
-  <channel id="mytv801">
-    <display-name>Sự kiện MyTV 801</display-name>
-    <icon src="https://s129144.cdn.mytvnet.vn/vimages/91/1e/e6/66/6f/ff/91e66-p801-channel-unkn.png" />
-  </channel>
-  <channel id="mytv802">
-    <display-name>Sự kiện MyTV 802</display-name>
-    <icon src="https://s129144.cdn.mytvnet.vn/vimages/e6/68/82/2a/a6/62/e682a-p802-channel-unkn.png" />
-  </channel>
-  <programme channel="mytv802" start="20251228204500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Kết thúc chương trình</title>
-    <icon src="https://s129144.cdn.mytvnet.vn/vimages/e6/68/82/2a/a6/62/e682a-p802-channel-unkn.png" />
-  </programme>
-  <channel id="mytv803">
-    <display-name>Sự kiện MyTV 803</display-name>
-    <icon src="https://s129144.cdn.mytvnet.vn/vimages/f0/02/2e/e3/3d/dc/f02e3-p803-channel-unkn.png" />
-  </channel>
-  <channel id="mytv804">
-    <display-name>Sự kiện MyTV 804</display-name>
-    <icon src="https://s129144.cdn.mytvnet.vn/vimages/6c/c8/8b/ba/a7/72/6c8ba-p804-channel-unkn.png" />
-  </channel>
-  <channel id="mytv806">
-    <display-name>Sự kiện MyTV 806</display-name>
-    <icon src="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png" />
-  </channel>
-  <channel id="mytv807">
-    <display-name>Sự kiện MyTV 807</display-name>
-    <icon src="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png" />
-  </channel>
-  <channel id="mytv903">
-    <display-name>Sự kiện MyTV 903</display-name>
-    <icon src="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png" />
-  </channel>
-  <channel id="mytv904">
-    <display-name>Sự kiện MyTV 904</display-name>
-    <icon src="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png" />
-  </channel>
-  <channel id="mytv905">
-    <display-name>Sự kiện MyTV 905</display-name>
-    <icon src="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png" />
-  </channel>
-  <channel id="mytv906">
-    <display-name>Sự kiện MyTV 906</display-name>
-    <icon src="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png" />
+    <display-name lang="vi">Music Box</display-name>
   </channel>
   <channel id="nghean">
-    <display-name>Nghệ An</display-name>
-    <icon src="https://vnepg.site/logos/116.png" />
+    <display-name lang="vi">Nghệ An</display-name>
   </channel>
-  <programme channel="nghean" start="20251228233000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Ca nhạc</title>
-    <icon src="https://vnepg.site/logos/116.png" />
-  </programme>
-  <channel id="ngheanradio">
-    <display-name>Nghệ An Radio</display-name>
-    <icon src="https://truyenhinhnghean.vn/common/v2/image/logo_player.jpg" />
-  </channel>
-  <programme channel="ngheanradio" start="20251228223000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Giới thiệu chương trình ngày tiếp theo - Tiếp VOV1</title>
-    <icon src="https://truyenhinhnghean.vn/common/v2/image/logo_player.jpg" />
-  </programme>
-  <channel id="nhkworld">
-    <display-name>NHK World</display-name>
-    <icon src="https://vnepg.site/logos/161.png" />
-  </channel>
-  <programme channel="nhkworld" start="20251229235700 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Satoyama Kitchen Fall #9</title>
-    <desc lang="vi">At the Satoyama Kitchen guesthouse in Hida Takayama, chef Nobuko, her cameraman husband Makoto and their cat Tama take us on a tasty journey of local cuisine served with a side of seasonal scenery.</desc>
-    <icon src="https://www3.nhk.or.jp/nhkworld/en/shows/6051/images/wide_m_unJlMW45bn5LGLoXoWiHU1ev8xHTVVqOitRwYXux.jpg" />
-  </programme>
   <channel id="ninhbinh">
-    <display-name>Ninh Bình</display-name>
-    <icon src="https://vnepg.site/logos/117.png" />
+    <display-name lang="vi">Ninh Bình</display-name>
   </channel>
-  <programme channel="ninhbinh" start="20251228230000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Thời sự Ninh Bình cuối ngày</title>
-    <icon src="https://vnepg.site/logos/117.png" />
-  </programme>
-  <channel id="ninhbinhradio">
-    <display-name>Ninh Bình Radio</display-name>
-    <icon src="https://nbtv.vn/upload/files/image/HINH_NEN_PT_SUA_3.gif" />
-  </channel>
-  <programme channel="ninhbinhradio" start="20251228223000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Chào cuối ngày</title>
-    <icon src="https://nbtv.vn/upload/files/image/HINH_NEN_PT_SUA_3.gif" />
-  </programme>
-  <channel id="onbibi">
-    <display-name>ON BiBi</display-name>
-    <icon src="https://vnepg.site/logos/19.png" />
-  </channel>
-  <programme channel="onbibi" start="20251229234500 +0700" stop="20251229000000 +0700">
-    <title lang="vi">(30t) Nhà Tắm Vui Nhộn - Tập 19</title>
-    <icon src="https://vnepg.site/logos/19.png" />
-  </programme>
-  <channel id="oncine">
-    <display-name>ON Cine</display-name>
-    <icon src="https://vnepg.site/logos/21.png" />
-  </channel>
-  <programme channel="oncine" start="20251229230000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Thời Vàng Son (đl_327t) - Tập 100</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/FILM_TV_M.jpg" />
-  </programme>
-  <channel id="oneasia">
-    <display-name>one</display-name>
-    <icon src="https://linear-poster.astro.com.my/prod/poster/One_IVP_LAND_V2_IVP_LAND_586x330.jpg" />
-  </channel>
-  <programme channel="oneasia" start="20251229225000 +0700" stop="20251230001000 +0700">
-    <title lang="vi">The Red Sleeve Ep04</title>
-    <desc lang="vi">Court girl Deok Im is torn between her desire for freedom and independence and love for the Crowin Prince Lee San.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000216X590376.jpg" />
-    <category lang="vi">TV Show</category>
-    <category lang="vi">Drama</category>
-  </programme>
-  <channel id="onechannel">
-    <display-name>ON E Channel</display-name>
-    <icon src="https://vnepg.site/logos/16.png" />
-  </channel>
-  <programme channel="onechannel" start="20251229233000 +0700" stop="20251229000000 +0700">
-    <title lang="vi">Căn Phòng Bí Mật-hoang Anh Vu Tập 5</title>
-    <icon src="https://vnepg.site/logos/16.png" />
-  </programme>
-  <channel id="onfootball">
-    <display-name>ON Football</display-name>
-    <icon src="https://vnepg.site/logos/24.png" />
-  </channel>
-  <programme channel="onfootball" start="20251229230000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Uefa Champions League Highlights Show 25/26 - League Phase - Lượt 6 - Phần 2</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BONGDA_HD_M.jpg" />
-  </programme>
-  <channel id="ongolf">
-    <display-name>ON Golf</display-name>
-    <icon src="https://vnepg.site/logos/31.png" />
-  </channel>
-  <programme channel="ongolf" start="20251229233000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Tạp Chí - Huyền Thoại Golf - Nick Price</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/THETHAO_GOLF_HD_M.jpg" />
-  </programme>
-  <channel id="oninfotv">
-    <display-name>ON Info TV</display-name>
-    <icon src="https://vnepg.site/logos/20.png" />
-  </channel>
-  <programme channel="oninfotv" start="20251229234500 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Sitcom Xóm Trọ Thanh Xuân (vn_109t) - Tập 106</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/INFO_TV_M.jpg" />
-  </programme>
-  <channel id="onkids">
-    <display-name>ON Kids</display-name>
-    <icon src="https://vnepg.site/logos/29.png" />
-  </channel>
-  <programme channel="onkids" start="20251229234500 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Cảnh Sát Liên Hành Tinh (26) - Tập 10</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BIBIPLUS_HD_M.jpg" />
-  </programme>
-  <channel id="onlife">
-    <display-name>ON Life</display-name>
-    <icon src="https://vnepg.site/logos/30.png" />
-  </channel>
-  <programme channel="onlife" start="20251228233000 +0700" stop="20251229000000 +0700">
-    <title lang="vi">Đi Là Đến - Tập 15</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/LIFE_TV_M.jpg" />
-  </programme>
-  <channel id="onmovies">
-    <display-name>ON Movies</display-name>
-    <icon src="https://vnepg.site/logos/15.png" />
-  </channel>
-  <programme channel="onmovies" start="20251229220000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Phim Truyện Sông Phố Nhà Ghe Tập 35 T16 Cbcn</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/VAN_HOA_M.jpg" />
-  </programme>
-  <channel id="onmusic">
-    <display-name>ON Music</display-name>
-    <icon src="https://vnepg.site/logos/23.png" />
-  </channel>
-  <programme channel="onmusic" start="20251229230000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Music Store - Dân Gian Đương Đại</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/M_CHANNEL_M.jpg" />
-  </programme>
-  <channel id="ono2tv">
-    <display-name>ON O2TV</display-name>
-    <icon src="https://vnepg.site/logos/18.png" />
-  </channel>
-  <programme channel="ono2tv" start="20251229233000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Alo 115 - 0312 Cách Xử Trí Khi Người Cao Tuổi Bị Nghẹn</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/O2_TV_M.jpg" />
-  </programme>
-  <channel id="onphimviet">
-    <display-name>ON Phim Việt</display-name>
-    <icon src="https://vnepg.site/logos/13.png" />
-  </channel>
-  <programme channel="onphimviet" start="20251229230000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Sông Dài (vn_39t) - Tập 11</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/PHIMVIET_M.jpg" />
-  </programme>
-  <channel id="onsports">
-    <display-name>ON Sports</display-name>
-    <icon src="https://vnepg.site/logos/14.png" />
-  </channel>
-  <programme channel="onsports" start="20251229220000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">ATP Tour 1000 Paris Masters 2025 - Chung Kết Vs Phát Lại</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/THETHAO_HD_M.jpg" />
-  </programme>
-  <channel id="onsportsnews">
-    <display-name>ON Sports News</display-name>
-    <icon src="https://vnepg.site/logos/26.png" />
-  </channel>
-  <programme channel="onsportsnews" start="20251229220000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Vđqg Italia Serie A 25/26 Vòng 17 - Cremonese Vs Napoli Phát Lại</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg" />
-  </programme>
-  <channel id="onsportsplus">
-    <display-name>ON Sports+</display-name>
-    <icon src="https://vnepg.site/logos/17.png" />
-  </channel>
-  <programme channel="onsportsplus" start="20251229234500 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Serie A Stories - Beukema &amp;amp; Soule</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/HAY_TV_M.jpg" />
-  </programme>
-  <channel id="onstyle">
-    <display-name>ON Style TV</display-name>
-    <icon src="https://vnepg.site/logos/22.png" />
-  </channel>
-  <programme channel="onstyle" start="20251229231500 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Lá Chắn Cuối Cùng (tl - 22t) - Tập 20</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/STYLE_TV_HD_M.jpg" />
-  </programme>
-  <channel id="ontrending">
-    <display-name>ON Trending</display-name>
-    <icon src="https://vnepg.site/logos/25.png" />
-  </channel>
-  <programme channel="ontrending" start="20251229230000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Music Like - Số 23</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/YEAH1_TV_M.jpg" />
-  </programme>
-  <channel id="onvfamily">
-    <display-name>ON VFamily</display-name>
-    <icon src="https://vnepg.site/logos/28.png" />
-  </channel>
-  <programme channel="onvfamily" start="20251229230000 +0700" stop="20251229000000 +0700">
-    <title lang="vi">Ca Nhạc Vzplaylist - Số 100</title>
-    <icon src="https://vnepg.site/logos/28.png" />
-  </programme>
-  <channel id="onviedramas">
-    <display-name>ON Vie Dramas</display-name>
-    <icon src="https://vnepg.site/logos/27.png" />
-  </channel>
-  <programme channel="onviedramas" start="20251229230000 +0700" stop="20251229000000 +0700">
-    <title lang="vi">Ở Rể - Tập 9</title>
-    <icon src="https://vnepg.site/logos/27.png" />
-  </programme>
-  <channel id="onviegiaitri">
-    <display-name>ON Vie Giải Trí</display-name>
-    <icon src="https://vnepg.site/logos/12.png" />
-  </channel>
-  <programme channel="onviegiaitri" start="20251228233000 +0700" stop="20251229000000 +0700">
-    <title lang="vi">Trà Mã Huyền Bí - Tập 10</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/GIAITRI_TV_HD_M/tramahuyenbitap.jpg" />
-  </programme>
   <channel id="outdoorhd">
-    <display-name>Outdoor Channel</display-name>
-    <icon src="https://vnepg.site/logos/146.png" />
+    <display-name lang="vi">Outdoor Channel</display-name>
   </channel>
-  <programme channel="outdoorhd" start="20251229233000 +0700" stop="20251230000000 +0700">
-    <title lang="vi">Vén Màn Hollywood (mùa 6)</title>
-    <icon src="https://vnepg.site/logos/146.png" />
-  </programme>
   <channel id="phutho">
-    <display-name>Phú Thọ</display-name>
-    <icon src="https://vnepg.site/logos/118.png" />
+    <display-name lang="vi">Phú Thọ</display-name>
   </channel>
-  <programme channel="phutho" start="20251228235000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Báo chí trong ngày</title>
-    <icon src="https://vnepg.site/logos/118.png" />
-  </programme>
   <channel id="planetearthhd">
-    <display-name>Planet Earth</display-name>
-    <icon src="https://vnepg.site/logos/138.png" />
+    <display-name lang="vi">Planet Earth</display-name>
   </channel>
-  <programme channel="planetearthhd" start="20251229233500 +0700" stop="20251230003100 +0700">
-    <title lang="vi">Máu lạnh - In Ice Cold Blood S03</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/PE_M.jpg" />
-  </programme>
   <channel id="qpvnhd">
-    <display-name>QPVN</display-name>
-    <icon src="https://vnepg.site/logos/72.png" />
+    <display-name lang="vi">QPVN</display-name>
   </channel>
-  <programme channel="qpvnhd" start="20251228233300 +0700" stop="20251229235959 +0700">
-    <title lang="vi">RUBIK</title>
-    <icon src="https://vnepg.site/logos/72.png" />
-  </programme>
   <channel id="quangngai">
-    <display-name>Quảng Ngãi</display-name>
-    <icon src="https://vnepg.site/logos/119.png" />
+    <display-name lang="vi">Quảng Ngãi</display-name>
   </channel>
-  <programme channel="quangngai" start="20251229235500 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Giới thiệu Chương trình ngày mai</title>
-    <icon src="https://vnepg.site/logos/119.png" />
-  </programme>
   <channel id="quangninh1">
-    <display-name>Quảng Ninh 1</display-name>
-    <icon src="https://vnepg.site/logos/120.png" />
+    <display-name lang="vi">Quảng Ninh 1</display-name>
   </channel>
-  <programme channel="quangninh1" start="20251228234000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Tạp chí thể thao</title>
-    <icon src="https://vnepg.site/logos/120.png" />
-  </programme>
   <channel id="quangninh3">
-    <display-name>Quảng Ninh 3</display-name>
-    <icon src="https://vnepg.site/logos/121.png" />
+    <display-name lang="vi">Quảng Ninh 3</display-name>
   </channel>
-  <programme channel="quangninh3" start="20251228233000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Phim tài liệu</title>
-    <desc lang="vi">Báo chí Quảng Ninh - những mốc son thế kỷ</desc>
-    <icon src="https://vnepg.site/logos/121.png" />
-  </programme>
-  <channel id="quangninhradio1">
-    <display-name>Quảng Ninh Radio 1</display-name>
-    <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR1.jpg" />
-  </channel>
-  <programme channel="quangninhradio1" start="20251228231500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Chương trình tiếng Dao</title>
-    <desc lang="vi">Lan tỏa những câu chuyện đẹp của phụ nữ Quảng Ninh</desc>
-    <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR1.jpg" />
-  </programme>
-  <channel id="quangninhradio2">
-    <display-name>Quảng Ninh Radio 2</display-name>
-    <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR2.jpg" />
-  </channel>
-  <programme channel="quangninhradio2" start="20251228232000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Âm nhạc</title>
-    <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR2.jpg" />
-  </programme>
   <channel id="quangtri">
-    <display-name>Quảng Trị</display-name>
-    <icon src="https://vnepg.site/logos/122.png" />
+    <display-name lang="vi">Quảng Trị</display-name>
   </channel>
-  <programme channel="quangtri" start="20251228223000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Những câu chuyện thú vị</title>
-    <icon src="https://vnepg.site/logos/122.png" />
-  </programme>
-  <channel id="quangtriradio">
-    <display-name>Quảng Trị Radio</display-name>
-    <icon src="https://vnepg.site/logos/122.png" />
-  </channel>
-  <programme channel="quangtriradio" start="20251228055400 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Tiếp sóng chương trình VOV 1</title>
-    <icon src="https://vnepg.site/logos/122.png" />
-  </programme>
   <channel id="sctv11hd">
-    <display-name>SCTV11</display-name>
-    <icon src="https://vnepg.site/logos/54.png" />
+    <display-name lang="vi">SCTV11</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv11hd" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">SZ Bolero - Những nốt nhạc ngân - Số 362</title>
-    <icon src="https://vnepg.site/logos/54.png" />
-  </programme>
   <channel id="sctv12hd">
-    <display-name>SCTV12</display-name>
-    <icon src="https://vnepg.site/logos/55.png" />
+    <display-name lang="vi">SCTV12</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv12hd" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">KHOA HỌC VÀ ẢO THUẬT -TẬP 2</title>
-    <icon src="https://vnepg.site/logos/55.png" />
-  </programme>
   <channel id="sctv13hd">
-    <display-name>SCTV13</display-name>
-    <icon src="https://vnepg.site/logos/56.png" />
+    <display-name lang="vi">SCTV13</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv13hd" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Hoán đổi nghiệt ngã – Tập 7</title>
-    <icon src="https://vnepg.site/logos/56.png" />
-  </programme>
   <channel id="sctv14hd">
-    <display-name>SCTV14</display-name>
-    <icon src="https://vnepg.site/logos/57.png" />
+    <display-name lang="vi">SCTV14</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv14hd" start="20251228234500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Đò xuôi vạn lý - Tập 30</title>
-    <icon src="https://vnepg.site/logos/57.png" />
-  </programme>
   <channel id="sctv15hd">
-    <display-name>SCTV15</display-name>
-    <icon src="https://vnepg.site/logos/58.png" />
+    <display-name lang="vi">SCTV15</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv15hd" start="20251228221500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">LaLiga 2025/26 R17 Villarreal - Barcelona</title>
-    <icon src="https://vnepg.site/logos/58.png" />
-  </programme>
   <channel id="sctv16hd">
-    <display-name>SCTV16</display-name>
-    <icon src="https://vnepg.site/logos/59.png" />
+    <display-name lang="vi">SCTV16</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv16hd" start="20251228210000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">HATCHET II - UNRATED - ĐẦM LẦY CHẾT CHÓC</title>
-    <icon src="https://vnepg.site/logos/59.png" />
-  </programme>
   <channel id="sctv17hd">
-    <display-name>SCTV17</display-name>
-    <icon src="https://vnepg.site/logos/60.png" />
+    <display-name lang="vi">SCTV17</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv17hd" start="20251228230000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">LaLiga Show</title>
-    <icon src="https://vnepg.site/logos/60.png" />
-  </programme>
   <channel id="sctv18hd">
-    <display-name>SCTV18</display-name>
-    <icon src="https://vnepg.site/logos/61.png" />
+    <display-name lang="vi">SCTV18</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <channel id="sctv19hd">
-    <display-name>SCTV19</display-name>
-    <icon src="https://vnepg.site/logos/62.png" />
+    <display-name lang="vi">SCTV19</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv19hd" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Khoa giáo</title>
-    <desc lang="vi">Khoa học cùng Brain Café - Tập 18</desc>
-    <icon src="https://vnepg.site/logos/62.png" />
-  </programme>
   <channel id="sctv1hd">
-    <display-name>SCTV1</display-name>
-    <icon src="https://vnepg.site/logos/46.png" />
+    <display-name lang="vi">SCTV1</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv1hd" start="20251228232500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">MẠC GIA KÝ_P 2 _T32</title>
-    <icon src="https://vnepg.site/logos/46.png" />
-  </programme>
   <channel id="sctv20hd">
-    <display-name>SCTV20</display-name>
-    <icon src="https://vnepg.site/logos/63.png" />
+    <display-name lang="vi">SCTV20</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv20hd" start="20251229235000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Ca nhạc</title>
-    <desc lang="vi">MV đệm</desc>
-    <icon src="https://vnepg.site/logos/63.png" />
-  </programme>
-  <channel id="sctv21hd">
-    <display-name>SCTV21</display-name>
-    <icon src="https://vnepg.site/logos/64.png" />
-  </channel>
-  <programme channel="sctv21hd" start="20251229232000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Tre xanh - Tập 12</title>
-    <icon src="https://vnepg.site/logos/64.png" />
-  </programme>
   <channel id="sctv22hd">
-    <display-name>SCTV22</display-name>
-    <icon src="https://vnepg.site/logos/65.png" />
+    <display-name lang="vi">SCTV22</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv22hd" start="20251228220000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">LaLiga 2025/26 R17 Levante - Real Sociedad</title>
-    <icon src="https://vnepg.site/logos/65.png" />
-  </programme>
   <channel id="sctv2hd">
-    <display-name>SCTV2</display-name>
-    <icon src="https://vnepg.site/logos/47.png" />
+    <display-name lang="vi">SCTV2</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv2hd" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Ca nhạc</title>
-    <desc lang="vi">Những khúc vọng xưa - Số 171</desc>
-    <icon src="https://vnepg.site/logos/47.png" />
-  </programme>
   <channel id="sctv3hd">
-    <display-name>SCTV3</display-name>
-    <icon src="https://vnepg.site/logos/48.png" />
+    <display-name lang="vi">SCTV3</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv3hd" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Dạy học</title>
-    <desc lang="vi">Phòng nghệ thuật - Tập 146</desc>
-    <icon src="https://vnepg.site/logos/48.png" />
-  </programme>
   <channel id="sctv4hd">
-    <display-name>SCTV4</display-name>
-    <icon src="https://vnepg.site/logos/49.png" />
+    <display-name lang="vi">SCTV4</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv4hd" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Thương lắm đò ơi - Tập 37</desc>
-    <icon src="https://vnepg.site/logos/49.png" />
-  </programme>
-  <channel id="sctv4k">
-    <display-name>SCTV4K</display-name>
-    <icon src="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/logo-sctv4k_e0a24400.jpg" />
-  </channel>
-  <programme channel="sctv4k" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Thiếu nhi</title>
-    <desc lang="vi">Nàng tiên hoa- Tập 15 + Tập 16</desc>
-    <icon src="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/logo-sctv4k_e0a24400.jpg" />
-  </programme>
   <channel id="sctv6hd">
-    <display-name>SCTV6</display-name>
-    <icon src="https://vnepg.site/logos/50.png" />
+    <display-name lang="vi">SCTV6</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv6hd" start="20251229234500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Trailer Phim + Nhạc phim</title>
-    <icon src="https://vnepg.site/logos/50.png" />
-  </programme>
   <channel id="sctv7hd">
-    <display-name>SCTV7</display-name>
-    <icon src="https://vnepg.site/logos/51.png" />
+    <display-name lang="vi">SCTV7</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv7hd" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Mai anh đào - Tập 8</desc>
-    <icon src="https://vnepg.site/logos/51.png" />
-  </programme>
   <channel id="sctv8hd">
-    <display-name>SCTV8</display-name>
-    <icon src="https://vnepg.site/logos/52.png" />
+    <display-name lang="vi">SCTV8</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <channel id="sctv9hd">
-    <display-name>SCTV9</display-name>
-    <icon src="https://vnepg.site/logos/53.png" />
+    <display-name lang="vi">SCTV9</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <programme channel="sctv9hd" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Gia đình vui vẻ - Tập 77</title>
-    <icon src="https://vnepg.site/logos/53.png" />
-  </programme>
   <channel id="sctvhdpth">
-    <display-name>SCTV Phim Tổng Hợp</display-name>
-    <icon src="https://vnepg.site/logos/170.png" />
+    <display-name lang="vi">SCTV Phim Tổng Hợp</display-name>
   </channel>
-  <programme channel="sctvhdpth" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Người đuổi bắt sự sống - Tập 20 (Đài Loan)</title>
-    <icon src="https://vnepg.site/logos/170.png" />
-  </programme>
   <channel id="sonla">
-    <display-name>Sơn La</display-name>
-    <icon src="https://vnepg.site/logos/123.png" />
+    <display-name lang="vi">Sơn La</display-name>
   </channel>
-  <programme channel="sonla" start="20251228235500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Giới thiệu chương trình</title>
-    <icon src="https://vnepg.site/logos/123.png" />
-  </programme>
-  <channel id="sonlaradio">
-    <display-name>Sơn La Radio</display-name>
-    <icon src="https://sonlatv.vn/upload/files/image/Banner_1.png" />
-  </channel>
-  <programme channel="sonlaradio" start="20251228213000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Đọc truyện</title>
-    <icon src="https://sonlatv.vn/upload/files/image/Banner_1.png" />
-  </programme>
-  <channel id="spotv1">
-    <display-name>SPOTV</display-name>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ff8878SPOTV_IVP_LAND_1280x720.jpg" />
-  </channel>
-  <programme channel="spotv1" start="20251228220000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Football</title>
-    <desc lang="vi">25/26 A League Men - Round 9 - Wellington Phoenix vs Central Coast Mariners FC</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/ff8878SPOTV_IVP_LAND_1280x720.jpg" />
-  </programme>
-  <channel id="spotv2">
-    <display-name>SPOTV2</display-name>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2d880cSPOTV2_IVP_LAND_1280x720.jpg" />
-  </channel>
-  <programme channel="spotv2" start="20251228220000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Football</title>
-    <desc lang="vi">25/26 A-League Men - Round 10 - Adelaide United vs Western Sydney Wanderers FC</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2d880cSPOTV2_IVP_LAND_1280x720.jpg" />
-  </programme>
-  <channel id="tayninh1">
-    <display-name>Tây Ninh 1</display-name>
-    <icon src="https://vnepg.site/logos/124.png" />
-  </channel>
-  <programme channel="tayninh1" start="20251228231000 +0700" stop="20251228235900 +0700">
-    <title lang="vi">Sân khấu cải lương</title>
-    <desc lang="vi">Vầng trăng ai xẻ ( Phần 2 )</desc>
-    <icon src="https://vnepg.site/logos/124.png" />
-  </programme>
-  <channel id="tayninh2">
-    <display-name>Tây Ninh 2</display-name>
-    <icon src="https://vnepg.site/logos/125.png" />
-  </channel>
-  <programme channel="tayninh2" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim truyện</title>
-    <icon src="https://vnepg.site/logos/125.png" />
-  </programme>
   <channel id="thainguyen">
-    <display-name>Thái Nguyên</display-name>
-    <icon src="https://vnepg.site/logos/126.png" />
+    <display-name lang="vi">Thái Nguyên</display-name>
   </channel>
-  <programme channel="thainguyen" start="20251228234500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">TRUYỀN HÌNH HẢI QUÂN</title>
-    <icon src="https://vnepg.site/logos/126.png" />
-  </programme>
-  <channel id="thainguyenradio">
-    <display-name>Thái Nguyên Radio</display-name>
-    <icon src="https://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg" />
-  </channel>
-  <programme channel="thainguyenradio" start="20251228235000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Văn bản CSPL</title>
-    <desc lang="vi">Những Luật, Nghị quyết sẽ có hiệu lực thi hành từ 1/1/2026</desc>
-    <icon src="https://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg" />
-  </programme>
   <channel id="thanhhoa">
-    <display-name>Thanh Hóa</display-name>
-    <icon src="https://vnepg.site/logos/127.png" />
+    <display-name lang="vi">Thanh Hóa</display-name>
   </channel>
-  <programme channel="thanhhoa" start="20251228232500 +0700" stop="20251228235000 +0700">
-    <title lang="vi">Thế giới động vật</title>
-    <icon src="https://vnepg.site/logos/127.png" />
-  </programme>
-  <channel id="thanhhoaradio">
-    <display-name>Thanh Hoá Radio</display-name>
-    <icon src="https://c.baothanhhoa.vn/static/ptth/bth-radio.webp" />
-  </channel>
-  <programme channel="thanhhoaradio" start="20251228214500 +0700" stop="20251228220000 +0700">
-    <title lang="vi">Bản tin thời sự cuối ngày</title>
-    <icon src="https://c.baothanhhoa.vn/static/ptth/bth-radio.webp" />
-  </programme>
   <channel id="tlchd">
-    <display-name>Travel Living</display-name>
-    <icon src="https://vnepg.site/logos/168.png" />
+    <display-name lang="vi">TLC</display-name>
   </channel>
-  <programme channel="tlchd" start="20251229234500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">GIRL MEETS FARM (S14)</title>
-    <icon src="https://vnepg.site/logos/168.png" />
-  </programme>
   <channel id="tuyenquang">
-    <display-name>Tuyên Quang</display-name>
-    <icon src="https://vnepg.site/logos/128.png" />
+    <display-name lang="vi">Tuyên Quang</display-name>
   </channel>
-  <programme channel="tuyenquang" start="20251229233900 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Giới thiệu chương trình ngày 30.12.2025</title>
-    <icon src="https://vnepg.site/logos/128.png" />
-  </programme>
-  <channel id="tv360plus1">
-    <display-name>TV360+1</display-name>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png" />
-  </channel>
-  <programme channel="tv360plus1" start="20251229000000 +0700" stop="20251229000500 +0700">
-    <title lang="vi">Không có chương trình</title>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png" />
-  </programme>
-  <channel id="tv360plus2">
-    <display-name>TV360+2</display-name>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png" />
-  </channel>
-  <programme channel="tv360plus2" start="20251229000000 +0700" stop="20251229000500 +0700">
-    <title lang="vi">Không có chương trình</title>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png" />
-  </programme>
-  <channel id="tv360plus3">
-    <display-name>TV360+3</display-name>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_640_360.png" />
-  </channel>
-  <programme channel="tv360plus3" start="20251229000000 +0700" stop="20251229000500 +0700">
-    <title lang="vi">Không có chương trinh</title>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_640_360.png" />
-  </programme>
-  <channel id="tv360plus4">
-    <display-name>TV360+4</display-name>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_640_360.png" />
-  </channel>
-  <programme channel="tv360plus4" start="20251229000000 +0700" stop="20251229000500 +0700">
-    <title lang="vi">Không Có Chương Trình</title>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_640_360.png" />
-  </programme>
-  <channel id="tv360plus5">
-    <display-name>TV360+5</display-name>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png" />
-  </channel>
-  <programme channel="tv360plus5" start="20251229000000 +0700" stop="20251229000500 +0700">
-    <title lang="vi">Không có chương trinh</title>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png" />
-  </programme>
-  <channel id="tv360plus6">
-    <display-name>TV360+6</display-name>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png" />
-  </channel>
-  <programme channel="tv360plus6" start="20251229000000 +0700" stop="20251229000500 +0700">
-    <title lang="vi">Không Có Chương Trình</title>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png" />
-  </programme>
-  <channel id="tv360plus7">
-    <display-name>TV360+7</display-name>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png" />
-  </channel>
-  <programme channel="tv360plus7" start="20251229000000 +0700" stop="20251229000500 +0700">
-    <title lang="vi">Không Có Chương Trình</title>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png" />
-  </programme>
-  <channel id="tv360plus8">
-    <display-name>TV360+8</display-name>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png" />
-  </channel>
-  <programme channel="tv360plus8" start="20251229000000 +0700" stop="20251229000500 +0700">
-    <title lang="vi">Không có chương trình</title>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png" />
-  </programme>
-  <channel id="tv360plus9">
-    <display-name>TV360+9</display-name>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png" />
-  </channel>
-  <programme channel="tv360plus9" start="20251229000000 +0700" stop="20251229000500 +0700">
-    <title lang="vi">Không có chương trinh</title>
-    <icon src="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png" />
-  </programme>
   <channel id="tv5.info">
     <display-name>TV5MONDE Info</display-name>
   </channel>
@@ -4146,7 +2810,7 @@
     <title>Météo</title>
     <desc />
   </programme>
-  <programme start="20251228113000 +0700" stop="20251228115600 +0700" channel="tv5.info">
+  <programme start="20251228113000 +0700" stop="20251228115532 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
@@ -4162,23 +2826,23 @@
     <title>Météo</title>
     <desc />
   </programme>
-  <programme start="20251228125800 +0700" stop="20251228132400 +0700" channel="tv5.info">
+  <programme start="20251228125800 +0700" stop="20251228132332 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
-  <programme start="20251228133000 +0700" stop="20251228135600 +0700" channel="tv5.info">
+  <programme start="20251228133000 +0700" stop="20251228135532 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
-  <programme start="20251228140000 +0700" stop="20251228142900 +0700" channel="tv5.info">
+  <programme start="20251228140000 +0700" stop="20251228142819 +0700" channel="tv5.info">
     <title>Le 23h</title>
     <desc />
   </programme>
-  <programme start="20251228143000 +0700" stop="20251228145900 +0700" channel="tv5.info">
+  <programme start="20251228143000 +0700" stop="20251228145819 +0700" channel="tv5.info">
     <title>Le 23h</title>
     <desc />
   </programme>
-  <programme start="20251228150200 +0700" stop="20251228152800 +0700" channel="tv5.info">
+  <programme start="20251228150200 +0700" stop="20251228152732 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
@@ -4222,7 +2886,7 @@
     <title>Météo</title>
     <desc />
   </programme>
-  <programme start="20251228190000 +0700" stop="20251228192600 +0700" channel="tv5.info">
+  <programme start="20251228190000 +0700" stop="20251228192532 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
@@ -4230,11 +2894,11 @@
     <title>Météo</title>
     <desc />
   </programme>
-  <programme start="20251228193100 +0700" stop="20251228195700 +0700" channel="tv5.info">
+  <programme start="20251228193100 +0700" stop="20251228195632 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
-  <programme start="20251228195900 +0700" stop="20251228202030 +0700" channel="tv5.info">
+  <programme start="20251228195900 +0700" stop="20251228201829 +0700" channel="tv5.info">
     <title>Le téléjournal de Radio-Canada</title>
     <desc />
   </programme>
@@ -4242,11 +2906,11 @@
     <title>Météo</title>
     <desc />
   </programme>
-  <programme start="20251228202900 +0700" stop="20251228205500 +0700" channel="tv5.info">
+  <programme start="20251228202900 +0700" stop="20251228205432 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
-  <programme start="20251228210000 +0700" stop="20251228212600 +0700" channel="tv5.info">
+  <programme start="20251228210000 +0700" stop="20251228212532 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
@@ -4258,7 +2922,7 @@
     <title>Météo</title>
     <desc />
   </programme>
-  <programme start="20251228223000 +0700" stop="20251228225130 +0700" channel="tv5.info">
+  <programme start="20251228223000 +0700" stop="20251228224929 +0700" channel="tv5.info">
     <title>Le téléjournal de Radio-Canada</title>
     <desc />
   </programme>
@@ -4274,11 +2938,11 @@
     <title>L'invité</title>
     <desc />
   </programme>
-  <programme start="20251229000000 +0700" stop="20251229002600 +0700" channel="tv5.info">
+  <programme start="20251229000000 +0700" stop="20251229002532 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
-  <programme start="20251229003000 +0700" stop="20251229005130 +0700" channel="tv5.info">
+  <programme start="20251229003000 +0700" stop="20251229004929 +0700" channel="tv5.info">
     <title>Le téléjournal de Radio-Canada</title>
     <desc />
   </programme>
@@ -4286,15 +2950,15 @@
     <title>Météo</title>
     <desc />
   </programme>
-  <programme start="20251229005900 +0700" stop="20251229012500 +0700" channel="tv5.info">
+  <programme start="20251229005900 +0700" stop="20251229012432 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
-  <programme start="20251229013000 +0700" stop="20251229015600 +0700" channel="tv5.info">
+  <programme start="20251229013000 +0700" stop="20251229015532 +0700" channel="tv5.info">
     <title>Le journal Afrique</title>
     <desc />
   </programme>
-  <programme start="20251229020000 +0700" stop="20251229022130 +0700" channel="tv5.info">
+  <programme start="20251229020000 +0700" stop="20251229021929 +0700" channel="tv5.info">
     <title>Le téléjournal de Radio-Canada</title>
     <desc />
   </programme>
@@ -4578,14 +3242,8 @@
     <desc />
   </programme>
   <channel id="tv5monde">
-    <display-name>TV5MONDE</display-name>
-    <icon src="https://vnepg.site/logos/162.png" />
+    <display-name lang="vi">TV5 Monde</display-name>
   </channel>
-  <programme channel="tv5monde" start="20251229235238 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Le coffre</title>
-    <icon src="https://vnepg.site/logos/162.png" />
-    <category lang="vi">Cinema</category>
-  </programme>
   <channel id="tvbvn">
     <display-name lang="vi">TVB Việt Nam</display-name>
     <display-name lang="en">TVB Vietnam</display-name>
@@ -5807,356 +4465,52 @@
     <previously-shown />
     <new />
   </programme>
-  <channel id="tvnasia">
-    <display-name>tvN</display-name>
-    <icon src="https://linear-poster.astro.com.my/prod/poster/tvN_2021_IVP_LAND_586x330.jpg" />
-  </channel>
-  <programme channel="tvnasia" start="20251229235500 +0700" stop="20251230005500 +0700">
-    <title lang="vi">Queen Woo Ep01</title>
-    <desc lang="vi">As soon as the death of King Gogukcheon of Goguryeo is announced, a fierce battle against the crown begins. Queen Woo must establishes a new king within 24 hours to stabilizes the country.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000217X826098.jpg" />
-    <category lang="vi">TV Show</category>
-    <category lang="vi">Drama</category>
-  </programme>
-  <channel id="tvnmovies">
-    <display-name>tvN Movies</display-name>
-    <icon src="https://linear-poster.astro.com.my/prod/poster/tvNMovies_2021_IVP_LAND_586x330.jpg" />
-  </channel>
-  <programme channel="tvnmovies" start="20251229233500 +0700" stop="20251230014000 +0700">
-    <title lang="vi">Juror 8</title>
-    <desc lang="vi">Based on a true story, eight ordinary people of different backgrounds were selected as the first jury for a murder trial in South Korea in 2008.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000323X423051.jpg" />
-    <category lang="vi">Movie</category>
-    <category lang="vi">Drama</category>
-  </programme>
-  <channel id="vietnamtoday">
-    <display-name>Vietnam Today</display-name>
-    <icon src="https://vnepg.site/logos/176.png" />
-  </channel>
   <channel id="vinhlong1hd">
-    <display-name>Vĩnh Long 1</display-name>
-    <icon src="https://vnepg.site/logos/75.png" />
+    <display-name lang="vi">Vĩnh Long 1</display-name>
   </channel>
-  <programme channel="vinhlong1hd" start="20251229235408 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim Ấn Độ</title>
-    <desc lang="vi">Chạm vào hạnh phúc - Tập 22</desc>
-    <icon src="https://vnepg.site/logos/75.png" />
-  </programme>
   <channel id="vinhlong2hd">
-    <display-name>Vĩnh Long 2</display-name>
-    <icon src="https://vnepg.site/logos/76.png" />
+    <display-name lang="vi">Vĩnh Long 2</display-name>
   </channel>
-  <programme channel="vinhlong2hd" start="20251229233915 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim Việt Nam</title>
-    <desc lang="vi">Chống lại số phận - Tập 29</desc>
-    <icon src="https://vnepg.site/logos/76.png" />
-  </programme>
   <channel id="vinhlong3hd">
-    <display-name>Vĩnh Long 3</display-name>
-    <icon src="https://vnepg.site/logos/77.png" />
+    <display-name lang="vi">Vĩnh Long 3</display-name>
   </channel>
-  <programme channel="vinhlong3hd" start="20251229233720 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Ca nhạc</title>
-    <icon src="https://vnepg.site/logos/77.png" />
-  </programme>
   <channel id="vinhlong4hd">
-    <display-name>Vĩnh Long 4</display-name>
-    <icon src="https://vnepg.site/logos/78.png" />
+    <display-name lang="vi">Vĩnh Long 4</display-name>
   </channel>
-  <programme channel="vinhlong4hd" start="20251229234001 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Phim Việt Nam</title>
-    <desc lang="vi">Song sinh bí ẩn - T.20</desc>
-    <icon src="https://vnepg.site/logos/78.png" />
-  </programme>
-  <channel id="vinhlong5hd">
-    <display-name>Vĩnh Long 5</display-name>
-    <icon src="https://vnepg.site/logos/175.png" />
-  </channel>
-  <programme channel="vinhlong5hd" start="20251229211522 +0700" stop="20251229220000 +0700">
-    <title lang="vi">Phim Việt Nam</title>
-    <desc lang="vi">Vợ Quan - Tập 36</desc>
-    <icon src="https://vnepg.site/logos/175.png" />
-  </programme>
-  <channel id="vinhlongradio">
-    <display-name>Vĩnh Long Radio</display-name>
-    <icon src="https://1288820264.pop.vnptcdn.com/assets/3671422c/Thumbnail/2022/07/22/bp9k53sL_Logo-Radio.jpg" />
-  </channel>
-  <programme channel="vinhlongradio" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Tác giả, tác phẩm</title>
-    <icon src="https://1288820264.pop.vnptcdn.com/assets/3671422c/Thumbnail/2022/07/22/bp9k53sL_Logo-Radio.jpg" />
-  </programme>
-  <channel id="voh610">
-    <display-name>VOH AM 610 kHz</display-name>
-    <icon src="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png" />
-  </channel>
-  <programme channel="voh610" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Đọc truyện đêm khuya</title>
-    <desc lang="vi">Tiểu thuyết Thành phố bên sông – Kim Quyên – Phần 14</desc>
-    <icon src="https://image.voh.com.vn/voh/image/2024/01/03/doc_truyen_dem_khuya_mac_dinh-164015.jpg" />
-  </programme>
-  <channel id="voh877">
-    <display-name>VOH FM 87.7 MHz</display-name>
-    <icon src="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm877-512x512-110237.png" />
-  </channel>
-  <programme channel="voh877" start="20251229223000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Ca khúc Việt Nam</title>
-    <icon src="https://image1.voh.com.vn/vohpodcast/guests/2023/02/17/ca-khuc-viet-nam-mac-dinh_20230217174008.jpg" />
-  </programme>
-  <channel id="voh925">
-    <display-name>VOH-M FM 92-92.5 MHz</display-name>
-    <icon src="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png" />
-  </channel>
-  <programme channel="voh925" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Đọc truyện đêm khuya</title>
-    <icon src="https://image1.voh.com.vn/vohpodcast/guests/2023/02/27/doc-truyen-dem-khuya-mac-dinh_20230227154606.jpg" />
-  </programme>
-  <channel id="voh956">
-    <display-name>VOH FM 95.6 MHz</display-name>
-    <icon src="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm956-512x512-110204.png" />
-  </channel>
-  <programme channel="voh956" start="20251229210000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Trạm Radio</title>
-    <icon src="https://image.voh.com.vn/voh/image/2025/10/21/tram-radio-1280-x-768-px-140717.jpg" />
-  </programme>
-  <channel id="voh999">
-    <display-name>VOH FM 99.9 MHz</display-name>
-    <icon src="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm999-512x512-104012.png" />
-  </channel>
-  <programme channel="voh999" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Lên lịch đi nào</title>
-    <desc lang="vi">Bánh cuốn Tây Hồ, tấm bánh mỏng, tình sâu dày</desc>
-    <icon src="https://image.voh.com.vn/voh/image/2024/01/03/len-lich-di-nao-mac-dinh-164213.jpg" />
-  </programme>
-  <channel id="vov1">
-    <display-name>VOV1</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
-  </channel>
-  <programme channel="vov1" start="20251228231500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Tạp chí văn hóa nghệ thuật quân đội</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
-  </programme>
-  <channel id="vov2">
-    <display-name>VOV2</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/44c6a88dd396d18672012a99cb50af6f.png" />
-  </channel>
-  <programme channel="vov2" start="20251228235800 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Chương trình đệm cuối ngày</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/44c6a88dd396d18672012a99cb50af6f.png" />
-  </programme>
-  <channel id="vov247">
-    <display-name>VOV5 English 24/7</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/7cd669823aa7179902eaa2b346a1ad47.png" />
-  </channel>
-  <programme channel="vov247" start="20251228230000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Tiếng Anh</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/7cd669823aa7179902eaa2b346a1ad47.png" />
-  </programme>
-  <channel id="vov3">
-    <display-name>VOV3</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/a10ec7d78b36fe4a5a3847c0a3bc9500.png" />
-  </channel>
-  <programme channel="vov3" start="20251228230000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Thính phòng giao hưởng</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/a10ec7d78b36fe4a5a3847c0a3bc9500.png" />
-  </programme>
-  <channel id="vov4hcm">
-    <display-name>VOV4 Hồ Chí Minh</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/dd00cc0d17dbfd11674afa5867f394dd.png" />
-  </channel>
-  <programme channel="vov4hcm" start="20251228190000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Chương trình tiếng Chăm</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/dd00cc0d17dbfd11674afa5867f394dd.png" />
-  </programme>
-  <channel id="vov4mt">
-    <display-name>VOV4 Miền Trung</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/ce4830ba7a38c1981c92340832703cd4.png" />
-  </channel>
-  <programme channel="vov4mt" start="20251228194500 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Tiếp sóng VOV1</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/ce4830ba7a38c1981c92340832703cd4.png" />
-  </programme>
-  <channel id="vov4scl">
-    <display-name>VOV4 Đồng bằng Sông Cửu Long</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/c58979042ac1c97d871468cfa24bc3ce.png" />
-  </channel>
-  <programme channel="vov4scl" start="20251228193000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Ca nhạc Khmer theo yêu cầu - Chào cuối ngày</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/c58979042ac1c97d871468cfa24bc3ce.png" />
-  </programme>
-  <channel id="vov4tb">
-    <display-name>VOV4 Tây Bắc - Đông Bắc</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/0564514a4bd062270cc331374192a792.png" />
-  </channel>
-  <programme channel="vov4tb" start="20251228200000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Tiếng Dao</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/0564514a4bd062270cc331374192a792.png" />
-  </programme>
-  <channel id="vov4tn">
-    <display-name>VOV4 Tây Nguyên</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/4f0ad5a01e0cb643307068cb15b98b37.png" />
-  </channel>
-  <programme channel="vov4tn" start="20251228213000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Chương trình tiếng Mông</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/4f0ad5a01e0cb643307068cb15b98b37.png" />
-  </programme>
-  <channel id="vov5">
-    <display-name>VOV5</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/fe0b73cb314fce7e46e8957ce98627f6.png" />
-  </channel>
-  <programme channel="vov5" start="20251228230000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Tiếng Hàn</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/fe0b73cb314fce7e46e8957ce98627f6.png" />
-  </programme>
-  <channel id="vovgtduyenhai">
-    <display-name>VOV Giao thông Duyên Hải</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
-  </channel>
-  <programme channel="vovgtduyenhai" start="20251228183000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Nhập sóng VOVGT Hà Nội</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
-  </programme>
-  <channel id="vovgthcm">
-    <display-name>VOV Giao thông Hồ Chí Minh</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/99c779254838d395aa0ade3cdc5226c0.png" />
-  </channel>
-  <programme channel="vovgthcm" start="20251228230000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Nhạc quốc tế</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/99c779254838d395aa0ade3cdc5226c0.png" />
-  </programme>
-  <channel id="vovgthn">
-    <display-name>VOV Giao thông Hà Nội</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/941fd0c7483baf5d6c60e81cf7968eed.png" />
-  </channel>
-  <programme channel="vovgthn" start="20251228230000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Ca nhạc quốc tế đêm</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/941fd0c7483baf5d6c60e81cf7968eed.png" />
-  </programme>
-  <channel id="vovgtmekong">
-    <display-name>VOV Giao thông Mekong</display-name>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/e402f4b01962e5ba21eecd8ad9ffde47.png" />
-  </channel>
-  <programme channel="vovgtmekong" start="20251228190000 +0700" stop="20251228235959 +0700">
-    <title lang="vi">Nhập sóng FM91 TP HCM</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/e402f4b01962e5ba21eecd8ad9ffde47.png" />
-  </programme>
   <channel id="vtv1hd">
-    <display-name>VTV1</display-name>
-    <icon src="https://vnepg.site/logos/1.png" />
+    <display-name lang="vi">VTV1</display-name>
   </channel>
-  <programme channel="vtv1hd" start="20251229234500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Khám phá Việt Nam</title>
-    <icon src="https://vnepg.site/thumbnail/vtv1/khamphavietnam.jpg" />
-  </programme>
   <channel id="vtv2hd">
-    <display-name>VTV2</display-name>
-    <icon src="https://vnepg.site/logos/2.png" />
+    <display-name lang="vi">VTV2</display-name>
   </channel>
-  <programme channel="vtv2hd" start="20251229235000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Nẻo về nguồn cội</title>
-    <icon src="https://vnepg.site/thumbnail/vtv2/neovenguoncoi.jpg" />
-  </programme>
   <channel id="vtv3hd">
-    <display-name>VTV3</display-name>
-    <icon src="https://vnepg.site/logos/3.png" />
+    <display-name lang="vi">VTV3</display-name>
   </channel>
-  <programme channel="vtv3hd" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Lời tự sự</title>
-    <desc lang="vi">Ca sĩ Phương Phương Thảo</desc>
-    <icon src="https://vnepg.site/thumbnail/vtv3/loitusu.jpg" />
-  </programme>
   <channel id="vtv4hd">
-    <display-name>VTV4</display-name>
-    <icon src="https://vnepg.site/logos/4.png" />
+    <display-name lang="vi">VTV4</display-name>
   </channel>
-  <programme channel="vtv4hd" start="20251229232000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Thể thao</title>
-    <desc lang="vi">Những cô gái vàng</desc>
-    <icon src="https://vnepg.site/logos/4.png" />
-  </programme>
   <channel id="vtv5hd">
-    <display-name>VTV5</display-name>
-    <icon src="https://vnepg.site/logos/5.png" />
+    <display-name lang="vi">VTV5</display-name>
   </channel>
-  <programme channel="vtv5hd" start="20251229234500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Nẻo về nguồn cội</title>
-    <icon src="https://vnepg.site/logos/5.png" />
-  </programme>
   <channel id="vtv5hdtn">
-    <display-name>VTV5 Tây Nguyên</display-name>
-    <icon src="https://vnepg.site/logos/7.png" />
+    <display-name lang="vi">VTV5 - Tây Nguyên</display-name>
   </channel>
-  <programme channel="vtv5hdtn" start="20251229231500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Cho ngày hoàn hảo</title>
-    <icon src="https://vnepg.site/logos/7.png" />
-  </programme>
   <channel id="vtv5hdtnb">
-    <display-name>VTV5 Tây Nam Bộ</display-name>
-    <icon src="https://vnepg.site/logos/6.png" />
+    <display-name lang="vi">VTV5 - Tây Nam Bộ</display-name>
   </channel>
-  <programme channel="vtv5hdtnb" start="20251229231500 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Trợ giúp pháp lý</title>
-    <desc lang="vi">Người bị buộc tội từ 16-18 tuổi trong vụ án cố ý gây thương</desc>
-    <icon src="https://vnepg.site/logos/6.png" />
-  </programme>
   <channel id="vtv7hd">
-    <display-name>VTV7</display-name>
-    <icon src="https://vnepg.site/logos/9.png" />
+    <display-name lang="vi">VTV7</display-name>
   </channel>
-  <programme channel="vtv7hd" start="20251229234000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Không thì thầm</title>
-    <desc lang="vi">Số 14 - Kinh nguyệt</desc>
-    <icon src="https://vnepg.site/thumbnail/vtv7/khongthitham.jpg" />
-  </programme>
   <channel id="vtv8hd">
-    <display-name>VTV8</display-name>
-    <icon src="https://vnepg.site/logos/10.png" />
+    <display-name lang="vi">VTV8</display-name>
   </channel>
-  <programme channel="vtv8hd" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Khám phá thế giới</title>
-    <icon src="https://vnepg.site/logos/10.png" />
-  </programme>
   <channel id="vtv9hd">
-    <display-name>VTV9</display-name>
-    <icon src="https://vnepg.site/logos/11.png" />
+    <display-name lang="vi">VTV9</display-name>
   </channel>
-  <programme channel="vtv9hd" start="20251229230000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Lớp học hoàn mỹ</title>
-    <icon src="https://vnepg.site/thumbnail/vtv9/lophochoanmy.jpg" />
-  </programme>
-  <channel id="vtvcantho">
-    <display-name>VTV Cần Thơ</display-name>
-    <icon src="https://vnepg.site/logos/8.png" />
-  </channel>
-  <programme channel="vtvcantho" start="20251229233000 +0700" stop="20251229235959 +0700">
-    <title lang="vi">Giờ vàng thể thao</title>
-    <icon src="https://vnepg.site/thumbnail/vtvcantho/giovangthethao.jpg" />
-  </programme>
   <channel id="warnertvhd">
-    <display-name>Warner TV</display-name>
-    <icon src="https://vnepg.site/logos/169.png" />
+    <display-name lang="vi">Warner TV</display-name>
   </channel>
-  <programme channel="warnertvhd" start="20251229221000 +0700" stop="20251229235900 +0700">
-    <title lang="vi">Chạy Thâu Đêm</title>
-    <desc lang="vi">Run All Night</desc>
-    <icon src="https://vnepg.site/logos/169.png" />
-  </programme>
   <channel id="woman">
-    <display-name>Woman</display-name>
-    <icon src="https://vnepg.site/logos/139.png" />
+    <display-name lang="vi">Woman</display-name>
   </channel>
-  <programme channel="woman" start="20251229000000 +0700" stop="20251229000000 +0700">
-    <title lang="vi">2</title>
-    <icon src="https://vnepg.site/logos/139.png" />
-  </programme>
-  <channel id="wsport">
-    <display-name>W-Sport</display-name>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/W-Sport_V1_IVP_LAND_1280x720.jpg" />
-  </channel>
-  <programme channel="wsport" start="20251229223000 +0700" stop="20251230003000 +0700">
-    <title lang="vi">Frauen Bundesliga 25/26</title>
-    <desc lang="vi">The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Bayer Leverkusen v Wolfsburg.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/W-Sport_V1_IVP_LAND_917x516.jpg" />
-    <category lang="vi">Sports</category>
-    <category lang="vi">Football</category>
-  </programme>
 </tv>
