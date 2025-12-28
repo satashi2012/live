@@ -2,9 +2,9 @@ name: ▶️ EPG Grabber
 
 on:
   schedule:
-    - cron: '45 0 * * *'   # 00:45
-    - cron: '15 1 * * *'   # 01:15 (backup)
-    - cron: '45 1 * * *'   # 01:45 (backup cuối)
+  - cron: '45 17 * * *'   # 00:45 VN
+  - cron: '15 18 * * *'   # 01:15 VN (backup)
+  - cron: '45 18 * * *'   # 01:45 VN (backup cuối)
   workflow_dispatch: {}
 
 permissions:
