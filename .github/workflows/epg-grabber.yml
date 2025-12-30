@@ -2,7 +2,7 @@ name: ▶️ EPG Grabber
 
 on:
   schedule:
-  # ⏰ Giờ Việt Nam (UTC+7) đã quy đổi sang UTC
+  # ⏰ Giờ UTC đã quy đổi sang Giờ Việt Nam (UTC+7)
   - cron: '45 17 * * *'   # 00:45 VN
   - cron: '15 18 * * *'   # 01:15 VN (backup)
   - cron: '45 18 * * *'   # 01:45 VN (backup)
