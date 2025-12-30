@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="epgvn.gq" last-update="2025-12-30T17:55:44Z">
+<tv generator-info-name="epgvn.gq" last-update="2025-12-30T18:47:49Z">
   <channel id="abcaustralia">
     <display-name>ABC Australia</display-name>
     <icon src="https://vnepg.site/logos/153.png" />
@@ -4276,6 +4276,48 @@
     <desc lang="vi">Rookie Blue (Season 4)</desc>
     <icon src="https://vnepg.site/logos/163.png" />
   </programme>
+  <programme start="20251231013000 +0700" stop="20251231033000 +0700" channel="axnhd">
+    <title lang="en">Blockbuster Spesial Tahun Baru</title>
+  </programme>
+  <programme start="20251231033000 +0700" stop="20251231050000 +0700" channel="axnhd">
+    <title lang="en">Mega Film Asia</title>
+  </programme>
+  <programme start="20251231050000 +0700" stop="20251231053000 +0700" channel="axnhd">
+    <title lang="en">Mujizat Masih Ada</title>
+  </programme>
+  <programme start="20251231053000 +0700" stop="20251231070000 +0700" channel="axnhd">
+    <title lang="en">Fokus Pagi</title>
+  </programme>
+  <programme start="20251231070000 +0700" stop="20251231090000 +0700" channel="axnhd">
+    <title lang="en">Merangkai Kisah Indah</title>
+  </programme>
+  <programme start="20251231090000 +0700" stop="20251231110000 +0700" channel="axnhd">
+    <title lang="en">Kisah Nyata Pagi</title>
+  </programme>
+  <programme start="20251231110000 +0700" stop="20251231120000 +0700" channel="axnhd">
+    <title lang="en">Hot Kiss</title>
+  </programme>
+  <programme start="20251231120000 +0700" stop="20251231123000 +0700" channel="axnhd">
+    <title lang="en">Patroli Siang</title>
+  </programme>
+  <programme start="20251231123000 +0700" stop="20251231130000 +0700" channel="axnhd">
+    <title lang="en">Fokus Siang</title>
+  </programme>
+  <programme start="20251231130000 +0700" stop="20251231143000 +0700" channel="axnhd">
+    <title lang="en">Kisah Nyata Siang</title>
+  </programme>
+  <programme start="20251231143000 +0700" stop="20251231160000 +0700" channel="axnhd">
+    <title lang="en">Kisah Nyata</title>
+  </programme>
+  <programme start="20251231160000 +0700" stop="20251231180000 +0700" channel="axnhd">
+    <title lang="en">Kisah Nyata Spesial</title>
+  </programme>
+  <programme start="20251231180000 +0700" stop="20251231200000 +0700" channel="axnhd">
+    <title lang="en">Merangkai Kisah Indah</title>
+  </programme>
+  <programme start="20251231200000 +0700" stop="20260101013000 +0700" channel="axnhd">
+    <title lang="en">Happy New Year 2026 Indonesia</title>
+  </programme>
   <channel id="bacninh">
     <display-name>Bắc Ninh</display-name>
     <icon src="https://vnepg.site/logos/82.png" />
@@ -5189,6 +5231,109 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000542X590405.jpg" />
     <category lang="vi">Thực tế &amp;amp; Tài liệu</category>
     <category lang="vi">Phim tài liệu</category>
+  </programme>
+  <programme start="20251231003500 +0700" stop="20251231012500 +0700" channel="bbcearth">
+    <title lang="en">Big Adv.: Mississippi</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251231012500 +0700" stop="20251231023000 +0700" channel="bbcearth">
+    <title lang="en">Solar System</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251231023000 +0700" stop="20251231031500 +0700" channel="bbcearth">
+    <title lang="en">Running Wild</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20251231031500 +0700" stop="20251231040500 +0700" channel="bbcearth">
+    <title lang="en">Secret Life Of Trees</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20251231040500 +0700" stop="20251231050500 +0700" channel="bbcearth">
+    <title lang="en">Solar System</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251231050500 +0700" stop="20251231060000 +0700" channel="bbcearth">
+    <title lang="en">Wild Scandinavia</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20251231060000 +0700" stop="20251231065000 +0700" channel="bbcearth">
+    <title lang="en">Big Adv.: Mississippi</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251231065000 +0700" stop="20251231075500 +0700" channel="bbcearth">
+    <title lang="en">Solar System</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251231075500 +0700" stop="20251231084500 +0700" channel="bbcearth">
+    <title lang="en">Running Wild</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20251231084500 +0700" stop="20251231094500 +0700" channel="bbcearth">
+    <title lang="en">Incredible Journeys</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251231094500 +0700" stop="20251231103500 +0700" channel="bbcearth">
+    <title lang="en">Big Adv.: Mississippi</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251231103500 +0700" stop="20251231113000 +0700" channel="bbcearth">
+    <title lang="en">Griff's Canadian Adv.</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20251231113000 +0700" stop="20251231123500 +0700" channel="bbcearth">
+    <title lang="en">Solar System</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251231123500 +0700" stop="20251231133000 +0700" channel="bbcearth">
+    <title lang="en">Frozen Planet</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20251231133000 +0700" stop="20251231142500 +0700" channel="bbcearth">
+    <title lang="en">Kingdom</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20251231142500 +0700" stop="20251231152000 +0700" channel="bbcearth">
+    <title lang="en">Kingdom</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20251231152000 +0700" stop="20251231162000 +0700" channel="bbcearth">
+    <title lang="en">Kingdom</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20251231162000 +0700" stop="20251231172000 +0700" channel="bbcearth">
+    <title lang="en">Kingdom</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20251231172000 +0700" stop="20251231181500 +0700" channel="bbcearth">
+    <title lang="en">Kingdom</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20251231181500 +0700" stop="20251231191000 +0700" channel="bbcearth">
+    <title lang="en">Kingdom</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20251231191000 +0700" stop="20251231200000 +0700" channel="bbcearth">
+    <title lang="en">Running Wild</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20251231200000 +0700" stop="20251231205500 +0700" channel="bbcearth">
+    <title lang="en">Secrets Of Jurassic...</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20251231205500 +0700" stop="20251231215000 +0700" channel="bbcearth">
+    <title lang="en">Incredible Journeys</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20251231215000 +0700" stop="20251231225000 +0700" channel="bbcearth">
+    <title lang="en">Saving Venice</title>
+  </programme>
+  <programme start="20251231225000 +0700" stop="20251231234000 +0700" channel="bbcearth">
+    <title lang="en">Running Wild</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20251231234000 +0700" stop="20260101003500 +0700" channel="bbcearth">
+    <title lang="en">Secrets Of Jurassic...</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <channel id="bbclifestyle">
     <display-name>BBC Lifestyle</display-name>
@@ -8410,6 +8555,111 @@
     <category lang="vi">Trẻ em</category>
     <category lang="vi">Hoạt hình</category>
   </programme>
+  <programme start="20251231000000 +0700" stop="20251231010000 +0700" channel="cartoonhd">
+    <title lang="vi">Chương Trình Thường Nhật</title>
+  </programme>
+  <programme start="20251231010000 +0700" stop="20251231020000 +0700" channel="cartoonhd">
+    <title lang="vi">Ben 10</title>
+  </programme>
+  <programme start="20251231020000 +0700" stop="20251231030000 +0700" channel="cartoonhd">
+    <title lang="vi">Courage, Chú Chó Nhút Nhát</title>
+  </programme>
+  <programme start="20251231030000 +0700" stop="20251231040000 +0700" channel="cartoonhd">
+    <title lang="vi">Chương Trình Thường Nhật</title>
+  </programme>
+  <programme start="20251231040000 +0700" stop="20251231050000 +0700" channel="cartoonhd">
+    <title lang="vi">Ben 10</title>
+  </programme>
+  <programme start="20251231050000 +0700" stop="20251231060000 +0700" channel="cartoonhd">
+    <title lang="vi">Courage, Chú Chó Nhút Nhát</title>
+  </programme>
+  <programme start="20251231060000 +0700" stop="20251231061500 +0700" channel="cartoonhd">
+    <title lang="vi">Phim Hoạt Hình Những Giai Điệu Ngốc Nghếch</title>
+  </programme>
+  <programme start="20251231061500 +0700" stop="20251231071500 +0700" channel="cartoonhd">
+    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut: Vòng Quanh Thế Giới</title>
+  </programme>
+  <programme start="20251231071500 +0700" stop="20251231081500 +0700" channel="cartoonhd">
+    <title lang="vi">Ngài Bean</title>
+  </programme>
+  <programme start="20251231081500 +0700" stop="20251231091500 +0700" channel="cartoonhd">
+    <title lang="vi">Cao Thủ Karate Cừu</title>
+  </programme>
+  <programme start="20251231091500 +0700" stop="20251231101500 +0700" channel="cartoonhd">
+    <title lang="vi">Thế Giới Kỳ Quặc Của Gumball</title>
+  </programme>
+  <programme start="20251231101500 +0700" stop="20251231111500 +0700" channel="cartoonhd">
+    <title lang="vi">Biệt Đội Thiếu Niên Titan Xuất Kích!</title>
+  </programme>
+  <programme start="20251231111500 +0700" stop="20251231114000 +0700" channel="cartoonhd">
+    <title lang="vi">Chúng Tôi Đơn Giản Là Gấu Con</title>
+  </programme>
+  <programme start="20251231114000 +0700" stop="20251231114200 +0700" channel="cartoonhd">
+    <title lang="vi">Tom Và Jerry Nhí</title>
+  </programme>
+  <programme start="20251231114200 +0700" stop="20251231114500 +0700" channel="cartoonhd">
+    <title lang="vi">Tom Và Jerry Nhí</title>
+  </programme>
+  <programme start="20251231114500 +0700" stop="20251231121500 +0700" channel="cartoonhd">
+    <title lang="vi">Ngôi Trường Nhí Nhố</title>
+  </programme>
+  <programme start="20251231121500 +0700" stop="20251231131500 +0700" channel="cartoonhd">
+    <title lang="vi">Thị Trấn Jellystone</title>
+  </programme>
+  <programme start="20251231131500 +0700" stop="20251231134500 +0700" channel="cartoonhd">
+    <title lang="vi">Mermicorno: Sao Băng</title>
+  </programme>
+  <programme start="20251231134500 +0700" stop="20251231141500 +0700" channel="cartoonhd">
+    <title lang="vi">Mermicorno: Sao Băng</title>
+  </programme>
+  <programme start="20251231141500 +0700" stop="20251231142000 +0700" channel="cartoonhd">
+    <title lang="vi">Beast Boy: Sói Cô Độc</title>
+  </programme>
+  <programme start="20251231142000 +0700" stop="20251231144500 +0700" channel="cartoonhd">
+    <title lang="vi">Biệt Đội Thiếu Niên Titan Xuất Kích!</title>
+  </programme>
+  <programme start="20251231144500 +0700" stop="20251231151500 +0700" channel="cartoonhd">
+    <title lang="vi">Mechamato</title>
+  </programme>
+  <programme start="20251231151500 +0700" stop="20251231154500 +0700" channel="cartoonhd">
+    <title lang="vi">Mechamato</title>
+  </programme>
+  <programme start="20251231154500 +0700" stop="20251231161500 +0700" channel="cartoonhd">
+    <title lang="vi">Những Điệp Viên Siêu Hạng</title>
+  </programme>
+  <programme start="20251231161500 +0700" stop="20251231164500 +0700" channel="cartoonhd">
+    <title lang="vi">Những Điệp Viên Siêu Hạng</title>
+  </programme>
+  <programme start="20251231164500 +0700" stop="20251231171500 +0700" channel="cartoonhd">
+    <title lang="vi">Những Điệp Viên Siêu Hạng</title>
+  </programme>
+  <programme start="20251231171500 +0700" stop="20251231174500 +0700" channel="cartoonhd">
+    <title lang="vi">Thế Giới Kỳ Quặc Của Gumball</title>
+  </programme>
+  <programme start="20251231174500 +0700" stop="20251231181500 +0700" channel="cartoonhd">
+    <title lang="vi">Thế Giới Kỳ Quặc Của Gumball</title>
+  </programme>
+  <programme start="20251231181500 +0700" stop="20251231194500 +0700" channel="cartoonhd">
+    <title lang="vi">Steven Universe Bản Điện Ảnh Karaoke</title>
+  </programme>
+  <programme start="20251231194500 +0700" stop="20251231195000 +0700" channel="cartoonhd">
+    <title lang="vi">Beast Boy: Sói Cô Độc</title>
+  </programme>
+  <programme start="20251231195000 +0700" stop="20251231201500 +0700" channel="cartoonhd">
+    <title lang="vi">Biệt Đội Thiếu Niên Titan Xuất Kích!</title>
+  </programme>
+  <programme start="20251231201500 +0700" stop="20251231204500 +0700" channel="cartoonhd">
+    <title lang="vi">Mechamato</title>
+  </programme>
+  <programme start="20251231204500 +0700" stop="20251231211500 +0700" channel="cartoonhd">
+    <title lang="vi">Mechamato</title>
+  </programme>
+  <programme start="20251231211500 +0700" stop="20251231221500 +0700" channel="cartoonhd">
+    <title lang="vi">Chúng Tôi Đơn Giản Là Gấu</title>
+  </programme>
+  <programme start="20251231221500 +0700" stop="20251231231500 +0700" channel="cartoonhd">
+    <title lang="vi">Giờ Phiêu Lưu</title>
+  </programme>
   <channel id="cbeebies">
     <display-name>BBC Cbeebies</display-name>
     <icon src="https://vnepg.site/logos/150.png" />
@@ -10585,6 +10835,45 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X615408.jpg" />
     <category lang="vi">Phim</category>
     <category lang="vi">Kịch</category>
+  </programme>
+  <programme start="20251231000400 +0700" stop="20251231015900 +0700" channel="cinemaxhd">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231015900 +0700" stop="20251231034000 +0700" channel="cinemaxhd">
+    <title lang="en">Waist Deep</title>
+  </programme>
+  <programme start="20251231034000 +0700" stop="20251231054300 +0700" channel="cinemaxhd">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231054300 +0700" stop="20251231072000 +0700" channel="cinemaxhd">
+    <title lang="en">Cosmic Sin</title>
+  </programme>
+  <programme start="20251231072000 +0700" stop="20251231091600 +0700" channel="cinemaxhd">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231091600 +0700" stop="20251231110800 +0700" channel="cinemaxhd">
+    <title lang="en">Control</title>
+  </programme>
+  <programme start="20251231110800 +0700" stop="20251231125500 +0700" channel="cinemaxhd">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231125500 +0700" stop="20251231144100 +0700" channel="cinemaxhd">
+    <title lang="en">Gasoline Alley</title>
+  </programme>
+  <programme start="20251231144100 +0700" stop="20251231165600 +0700" channel="cinemaxhd">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231165600 +0700" stop="20251231183300 +0700" channel="cinemaxhd">
+    <title lang="en">Sleepless</title>
+  </programme>
+  <programme start="20251231183300 +0700" stop="20251231203200 +0700" channel="cinemaxhd">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231203200 +0700" stop="20251231222600 +0700" channel="cinemaxhd">
+    <title lang="en">Repeater</title>
+  </programme>
+  <programme start="20251231222600 +0700" stop="20260101002600 +0700" channel="cinemaxhd">
+    <title lang="en">Platinum</title>
   </programme>
   <channel id="cna">
     <display-name>CNA</display-name>
@@ -21183,6 +21472,45 @@
     <category lang="vi">TV Show</category>
     <category lang="vi">Entertainment</category>
   </programme>
+  <programme start="20251231005000 +0700" stop="20251231025300 +0700" channel="hbofamily">
+    <title lang="en">School Of Magical Animals 3</title>
+  </programme>
+  <programme start="20251231025300 +0700" stop="20251231045100 +0700" channel="hbofamily">
+    <title lang="en">Silver</title>
+  </programme>
+  <programme start="20251231045100 +0700" stop="20251231063600 +0700" channel="hbofamily">
+    <title lang="en">Autumn &amp; The Black Jaguar</title>
+  </programme>
+  <programme start="20251231063600 +0700" stop="20251231085300 +0700" channel="hbofamily">
+    <title lang="en">Silver</title>
+  </programme>
+  <programme start="20251231085300 +0700" stop="20251231103800 +0700" channel="hbofamily">
+    <title lang="en">First Dog</title>
+  </programme>
+  <programme start="20251231103800 +0700" stop="20251231122900 +0700" channel="hbofamily">
+    <title lang="en">Silver</title>
+  </programme>
+  <programme start="20251231122900 +0700" stop="20251231140700 +0700" channel="hbofamily">
+    <title lang="en">Emu Runner</title>
+  </programme>
+  <programme start="20251231140700 +0700" stop="20251231155900 +0700" channel="hbofamily">
+    <title lang="en">Silver</title>
+  </programme>
+  <programme start="20251231155900 +0700" stop="20251231175400 +0700" channel="hbofamily">
+    <title lang="en">My Pet Dinosaur</title>
+  </programme>
+  <programme start="20251231175400 +0700" stop="20251231193500 +0700" channel="hbofamily">
+    <title lang="en">Silver</title>
+  </programme>
+  <programme start="20251231193500 +0700" stop="20251231210400 +0700" channel="hbofamily">
+    <title lang="en">Little Crumb Race To Gold Mine</title>
+  </programme>
+  <programme start="20251231210400 +0700" stop="20251231232200 +0700" channel="hbofamily">
+    <title lang="en">Silver</title>
+  </programme>
+  <programme start="20251231232200 +0700" stop="20260101012700 +0700" channel="hbofamily">
+    <title lang="en">Mikolo</title>
+  </programme>
   <channel id="hbohd">
     <display-name>HBO</display-name>
     <icon src="https://vnepg.site/logos/129.png" />
@@ -21368,6 +21696,42 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X866531.jpg" />
     <category lang="vi">Phim</category>
     <category lang="vi">Giật gân</category>
+  </programme>
+  <programme start="20251231012900 +0700" stop="20251231030000 +0700" channel="hbohd">
+    <title lang="en">10 Items Or Less</title>
+  </programme>
+  <programme start="20251231030000 +0700" stop="20251231061600 +0700" channel="hbohd">
+    <title lang="en">Gold</title>
+  </programme>
+  <programme start="20251231061600 +0700" stop="20251231074500 +0700" channel="hbohd">
+    <title lang="en">A Snow Globe Christmas</title>
+  </programme>
+  <programme start="20251231074500 +0700" stop="20251231092600 +0700" channel="hbohd">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231092600 +0700" stop="20251231110400 +0700" channel="hbohd">
+    <title lang="en">Grand Isle</title>
+  </programme>
+  <programme start="20251231110400 +0700" stop="20251231130600 +0700" channel="hbohd">
+    <title lang="en">Gold</title>
+  </programme>
+  <programme start="20251231130600 +0700" stop="20251231150100 +0700" channel="hbohd">
+    <title lang="en">10 Years</title>
+  </programme>
+  <programme start="20251231150100 +0700" stop="20251231163500 +0700" channel="hbohd">
+    <title lang="en">Divorces</title>
+  </programme>
+  <programme start="20251231163500 +0700" stop="20251231184300 +0700" channel="hbohd">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231184300 +0700" stop="20251231201300 +0700" channel="hbohd">
+    <title lang="en">Blood Money</title>
+  </programme>
+  <programme start="20251231201300 +0700" stop="20251231221200 +0700" channel="hbohd">
+    <title lang="en">Gold</title>
+  </programme>
+  <programme start="20251231221200 +0700" stop="20260101000900 +0700" channel="hbohd">
+    <title lang="en">Literally, Right Before Aaron</title>
   </programme>
   <channel id="hbohits">
     <display-name>HBO Hits</display-name>
@@ -21575,6 +21939,45 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000540X631002.jpg" />
     <category lang="vi">Movie</category>
     <category lang="vi">Romance</category>
+  </programme>
+  <programme start="20251231001000 +0700" stop="20251231014900 +0700" channel="hbohits">
+    <title lang="en">Break Every Chain</title>
+  </programme>
+  <programme start="20251231014900 +0700" stop="20251231034000 +0700" channel="hbohits">
+    <title lang="en">Midnighters</title>
+  </programme>
+  <programme start="20251231034000 +0700" stop="20251231060100 +0700" channel="hbohits">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231060100 +0700" stop="20251231075000 +0700" channel="hbohits">
+    <title lang="en">Mothers And Daughters</title>
+  </programme>
+  <programme start="20251231075000 +0700" stop="20251231093600 +0700" channel="hbohits">
+    <title lang="en">Gold</title>
+  </programme>
+  <programme start="20251231093600 +0700" stop="20251231111500 +0700" channel="hbohits">
+    <title lang="en">Break Every Chain</title>
+  </programme>
+  <programme start="20251231111500 +0700" stop="20251231130200 +0700" channel="hbohits">
+    <title lang="en">Clowntergeist</title>
+  </programme>
+  <programme start="20251231130200 +0700" stop="20251231150500 +0700" channel="hbohits">
+    <title lang="en">Platinum</title>
+  </programme>
+  <programme start="20251231150500 +0700" stop="20251231165600 +0700" channel="hbohits">
+    <title lang="en">A Trace Of Danger</title>
+  </programme>
+  <programme start="20251231165600 +0700" stop="20251231192000 +0700" channel="hbohits">
+    <title lang="en">Gold</title>
+  </programme>
+  <programme start="20251231192000 +0700" stop="20251231204100 +0700" channel="hbohits">
+    <title lang="en">A Snapshot Of Forever</title>
+  </programme>
+  <programme start="20251231204100 +0700" stop="20251231223400 +0700" channel="hbohits">
+    <title lang="en">Best Sellers</title>
+  </programme>
+  <programme start="20251231223400 +0700" stop="20260101004500 +0700" channel="hbohits">
+    <title lang="en">Platinum</title>
   </programme>
   <channel id="hgtv">
     <display-name>HGTV</display-name>
@@ -28653,6 +29056,72 @@ Làm bom từ kẹo cao su? Sửa lỗi hỏng của một chiếc ô tô chạy
     <title lang="vi">Iron Squad W</title>
     <desc lang="vi">The fourth season of this Korean military survival show will determine the most elite female soldier. It brings together six Special Force units to compete in challenging missions across land, sea, and air. Top female reservists form teams of four to compete against one another. Witness how they battle to the end in front of six celebrity hosts!</desc>
     <icon src="https://vnepg.site/logos/167.png" />
+  </programme>
+  <programme start="20251231011000 +0700" stop="20251231023500 +0700" channel="kix">
+    <title lang="en">Iron Ball</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20251231023500 +0700" stop="20251231030500 +0700" channel="kix">
+    <title lang="en">Extreme Ends</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20251231030500 +0700" stop="20251231040000 +0700" channel="kix">
+    <title lang="en">10 Fight 10</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20251231040000 +0700" stop="20251231053000 +0700" channel="kix">
+    <title lang="en">The Macaque Monkey</title>
+  </programme>
+  <programme start="20251231053000 +0700" stop="20251231073000 +0700" channel="kix">
+    <title lang="en">Iron Squad W</title>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20251231073000 +0700" stop="20251231091000 +0700" channel="kix">
+    <title lang="en">Love Punch</title>
+  </programme>
+  <programme start="20251231091000 +0700" stop="20251231103500 +0700" channel="kix">
+    <title lang="en">Iron Ball</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20251231103500 +0700" stop="20251231110500 +0700" channel="kix">
+    <title lang="en">Extreme Ends</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20251231110500 +0700" stop="20251231120000 +0700" channel="kix">
+    <title lang="en">10 Fight 10</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20251231120000 +0700" stop="20251231133000 +0700" channel="kix">
+    <title lang="en">The Macaque Monkey</title>
+  </programme>
+  <programme start="20251231133000 +0700" stop="20251231153000 +0700" channel="kix">
+    <title lang="en">Iron Squad W</title>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20251231153000 +0700" stop="20251231171000 +0700" channel="kix">
+    <title lang="en">Love Punch</title>
+  </programme>
+  <programme start="20251231171000 +0700" stop="20251231183500 +0700" channel="kix">
+    <title lang="en">Iron Ball</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20251231183500 +0700" stop="20251231190500 +0700" channel="kix">
+    <title lang="en">Extreme Ends</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20251231190500 +0700" stop="20251231200000 +0700" channel="kix">
+    <title lang="en">10 Fight 10</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20251231200000 +0700" stop="20251231215000 +0700" channel="kix">
+    <title lang="en">Blind War</title>
+  </programme>
+  <programme start="20251231215000 +0700" stop="20251231230000 +0700" channel="kix">
+    <title lang="en">Iron Squad W</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20251231230000 +0700" stop="20260101002000 +0700" channel="kix">
+    <title lang="en">Dragon Master: Dragon Spell</title>
   </programme>
   <channel id="kkidshd">
     <display-name>K+ KIDS</display-name>
