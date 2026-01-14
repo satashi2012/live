@@ -1,17 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="epgvn.gq" last-update="2026-01-14T09:23:11Z">
+<tv generator-info-name="epgvn.gq" last-update="2026-01-14T17:57:33Z">
   <channel id="abcaustralia">
     <display-name lang="vi">ABC Australia</display-name>
     <icon src="http://trada.info/tv/logos/abcaustralia.jpg" />
   </channel>
   <channel id="afnhd">
     <display-name lang="vi">Asian Food Network</display-name>
+    <icon src="http://trada.info/tv/logos/afnhd.jpg" />
   </channel>
   <channel id="animalhd">
     <display-name lang="en">Animal Planet</display-name>
+    <icon src="http://trada.info/tv/logos/animalhd.jpg" />
   </channel>
   <channel id="antvhd">
     <display-name lang="vi">ANTV</display-name>
+    <icon src="http://trada.info/tv/logos/antvhd.jpg" />
   </channel>
   <programme start="20260114000000 +0700" stop="20260114005500 +0700" channel="antvhd">
     <title lang="vi">Phim truyện 17h05: Người giàu cũng khóc, tập 42/65</title>
@@ -339,9 +342,11 @@
   </programme>
   <channel id="arirang">
     <display-name lang="vi">Arirang</display-name>
+    <icon src="http://trada.info/tv/logos/arirang.jpg" />
   </channel>
   <channel id="axnhd">
     <display-name lang="en">AXN</display-name>
+    <icon src="http://trada.info/tv/logos/axnhd.jpg" />
   </channel>
   <programme start="20260114010000 +0700" stop="20260114033000 +0700" channel="axnhd">
     <title lang="en">Mega Film Asia Prime</title>
@@ -426,9 +431,11 @@
   </programme>
   <channel id="bacninh">
     <display-name lang="vi">Bắc Ninh</display-name>
+    <icon src="http://trada.info/tv/logos/bacninh.jpg" />
   </channel>
   <channel id="bbcearth">
     <display-name lang="en">BBC Earth</display-name>
+    <icon src="http://trada.info/tv/logos/bbcearth.jpg" />
   </channel>
   <programme start="20260114005500 +0700" stop="20260114020500 +0700" channel="bbcearth">
     <title lang="en">Solar System</title>
@@ -636,6 +643,7 @@
   </programme>
   <channel id="bbclifestyle">
     <display-name lang="en">BBC Life Style</display-name>
+    <icon src="http://trada.info/tv/logos/bbclifestyle.jpg" />
   </channel>
   <programme start="20260114002500 +0700" stop="20260114012000 +0700" channel="bbclifestyle">
     <title lang="en">The World's Most Secret Hotels S2E2</title>
@@ -939,9 +947,11 @@
   </programme>
   <channel id="bloomberg">
     <display-name lang="vi">Bloomberg</display-name>
+    <icon src="http://trada.info/tv/logos/bloomberg.jpg" />
   </channel>
   <channel id="boomerang">
     <display-name lang="vi">Boomerang</display-name>
+    <icon src="http://trada.info/tv/logos/boomerang.jpg" />
   </channel>
   <programme start="20260114000000 +0700" stop="20260114010000 +0700" channel="boomerang">
     <title lang="vi">Ella Giữa Những Vì Sao Xa</title>
@@ -1194,18 +1204,23 @@
   </programme>
   <channel id="boxhits">
     <display-name lang="vi">Box Hits</display-name>
+    <icon src="http://trada.info/tv/logos/boxhits.jpg" />
   </channel>
   <channel id="boxmovie1">
     <display-name lang="vi">BOX Movie 1</display-name>
+    <icon src="http://trada.info/tv/logos/boxmovie1.jpg" />
   </channel>
   <channel id="camau">
     <display-name lang="vi">Cà Mau</display-name>
+    <icon src="http://trada.info/tv/logos/camau.jpg" />
   </channel>
   <channel id="caobang">
     <display-name lang="vi">Cao Bằng</display-name>
+    <icon src="http://trada.info/tv/logos/caobang.jpg" />
   </channel>
   <channel id="cartoonhd">
     <display-name lang="vi">Cartoon Network</display-name>
+    <icon src="http://trada.info/tv/logos/cartoonhd.jpg" />
   </channel>
   <programme start="20260114000000 +0700" stop="20260114010000 +0700" channel="cartoonhd">
     <title lang="vi">Chương Trình Thường Nhật</title>
@@ -1377,6 +1392,7 @@
   </programme>
   <channel id="cbeebies">
     <display-name lang="vi">CBeebies</display-name>
+    <icon src="http://trada.info/tv/logos/cbeebies.jpg" />
   </channel>
   <programme start="20260114000000 +0700" stop="20260114001000 +0700" channel="cbeebies">
     <title lang="vi">Những Em Bé Rối Teletubby</title>
@@ -2337,6 +2353,7 @@
   </programme>
   <channel id="cinemaxhd">
     <display-name lang="en">Cinemax</display-name>
+    <icon src="http://trada.info/tv/logos/cinemaxhd.jpg" />
   </channel>
   <programme start="20260114001200 +0700" stop="20260114015800 +0700" channel="cinemaxhd">
     <title lang="en">Agent Jade Black</title>
@@ -2421,24 +2438,30 @@
   </programme>
   <channel id="cnn">
     <display-name lang="vi">CNN</display-name>
+    <icon src="http://trada.info/tv/logos/cnn.jpg" />
   </channel>
   <channel id="daklak">
     <display-name lang="vi">Đăk Lăk</display-name>
+    <icon src="http://trada.info/tv/logos/daklak.jpg" />
   </channel>
   <channel id="danang1">
     <display-name lang="vi">Đà Nẵng 1</display-name>
+    <icon src="http://trada.info/tv/logos/danang1.jpg" />
   </channel>
   <channel id="danang2">
     <display-name lang="vi">Đà Nẵng 2</display-name>
   </channel>
   <channel id="davinci">
     <display-name lang="vi">DaVinci</display-name>
+    <icon src="http://trada.info/tv/logos/davinci.jpg" />
   </channel>
   <channel id="dienbien">
     <display-name lang="vi">Điện Biên</display-name>
+    <icon src="http://trada.info/tv/logos/dienbien.jpg" />
   </channel>
   <channel id="discoveryasiahd">
     <display-name lang="vi">Discovery Asia</display-name>
+    <icon src="http://trada.info/tv/logos/discoveryasiahd.jpg" />
   </channel>
   <programme start="20260114002000 +0700" stop="20260114011000 +0700" channel="discoveryasiahd">
     <title lang="vi">Bên Ngoài Khu Biệt Giam</title>
@@ -2619,9 +2642,11 @@
   </programme>
   <channel id="discoveryhd">
     <display-name lang="vi">Discovery Channel</display-name>
+    <icon src="http://trada.info/tv/logos/discoveryhd.jpg" />
   </channel>
   <channel id="dmax">
     <display-name lang="en">DMAX</display-name>
+    <icon src="http://trada.info/tv/logos/dmax.jpg" />
   </channel>
   <programme start="20260114001200 +0700" stop="20260114005400 +0700" channel="dmax">
     <title lang="en">Building Off The Grid S2E2</title>
@@ -2886,12 +2911,15 @@
   </programme>
   <channel id="dongnai1">
     <display-name lang="vi">Đồng Nai 1</display-name>
+    <icon src="http://trada.info/tv/logos/dongnai1.jpg" />
   </channel>
   <channel id="dongnai2">
     <display-name lang="vi">Đồng Nai 2</display-name>
+    <icon src="http://trada.info/tv/logos/dongnai2.jpg" />
   </channel>
   <channel id="dreamworks">
     <display-name lang="vi">DreamWorks</display-name>
+    <icon src="http://trada.info/tv/logos/dreamworks.jpg" />
   </channel>
   <programme start="20260114002000 +0700" stop="20260114004500 +0700" channel="dreamworks">
     <title lang="vi">Kungfu Panda: Hiệp Sĩ Rồng</title>
@@ -3252,12 +3280,15 @@
   </programme>
   <channel id="drfithd">
     <display-name lang="vi">Dr.Fit</display-name>
+    <icon src="http://trada.info/tv/logos/drfithd.jpg" />
   </channel>
   <channel id="dw">
     <display-name lang="vi">DW</display-name>
+    <icon src="http://trada.info/tv/logos/dw.jpg" />
   </channel>
   <channel id="fashionhd">
     <display-name lang="vi">Fashion TV</display-name>
+    <icon src="http://trada.info/tv/logos/fashionhd.jpg" />
   </channel>
   <programme start="20260114001000 +0700" stop="20260114004000 +0700" channel="fashionhd">
     <title lang="vi">Thời Trang Áo Tắm</title>
@@ -3546,27 +3577,35 @@
   </programme>
   <channel id="france24eng">
     <display-name lang="vi">France 24 English</display-name>
+    <icon src="http://trada.info/tv/logos/france24eng.jpg" />
   </channel>
   <channel id="gialai">
     <display-name lang="vi">Gia Lai</display-name>
+    <icon src="http://trada.info/tv/logos/gialai.jpg" />
   </channel>
   <channel id="haiphong">
     <display-name lang="vi">Hải Phòng</display-name>
+    <icon src="http://trada.info/tv/logos/haiphong.jpg" />
   </channel>
   <channel id="hanoi1">
     <display-name lang="vi">Hà Nội 1</display-name>
+    <icon src="http://trada.info/tv/logos/hanoi1.jpg" />
   </channel>
   <channel id="hanoi2">
     <display-name lang="vi">Hà Nội 2</display-name>
+    <icon src="http://trada.info/tv/logos/hanoi2.jpg" />
   </channel>
   <channel id="happykids">
     <display-name lang="vi">Happy Kids</display-name>
+    <icon src="http://trada.info/tv/logos/happykids.jpg" />
   </channel>
   <channel id="hatinh">
     <display-name lang="vi">Hà Tĩnh</display-name>
+    <icon src="http://trada.info/tv/logos/hatinh.jpg" />
   </channel>
   <channel id="hbofamily">
     <display-name lang="en">HBO Family</display-name>
+    <icon src="http://trada.info/tv/logos/hbofamily.jpg" />
   </channel>
   <programme start="20260114012100 +0700" stop="20260114030200 +0700" channel="hbofamily">
     <title lang="en">Silver</title>
@@ -3651,6 +3690,7 @@
   </programme>
   <channel id="hbohd">
     <display-name lang="en">HBO</display-name>
+    <icon src="http://trada.info/tv/logos/hbohd.jpg" />
   </channel>
   <programme start="20260114011300 +0700" stop="20260114030900 +0700" channel="hbohd">
     <title lang="en">Platinum</title>
@@ -3729,6 +3769,7 @@
   </programme>
   <channel id="hbohits">
     <display-name lang="en">HBO Hits</display-name>
+    <icon src="http://trada.info/tv/logos/hbohits.jpg" />
   </channel>
   <programme start="20260114010400 +0700" stop="20260114025800 +0700" channel="hbohits">
     <title lang="en">Gold</title>
@@ -3807,6 +3848,7 @@
   </programme>
   <channel id="hgtv">
     <display-name lang="vi">HGTV</display-name>
+    <icon src="http://trada.info/tv/logos/hgtv.jpg" />
   </channel>
   <channel id="historyhd">
     <display-name lang="vi">History</display-name>
@@ -3814,60 +3856,154 @@
   </channel>
   <channel id="hitv">
     <display-name lang="vi">HITV</display-name>
+    <icon src="http://trada.info/tv/logos/hitv.jpg" />
   </channel>
   <channel id="hollywoodclassics">
     <display-name lang="vi">Hollywood Classics</display-name>
+    <icon src="http://trada.info/tv/logos/hollywoodclassics.jpg" />
   </channel>
   <channel id="htv1">
     <display-name lang="vi">HTV1</display-name>
+    <icon src="http://trada.info/tv/logos/htv1.jpg" />
   </channel>
   <channel id="htv2hd">
     <display-name lang="vi">HTV2</display-name>
+    <icon src="http://trada.info/tv/logos/htv2hd.jpg" />
   </channel>
   <channel id="htv3">
     <display-name lang="vi">HTV3</display-name>
+    <icon src="http://trada.info/tv/logos/htv3.jpg" />
   </channel>
   <channel id="htv7hd">
     <display-name lang="vi">HTV7</display-name>
+    <icon src="http://trada.info/tv/logos/htv7hd.jpg" />
   </channel>
   <channel id="htv9hd">
     <display-name lang="vi">HTV9</display-name>
+    <icon src="http://trada.info/tv/logos/htv9hd.jpg" />
   </channel>
   <channel id="htvccanhachd">
     <display-name lang="vi">HTVC Ca Nhạc</display-name>
+    <icon src="http://trada.info/tv/logos/htvccanhachd.jpg" />
   </channel>
   <channel id="htvcdulichhd">
     <display-name lang="vi">HTVC Du Lịch</display-name>
+    <icon src="http://trada.info/tv/logos/htvcdulichhd.jpg" />
   </channel>
   <channel id="htvcgiadinhhd">
     <display-name lang="vi">HTVC Gia Đình</display-name>
+    <icon src="http://trada.info/tv/logos/htvcgiadinhhd.jpg" />
   </channel>
   <channel id="htvcphunuhd">
     <display-name lang="vi">HTVC Phụ Nữ</display-name>
+    <icon src="http://trada.info/tv/logos/htvcphunuhd.jpg" />
   </channel>
   <channel id="htvcplushd">
     <display-name lang="vi">HTVC Plus</display-name>
+    <icon src="http://trada.info/tv/logos/htvcplushd.jpg" />
   </channel>
   <channel id="htvcthuanviet">
     <display-name lang="vi">HTVC Thuần Việt</display-name>
+    <icon src="http://trada.info/tv/logos/htvcthuanviet.jpg" />
   </channel>
   <channel id="htvthethaohd">
     <display-name lang="vi">HTV Thể Thao</display-name>
+    <icon src="http://trada.info/tv/logos/htvthethaohd.jpg" />
   </channel>
+  <programme start="20260114000000 +0700" stop="20260114013000 +0700" channel="htvthethaohd">
+    <title lang="vi">Trực tiếp giải bóng đá VCK U23 Châu Á 2026: U23 Nhật Bản - U23 Qatar</title>
+  </programme>
+  <programme start="20260114013000 +0700" stop="20260114020000 +0700" channel="htvthethaohd">
+    <title lang="vi">Tiêu điểm thể thao</title>
+  </programme>
+  <programme start="20260114020000 +0700" stop="20260114050000 +0700" channel="htvthethaohd">
+    <title lang="vi">Câu lạc bộ thể thao: Tường thuật giải cầu lông</title>
+  </programme>
+  <programme start="20260114050000 +0700" stop="20260114053000 +0700" channel="htvthethaohd">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20260114053000 +0700" stop="20260114060000 +0700" channel="htvthethaohd">
+    <title lang="vi">Tiêu điểm thể thao</title>
+  </programme>
+  <programme start="20260114060000 +0700" stop="20260114080000 +0700" channel="htvthethaohd">
+    <title lang="vi">Câu lạc bộ thể thao: Tường thuật giải bóng đá U23 Châu Á</title>
+  </programme>
+  <programme start="20260114080000 +0700" stop="20260114083000 +0700" channel="htvthethaohd">
+    <title lang="vi">Ống kính thể thao</title>
+  </programme>
+  <programme start="20260114083000 +0700" stop="20260114093000 +0700" channel="htvthethaohd">
+    <title lang="vi">Câu lạc bộ thể thao: Tường thuật Vòng loại Giải Lân Sư Rồng Cúp Chợ Lớn 2026</title>
+  </programme>
+  <programme start="20260114093000 +0700" stop="20260114100000 +0700" channel="htvthethaohd">
+    <title lang="vi">Ống kính thể thao</title>
+  </programme>
+  <programme start="20260114100000 +0700" stop="20260114101500 +0700" channel="htvthethaohd">
+    <title lang="vi">Tạp chí PickleBall vào bếp cùng HTV</title>
+  </programme>
+  <programme start="20260114101500 +0700" stop="20260114120000 +0700" channel="htvthethaohd">
+    <title lang="vi">Câu lạc bộ thể thao: Tường thuật giải bóng đá U23 Châu Á</title>
+  </programme>
+  <programme start="20260114120000 +0700" stop="20260114121500 +0700" channel="htvthethaohd">
+    <title lang="vi">Bài tập Yoga</title>
+  </programme>
+  <programme start="20260114121500 +0700" stop="20260114140000 +0700" channel="htvthethaohd">
+    <title lang="vi">Câu lạc bộ thể thao: Tường thuật giải bóng đá U23 Châu Á</title>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114143000 +0700" channel="htvthethaohd">
+    <title lang="vi">Ống kính thể thao</title>
+  </programme>
+  <programme start="20260114143000 +0700" stop="20260114150000 +0700" channel="htvthethaohd">
+    <title lang="vi">Vui Cùng Bước Nhảy</title>
+  </programme>
+  <programme start="20260114150000 +0700" stop="20260114163000 +0700" channel="htvthethaohd">
+    <title lang="vi">Câu lạc bộ thể thao: Tường thuật Vòng loại Giải Lân Sư Rồng Cúp Chợ Lớn 2026</title>
+  </programme>
+  <programme start="20260114163000 +0700" stop="20260114170000 +0700" channel="htvthethaohd">
+    <title lang="vi">Thể thao là cuộc sống</title>
+  </programme>
+  <programme start="20260114170000 +0700" stop="20260114173000 +0700" channel="htvthethaohd">
+    <title lang="vi">Ống kính thể thao</title>
+  </programme>
+  <programme start="20260114173000 +0700" stop="20260114180000 +0700" channel="htvthethaohd">
+    <title lang="vi">Tạp chí thể thao thế giới</title>
+  </programme>
+  <programme start="20260114180000 +0700" stop="20260114183000 +0700" channel="htvthethaohd">
+    <title lang="vi">Bình luận khách mời giải bóng đá VCK U23 Châu Á 2026</title>
+  </programme>
+  <programme start="20260114183000 +0700" stop="20260114204500 +0700" channel="htvthethaohd">
+    <title lang="vi">Trực tiếp giải bóng đá VCK U23 Châu Á 2026: U23 Iraq - U23 Australia</title>
+  </programme>
+  <programme start="20260114204500 +0700" stop="20260114210000 +0700" channel="htvthethaohd">
+    <title lang="vi">Bản tin 365</title>
+  </programme>
+  <programme start="20260114210000 +0700" stop="20260114221500 +0700" channel="htvthethaohd">
+    <title lang="vi">Câu lạc bộ thể thao: Tường thuật bida HBSF</title>
+  </programme>
+  <programme start="20260114221500 +0700" stop="20260114223000 +0700" channel="htvthethaohd">
+    <title lang="vi">Tạp chí PickleBall vào bếp cùng HTV</title>
+  </programme>
+  <programme start="20260114223000 +0700" stop="20260114224500 +0700" channel="htvthethaohd">
+    <title lang="vi">Bản tin 365</title>
+  </programme>
   <channel id="hungyen">
     <display-name lang="vi">Hưng Yên</display-name>
+    <icon src="http://trada.info/tv/logos/hungyen.jpg" />
   </channel>
   <channel id="inthebox">
     <display-name lang="vi">InTheBox Channel</display-name>
+    <icon src="http://trada.info/tv/logos/inthebox.jpg" />
   </channel>
   <channel id="kbsworld">
     <display-name lang="vi">KBS World</display-name>
+    <icon src="http://trada.info/tv/logos/kbsworld.jpg" />
   </channel>
   <channel id="khanhhoa">
     <display-name lang="vi">Khánh Hòa</display-name>
+    <icon src="http://trada.info/tv/logos/khanhhoa.jpg" />
   </channel>
   <channel id="kix">
     <display-name lang="en">KIX</display-name>
+    <icon src="http://trada.info/tv/logos/kix.jpg" />
   </channel>
   <programme start="20260114013000 +0700" stop="20260114022500 +0700" channel="kix">
     <title lang="en">10 Fight 10</title>
@@ -4122,48 +4258,62 @@
   </programme>
   <channel id="laichau">
     <display-name lang="vi">Lai Châu</display-name>
+    <icon src="http://trada.info/tv/logos/laichau.jpg" />
   </channel>
   <channel id="langson">
     <display-name lang="vi">Lạng Sơn</display-name>
+    <icon src="http://trada.info/tv/logos/langson.jpg" />
   </channel>
   <channel id="laocai">
     <display-name lang="vi">Lào Cai</display-name>
+    <icon src="http://trada.info/tv/logos/laocai.jpg" />
   </channel>
   <channel id="man">
     <display-name lang="vi">MAN</display-name>
+    <icon src="http://trada.info/tv/logos/man.jpg" />
   </channel>
   <channel id="musicbox">
     <display-name lang="vi">Music Box</display-name>
+    <icon src="http://trada.info/tv/logos/musicbox.jpg" />
   </channel>
   <channel id="nghean">
     <display-name lang="vi">Nghệ An</display-name>
+    <icon src="http://trada.info/tv/logos/nghean.jpg" />
   </channel>
   <channel id="ninhbinh">
     <display-name lang="vi">Ninh Bình</display-name>
+    <icon src="http://trada.info/tv/logos/ninhbinh.jpg" />
   </channel>
   <channel id="outdoorhd">
     <display-name lang="vi">Outdoor Channel</display-name>
+    <icon src="http://trada.info/tv/logos/outdoorhd.jpg" />
   </channel>
   <channel id="phutho">
     <display-name lang="vi">Phú Thọ</display-name>
+    <icon src="http://trada.info/tv/logos/phutho.jpg" />
   </channel>
   <channel id="planetearthhd">
     <display-name lang="vi">Planet Earth</display-name>
+    <icon src="http://trada.info/tv/logos/planetearthhd.jpg" />
   </channel>
   <channel id="qpvnhd">
     <display-name lang="vi">QPVN</display-name>
+    <icon src="http://trada.info/tv/logos/qpvnhd.jpg" />
   </channel>
   <channel id="quangngai">
     <display-name lang="vi">Quảng Ngãi</display-name>
+    <icon src="http://trada.info/tv/logos/quangngai.jpg" />
   </channel>
   <channel id="quangninh1">
     <display-name lang="vi">Quảng Ninh 1</display-name>
+    <icon src="http://trada.info/tv/logos/quangninh1.jpg" />
   </channel>
   <channel id="quangninh3">
     <display-name lang="vi">Quảng Ninh 3</display-name>
   </channel>
   <channel id="quangtri">
     <display-name lang="vi">Quảng Trị</display-name>
+    <icon src="http://trada.info/tv/logos/quangtri.jpg" />
   </channel>
   <channel id="sctv11hd">
     <display-name lang="vi">SCTV11</display-name>
@@ -4262,262 +4412,6 @@
   <channel id="tv5.info">
     <display-name>TV5MONDE Info</display-name>
   </channel>
-  <programme start="20260114070000 +0700" stop="20260114072550 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114072550 +0700" stop="20260114072840 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260114073000 +0700" stop="20260114075330 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114075330 +0700" stop="20260114080157 +0700" channel="tv5.info">
-    <title>L'invité</title>
-    <desc />
-  </programme>
-  <programme start="20260114080400 +0700" stop="20260114082949 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114083300 +0700" stop="20260114085630 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114090000 +0700" stop="20260114092600 +0700" channel="tv5.info">
-    <title>Le journal de la RTS</title>
-    <desc />
-  </programme>
-  <programme start="20260114093000 +0700" stop="20260114100000 +0700" channel="tv5.info">
-    <title>Le journal de France 2</title>
-    <desc />
-  </programme>
-  <programme start="20260114100200 +0700" stop="20260114102800 +0700" channel="tv5.info">
-    <title>Le journal de la RTS</title>
-    <desc />
-  </programme>
-  <programme start="20260114103000 +0700" stop="20260114105600 +0700" channel="tv5.info">
-    <title>Le journal Afrique</title>
-    <desc />
-  </programme>
-  <programme start="20260114110000 +0700" stop="20260114112414 +0700" channel="tv5.info">
-    <title>Le journal de la RTBF</title>
-    <desc />
-  </programme>
-  <programme start="20260114112500 +0700" stop="20260114112750 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260114113000 +0700" stop="20260114115622 +0700" channel="tv5.info">
-    <title>Le journal Afrique</title>
-    <desc />
-  </programme>
-  <programme start="20260114120000 +0700" stop="20260114122549 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114122800 +0700" stop="20260114125130 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114125130 +0700" stop="20260114125420 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260114125800 +0700" stop="20260114132724 +0700" channel="tv5.info">
-    <title>L'actu</title>
-    <desc />
-  </programme>
-  <programme start="20260114133000 +0700" stop="20260114135622 +0700" channel="tv5.info">
-    <title>Le journal Afrique</title>
-    <desc />
-  </programme>
-  <programme start="20260114140000 +0700" stop="20260114145924 +0700" channel="tv5.info">
-    <title>Le 23h</title>
-    <desc />
-  </programme>
-  <programme start="20260114150200 +0700" stop="20260114152822 +0700" channel="tv5.info">
-    <title>Le journal Afrique</title>
-    <desc />
-  </programme>
-  <programme start="20260114153000 +0700" stop="20260114160000 +0700" channel="tv5.info">
-    <title>Le journal de France 2</title>
-    <desc />
-  </programme>
-  <programme start="20260114160200 +0700" stop="20260114162749 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114163000 +0700" stop="20260114165330 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114165330 +0700" stop="20260114165620 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260114170000 +0700" stop="20260114172549 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114172750 +0700" stop="20260114175120 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114175120 +0700" stop="20260114175947 +0700" channel="tv5.info">
-    <title>L'invité</title>
-    <desc />
-  </programme>
-  <programme start="20260114180200 +0700" stop="20260114182749 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114183000 +0700" stop="20260114185330 +0700" channel="tv5.info">
-    <title>EDITION DU 13/01/26</title>
-    <desc />
-  </programme>
-  <programme start="20260114185330 +0700" stop="20260114185620 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260114190000 +0700" stop="20260114192622 +0700" channel="tv5.info">
-    <title>Le journal Afrique</title>
-    <desc />
-  </programme>
-  <programme start="20260114192600 +0700" stop="20260114192850 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260114193000 +0700" stop="20260114195629 +0700" channel="tv5.info">
-    <title>Le téléjournal de Radio-Canada</title>
-    <desc />
-  </programme>
-  <programme start="20260114195600 +0700" stop="20260114195850 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260114200000 +0700" stop="20260114202400 +0700" channel="tv5.info">
-    <title>6h info</title>
-    <desc />
-  </programme>
-  <programme start="20260114202800 +0700" stop="20260114204400 +0700" channel="tv5.info">
-    <title>Télématin</title>
-    <desc />
-  </programme>
-  <programme start="20260114204600 +0700" stop="20260114211700 +0700" channel="tv5.info">
-    <title>Télématin</title>
-    <desc />
-  </programme>
-  <programme start="20260114211900 +0700" stop="20260114213900 +0700" channel="tv5.info">
-    <title>Télématin</title>
-    <desc />
-  </programme>
-  <programme start="20260114214100 +0700" stop="20260114222304 +0700" channel="tv5.info">
-    <title>Télématin</title>
-    <desc />
-  </programme>
-  <programme start="20260114222422 +0700" stop="20260114222712 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260114223000 +0700" stop="20260114225629 +0700" channel="tv5.info">
-    <title>Le téléjournal de Radio-Canada</title>
-    <desc />
-  </programme>
-  <programme start="20260114230000 +0700" stop="20260114231600 +0700" channel="tv5.info">
-    <title>Télématin</title>
-    <desc />
-  </programme>
-  <programme start="20260114231800 +0700" stop="20260114234900 +0700" channel="tv5.info">
-    <title>Télématin</title>
-    <desc />
-  </programme>
-  <programme start="20260114234922 +0700" stop="20260114235750 +0700" channel="tv5.info">
-    <title>L'invité</title>
-    <desc />
-  </programme>
-  <programme start="20260115000000 +0700" stop="20260115002622 +0700" channel="tv5.info">
-    <title>Le journal Afrique</title>
-    <desc />
-  </programme>
-  <programme start="20260115003000 +0700" stop="20260115005400 +0700" channel="tv5.info">
-    <title>6h info</title>
-    <desc />
-  </programme>
-  <programme start="20260115005413 +0700" stop="20260115005703 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260115010000 +0700" stop="20260115012629 +0700" channel="tv5.info">
-    <title>Le téléjournal de Radio-Canada</title>
-    <desc />
-  </programme>
-  <programme start="20260115013000 +0700" stop="20260115015622 +0700" channel="tv5.info">
-    <title>Le journal Afrique</title>
-    <desc />
-  </programme>
-  <programme start="20260115020000 +0700" stop="20260115022400 +0700" channel="tv5.info">
-    <title>6h info</title>
-    <desc />
-  </programme>
-  <programme start="20260115022413 +0700" stop="20260115022703 +0700" channel="tv5.info">
-    <title>Météo</title>
-    <desc />
-  </programme>
-  <programme start="20260115023000 +0700" stop="20260115025900 +0700" channel="tv5.info">
-    <title>Le journal de la RTBF</title>
-    <desc />
-  </programme>
-  <programme start="20260115030100 +0700" stop="20260115031000 +0700" channel="tv5.info">
-    <title>Outremer.l'info</title>
-    <desc />
-  </programme>
-  <programme start="20260115031200 +0700" stop="20260115034000 +0700" channel="tv5.info">
-    <title>Le journal de France 2</title>
-    <desc />
-  </programme>
-  <programme start="20260115034000 +0700" stop="20260115034827 +0700" channel="tv5.info">
-    <title>L'invité</title>
-    <desc />
-  </programme>
-  <programme start="20260115034900 +0700" stop="20260115035800 +0700" channel="tv5.info">
-    <title>Outremer.l'info</title>
-    <desc />
-  </programme>
-  <programme start="20260115040000 +0700" stop="20260115042900 +0700" channel="tv5.info">
-    <title>Le journal de la RTBF</title>
-    <desc />
-  </programme>
-  <programme start="20260115043000 +0700" stop="20260115045800 +0700" channel="tv5.info">
-    <title>Le journal de France 2</title>
-    <desc />
-  </programme>
-  <programme start="20260115050000 +0700" stop="20260115052900 +0700" channel="tv5.info">
-    <title>Le journal de la RTBF</title>
-    <desc />
-  </programme>
-  <programme start="20260115053000 +0700" stop="20260115053900 +0700" channel="tv5.info">
-    <title>Outremer.l'info</title>
-    <desc />
-  </programme>
-  <programme start="20260115054100 +0700" stop="20260115060900 +0700" channel="tv5.info">
-    <title>Le journal de France 2</title>
-    <desc />
-  </programme>
-  <programme start="20260115060900 +0700" stop="20260115061727 +0700" channel="tv5.info">
-    <title>L'invité</title>
-    <desc />
-  </programme>
-  <programme start="20260115062100 +0700" stop="20260115065000 +0700" channel="tv5.info">
-    <title>Le journal de la RTBF</title>
-    <desc />
-  </programme>
-  <programme start="20260115065000 +0700" stop="20260115065827 +0700" channel="tv5.info">
-    <title>L'invité</title>
-    <desc />
-  </programme>
   <programme start="20260115070000 +0700" stop="20260115072550 +0700" channel="tv5.info">
     <title>EDITION DU 14/01/26</title>
     <desc />
@@ -4530,7 +4424,7 @@
     <title>EDITION DU 14/01/26</title>
     <desc />
   </programme>
-  <programme start="20260115075330 +0700" stop="20260115080130 +0700" channel="tv5.info">
+  <programme start="20260115075330 +0700" stop="20260115080150 +0700" channel="tv5.info">
     <title>L'invité</title>
     <desc />
   </programme>
@@ -4622,7 +4516,7 @@
     <title>EDITION DU 14/01/26</title>
     <desc />
   </programme>
-  <programme start="20260115175120 +0700" stop="20260115175920 +0700" channel="tv5.info">
+  <programme start="20260115175120 +0700" stop="20260115175940 +0700" channel="tv5.info">
     <title>L'invité</title>
     <desc />
   </programme>
@@ -4650,7 +4544,7 @@
     <title>Le téléjournal de Radio-Canada</title>
     <desc />
   </programme>
-  <programme start="20260115195400 +0700" stop="20260115195650 +0700" channel="tv5.info">
+  <programme start="20260115195600 +0700" stop="20260115195850 +0700" channel="tv5.info">
     <title>Météo</title>
     <desc />
   </programme>
@@ -4674,7 +4568,7 @@
     <title>Télématin</title>
     <desc />
   </programme>
-  <programme start="20260115222400 +0700" stop="20260115222650 +0700" channel="tv5.info">
+  <programme start="20260115222422 +0700" stop="20260115222712 +0700" channel="tv5.info">
     <title>Météo</title>
     <desc />
   </programme>
@@ -4690,7 +4584,7 @@
     <title>Télématin</title>
     <desc />
   </programme>
-  <programme start="20260115234900 +0700" stop="20260115235700 +0700" channel="tv5.info">
+  <programme start="20260115234922 +0700" stop="20260115235743 +0700" channel="tv5.info">
     <title>L'invité</title>
     <desc />
   </programme>
@@ -4734,11 +4628,11 @@
     <title>Le journal de France 2</title>
     <desc />
   </programme>
-  <programme start="20260116034000 +0700" stop="20260116034800 +0700" channel="tv5.info">
+  <programme start="20260116034100 +0700" stop="20260116034920 +0700" channel="tv5.info">
     <title>L'invité</title>
     <desc />
   </programme>
-  <programme start="20260116034800 +0700" stop="20260116035700 +0700" channel="tv5.info">
+  <programme start="20260116034900 +0700" stop="20260116035800 +0700" channel="tv5.info">
     <title>Outremer.l'info</title>
     <desc />
   </programme>
@@ -4762,7 +4656,7 @@
     <title>Le journal de France 2</title>
     <desc />
   </programme>
-  <programme start="20260116061030 +0700" stop="20260116061830 +0700" channel="tv5.info">
+  <programme start="20260116061100 +0700" stop="20260116061920 +0700" channel="tv5.info">
     <title>L'invité</title>
     <desc />
   </programme>
@@ -4770,7 +4664,7 @@
     <title>Le journal de la RTBF</title>
     <desc />
   </programme>
-  <programme start="20260116065000 +0700" stop="20260116065800 +0700" channel="tv5.info">
+  <programme start="20260116065000 +0700" stop="20260116065820 +0700" channel="tv5.info">
     <title>L'invité</title>
     <desc />
   </programme>
@@ -4778,153 +4672,261 @@
     <title>EDITION DU 15/01/26</title>
     <desc />
   </programme>
+  <programme start="20260116072550 +0700" stop="20260116072840 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260116073000 +0700" stop="20260116075330 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116075330 +0700" stop="20260116080130 +0700" channel="tv5.info">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme start="20260116080400 +0700" stop="20260116082950 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116083330 +0700" stop="20260116085700 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116090000 +0700" stop="20260116092600 +0700" channel="tv5.info">
+    <title>Le journal de la RTS</title>
+    <desc />
+  </programme>
+  <programme start="20260116093000 +0700" stop="20260116100000 +0700" channel="tv5.info">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme start="20260116100230 +0700" stop="20260116102830 +0700" channel="tv5.info">
+    <title>Le journal de la RTS</title>
+    <desc />
+  </programme>
+  <programme start="20260116103000 +0700" stop="20260116105600 +0700" channel="tv5.info">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme start="20260116110000 +0700" stop="20260116112500 +0700" channel="tv5.info">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme start="20260116112500 +0700" stop="20260116112750 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260116113000 +0700" stop="20260116115600 +0700" channel="tv5.info">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme start="20260116120000 +0700" stop="20260116122550 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116122800 +0700" stop="20260116125130 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116125130 +0700" stop="20260116125420 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260116130000 +0700" stop="20260116133000 +0700" channel="tv5.info">
+    <title>L'actu</title>
+    <desc />
+  </programme>
+  <programme start="20260116133200 +0700" stop="20260116135800 +0700" channel="tv5.info">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme start="20260116140000 +0700" stop="20260116150000 +0700" channel="tv5.info">
+    <title>Le 23h</title>
+    <desc />
+  </programme>
+  <programme start="20260116150200 +0700" stop="20260116152800 +0700" channel="tv5.info">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme start="20260116153000 +0700" stop="20260116160000 +0700" channel="tv5.info">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme start="20260116160200 +0700" stop="20260116162750 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116163000 +0700" stop="20260116165330 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116165330 +0700" stop="20260116165620 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260116170000 +0700" stop="20260116172550 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116172750 +0700" stop="20260116175120 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116175120 +0700" stop="20260116175920 +0700" channel="tv5.info">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme start="20260116180200 +0700" stop="20260116182750 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116183000 +0700" stop="20260116185330 +0700" channel="tv5.info">
+    <title>EDITION DU 15/01/26</title>
+    <desc />
+  </programme>
+  <programme start="20260116185330 +0700" stop="20260116185620 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260116190000 +0700" stop="20260116192600 +0700" channel="tv5.info">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme start="20260116192400 +0700" stop="20260116192650 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260116193000 +0700" stop="20260116195600 +0700" channel="tv5.info">
+    <title>Le téléjournal de Radio-Canada</title>
+    <desc />
+  </programme>
+  <programme start="20260116195400 +0700" stop="20260116195650 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260116200000 +0700" stop="20260116202400 +0700" channel="tv5.info">
+    <title>6h info</title>
+    <desc />
+  </programme>
+  <programme start="20260116202800 +0700" stop="20260116204400 +0700" channel="tv5.info">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme start="20260116204600 +0700" stop="20260116211700 +0700" channel="tv5.info">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme start="20260116211900 +0700" stop="20260116213900 +0700" channel="tv5.info">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme start="20260116214100 +0700" stop="20260116222400 +0700" channel="tv5.info">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme start="20260116222400 +0700" stop="20260116222650 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260116223000 +0700" stop="20260116225600 +0700" channel="tv5.info">
+    <title>Le téléjournal de Radio-Canada</title>
+    <desc />
+  </programme>
+  <programme start="20260116230000 +0700" stop="20260116231600 +0700" channel="tv5.info">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme start="20260116231800 +0700" stop="20260116234900 +0700" channel="tv5.info">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme start="20260116234900 +0700" stop="20260116235700 +0700" channel="tv5.info">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme start="20260117000000 +0700" stop="20260117002600 +0700" channel="tv5.info">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme start="20260117003000 +0700" stop="20260117005400 +0700" channel="tv5.info">
+    <title>6h info</title>
+    <desc />
+  </programme>
+  <programme start="20260117005413 +0700" stop="20260117005703 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260117010000 +0700" stop="20260117012600 +0700" channel="tv5.info">
+    <title>Le téléjournal de Radio-Canada</title>
+    <desc />
+  </programme>
+  <programme start="20260117013000 +0700" stop="20260117015600 +0700" channel="tv5.info">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme start="20260117020000 +0700" stop="20260117022400 +0700" channel="tv5.info">
+    <title>6h info</title>
+    <desc />
+  </programme>
+  <programme start="20260117022413 +0700" stop="20260117022703 +0700" channel="tv5.info">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme start="20260117023000 +0700" stop="20260117025900 +0700" channel="tv5.info">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme start="20260117030100 +0700" stop="20260117031000 +0700" channel="tv5.info">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme start="20260117031200 +0700" stop="20260117034000 +0700" channel="tv5.info">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme start="20260117034000 +0700" stop="20260117034800 +0700" channel="tv5.info">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme start="20260117034800 +0700" stop="20260117035700 +0700" channel="tv5.info">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme start="20260117040000 +0700" stop="20260117042900 +0700" channel="tv5.info">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme start="20260117043000 +0700" stop="20260117045800 +0700" channel="tv5.info">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme start="20260117050000 +0700" stop="20260117052900 +0700" channel="tv5.info">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme start="20260117053000 +0700" stop="20260117053900 +0700" channel="tv5.info">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme start="20260117054100 +0700" stop="20260117060900 +0700" channel="tv5.info">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme start="20260117062100 +0700" stop="20260117065000 +0700" channel="tv5.info">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme start="20260117065000 +0700" stop="20260117065800 +0700" channel="tv5.info">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme start="20260117070000 +0700" stop="20260117072550 +0700" channel="tv5.info">
+    <title>EDITION DU 16/01/26</title>
+    <desc />
+  </programme>
   <channel id="tv5.style">
     <display-name>TV5MONDE Style</display-name>
   </channel>
-  <programme start="20260114070320 +0700" stop="20260114072627 +0700" channel="tv5.style">
-    <title>Sérieux ?</title>
-    <desc />
-  </programme>
-  <programme start="20260114072639 +0700" stop="20260114075726 +0700" channel="tv5.style">
-    <title>Cuisine ouverte</title>
-    <desc />
-  </programme>
-  <programme start="20260114075738 +0700" stop="20260114085149 +0700" channel="tv5.style">
-    <title>Météo à la carte</title>
-    <desc />
-  </programme>
-  <programme start="20260114085159 +0700" stop="20260114090042 +0700" channel="tv5.style">
-    <title>Tendance XXI express</title>
-    <desc />
-  </programme>
-  <programme start="20260114090054 +0700" stop="20260114110408 +0700" channel="tv5.style">
-    <title>Des racines &amp; des ailes</title>
-    <desc />
-  </programme>
-  <programme start="20260114110415 +0700" stop="20260114113055 +0700" channel="tv5.style">
-    <title>Le goût des rencontres normandes</title>
-    <desc />
-  </programme>
-  <programme start="20260114113107 +0700" stop="20260114115719 +0700" channel="tv5.style">
-    <title>Chroniques d'en haut</title>
-    <desc />
-  </programme>
-  <programme start="20260114115731 +0700" stop="20260114125142 +0700" channel="tv5.style">
-    <title>Météo à la carte</title>
-    <desc />
-  </programme>
-  <programme start="20260114125152 +0700" stop="20260114125353 +0700" channel="tv5.style">
-    <title>Tendance XXI express</title>
-    <desc />
-  </programme>
-  <programme start="20260114125353 +0700" stop="20260114125905 +0700" channel="tv5.style">
-    <title>Tendance XXI express</title>
-    <desc />
-  </programme>
-  <programme start="20260114125917 +0700" stop="20260114150230 +0700" channel="tv5.style">
-    <title>Des racines &amp; des ailes</title>
-    <desc />
-  </programme>
-  <programme start="20260114150242 +0700" stop="20260114152702 +0700" channel="tv5.style">
-    <title>Une brique dans le ventre</title>
-    <desc />
-  </programme>
-  <programme start="20260114152709 +0700" stop="20260114155147 +0700" channel="tv5.style">
-    <title>Escapades en Suisse italienne</title>
-    <desc />
-  </programme>
-  <programme start="20260114155159 +0700" stop="20260114164610 +0700" channel="tv5.style">
-    <title>Météo à la carte</title>
-    <desc />
-  </programme>
-  <programme start="20260114164620 +0700" stop="20260114165946 +0700" channel="tv5.style">
-    <title>Itinéraires paysans</title>
-    <desc />
-  </programme>
-  <programme start="20260114170012 +0700" stop="20260114185207 +0700" channel="tv5.style">
-    <title>Des racines &amp; des ailes</title>
-    <desc />
-  </programme>
-  <programme start="20260114185229 +0700" stop="20260114191836 +0700" channel="tv5.style">
-    <title>Territoires de France </title>
-    <desc />
-  </programme>
-  <programme start="20260114191843 +0700" stop="20260114194243 +0700" channel="tv5.style">
-    <title>Partis skier</title>
-    <desc />
-  </programme>
-  <programme start="20260114194255 +0700" stop="20260114204210 +0700" channel="tv5.style">
-    <title>Météo à la carte</title>
-    <desc />
-  </programme>
-  <programme start="20260114204220 +0700" stop="20260114205600 +0700" channel="tv5.style">
-    <title>Itinéraires paysans</title>
-    <desc />
-  </programme>
-  <programme start="20260114205607 +0700" stop="20260114205927 +0700" channel="tv5.style">
-    <title>#VF</title>
-    <desc />
-  </programme>
-  <programme start="20260114210000 +0700" stop="20260114225155 +0700" channel="tv5.style">
-    <title>Des racines &amp; des ailes</title>
-    <desc />
-  </programme>
-  <programme start="20260114225217 +0700" stop="20260114231824 +0700" channel="tv5.style">
-    <title>Territoires de France </title>
-    <desc />
-  </programme>
-  <programme start="20260114231836 +0700" stop="20260114233741 +0700" channel="tv5.style">
-    <title>C'est du Belge</title>
-    <desc />
-  </programme>
-  <programme start="20260114233753 +0700" stop="20260115003708 +0700" channel="tv5.style">
-    <title>Météo à la carte</title>
-    <desc />
-  </programme>
-  <programme start="20260115003715 +0700" stop="20260115005020 +0700" channel="tv5.style">
-    <title>Itinéraires paysans</title>
-    <desc />
-  </programme>
-  <programme start="20260115005030 +0700" stop="20260115005401 +0700" channel="tv5.style">
-    <title>Tendance XXI express</title>
-    <desc />
-  </programme>
-  <programme start="20260115005401 +0700" stop="20260115005609 +0700" channel="tv5.style">
-    <title>Tendance XXI express</title>
-    <desc />
-  </programme>
-  <programme start="20260115005609 +0700" stop="20260115005953 +0700" channel="tv5.style">
-    <title>Tendance XXI express</title>
-    <desc />
-  </programme>
-  <programme start="20260115010005 +0700" stop="20260115025200 +0700" channel="tv5.style">
-    <title>Des racines &amp; des ailes</title>
-    <desc />
-  </programme>
-  <programme start="20260115025220 +0700" stop="20260115031826 +0700" channel="tv5.style">
-    <title>Territoires de France </title>
-    <desc />
-  </programme>
-  <programme start="20260115031838 +0700" stop="20260115034447 +0700" channel="tv5.style">
-    <title>Littoral</title>
-    <desc />
-  </programme>
-  <programme start="20260115034459 +0700" stop="20260115044414 +0700" channel="tv5.style">
-    <title>Météo à la carte</title>
-    <desc />
-  </programme>
-  <programme start="20260115044424 +0700" stop="20260115045711 +0700" channel="tv5.style">
-    <title>L'art et la matière</title>
-    <desc />
-  </programme>
-  <programme start="20260115050000 +0700" stop="20260115065155 +0700" channel="tv5.style">
-    <title>Des racines &amp; des ailes</title>
-    <desc />
-  </programme>
-  <programme start="20260115065214 +0700" stop="20260115071821 +0700" channel="tv5.style">
-    <title>Territoires de France </title>
-    <desc />
-  </programme>
   <programme start="20260115071831 +0700" stop="20260115074145 +0700" channel="tv5.style">
     <title>Comment ça va le Nord ?</title>
     <desc />
@@ -5059,6 +5061,134 @@
   </programme>
   <programme start="20260116065340 +0700" stop="20260116071937 +0700" channel="tv5.style">
     <title>Paname</title>
+    <desc />
+  </programme>
+  <programme start="20260116071947 +0700" stop="20260116074557 +0700" channel="tv5.style">
+    <title>Le goût des rencontres en Nouvelle-Aquitaine</title>
+    <desc />
+  </programme>
+  <programme start="20260116074609 +0700" stop="20260116084703 +0700" channel="tv5.style">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme start="20260116084710 +0700" stop="20260116085730 +0700" channel="tv5.style">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme start="20260116085742 +0700" stop="20260116105122 +0700" channel="tv5.style">
+    <title>Des racines &amp; des ailes</title>
+    <desc />
+  </programme>
+  <programme start="20260116105134 +0700" stop="20260116111745 +0700" channel="tv5.style">
+    <title>Version Française</title>
+    <desc />
+  </programme>
+  <programme start="20260116111755 +0700" stop="20260116113915 +0700" channel="tv5.style">
+    <title>La cuisine d'Isabelle et Ricardo</title>
+    <desc />
+  </programme>
+  <programme start="20260116113922 +0700" stop="20260116120236 +0700" channel="tv5.style">
+    <title>Comment ça va le Nord ?</title>
+    <desc />
+  </programme>
+  <programme start="20260116120248 +0700" stop="20260116130342 +0700" channel="tv5.style">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme start="20260116130354 +0700" stop="20260116145734 +0700" channel="tv5.style">
+    <title>Des racines &amp; des ailes</title>
+    <desc />
+  </programme>
+  <programme start="20260116145744 +0700" stop="20260116152051 +0700" channel="tv5.style">
+    <title>Sérieux ?</title>
+    <desc />
+  </programme>
+  <programme start="20260116152103 +0700" stop="20260116155151 +0700" channel="tv5.style">
+    <title>Cuisine ouverte</title>
+    <desc />
+  </programme>
+  <programme start="20260116155203 +0700" stop="20260116165257 +0700" channel="tv5.style">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme start="20260116165304 +0700" stop="20260116165831 +0700" channel="tv5.style">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme start="20260116170012 +0700" stop="20260116185303 +0700" channel="tv5.style">
+    <title>Des racines &amp; des ailes</title>
+    <desc />
+  </programme>
+  <programme start="20260116185313 +0700" stop="20260116191901 +0700" channel="tv5.style">
+    <title>Le grand journal des territoires</title>
+    <desc />
+  </programme>
+  <programme start="20260116191908 +0700" stop="20260116194229 +0700" channel="tv5.style">
+    <title>C'est plus qu'un jardin</title>
+    <desc />
+  </programme>
+  <programme start="20260116194241 +0700" stop="20260116204119 +0700" channel="tv5.style">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme start="20260116204129 +0700" stop="20260116205512 +0700" channel="tv5.style">
+    <title>Itinéraires paysans</title>
+    <desc />
+  </programme>
+  <programme start="20260116205519 +0700" stop="20260116210001 +0700" channel="tv5.style">
+    <title>#VF</title>
+    <desc />
+  </programme>
+  <programme start="20260116210013 +0700" stop="20260116225305 +0700" channel="tv5.style">
+    <title>Des racines &amp; des ailes</title>
+    <desc />
+  </programme>
+  <programme start="20260116225315 +0700" stop="20260116231903 +0700" channel="tv5.style">
+    <title>Le grand journal des territoires</title>
+    <desc />
+  </programme>
+  <programme start="20260116231910 +0700" stop="20260116234541 +0700" channel="tv5.style">
+    <title>Le goût des rencontres normandes</title>
+    <desc />
+  </programme>
+  <programme start="20260116234553 +0700" stop="20260117004431 +0700" channel="tv5.style">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme start="20260117004441 +0700" stop="20260117005801 +0700" channel="tv5.style">
+    <title>Itinéraires paysans</title>
+    <desc />
+  </programme>
+  <programme start="20260117010000 +0700" stop="20260117025251 +0700" channel="tv5.style">
+    <title>Des racines &amp; des ailes</title>
+    <desc />
+  </programme>
+  <programme start="20260117025258 +0700" stop="20260117031846 +0700" channel="tv5.style">
+    <title>Le grand journal des territoires</title>
+    <desc />
+  </programme>
+  <programme start="20260117031856 +0700" stop="20260117034456 +0700" channel="tv5.style">
+    <title>Donner l'goût</title>
+    <desc />
+  </programme>
+  <programme start="20260117034508 +0700" stop="20260117044346 +0700" channel="tv5.style">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme start="20260117044353 +0700" stop="20260117045603 +0700" channel="tv5.style">
+    <title>L'art et la matière</title>
+    <desc />
+  </programme>
+  <programme start="20260117045613 +0700" stop="20260117045846 +0700" channel="tv5.style">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme start="20260117050000 +0700" stop="20260117065251 +0700" channel="tv5.style">
+    <title>Des racines &amp; des ailes</title>
+    <desc />
+  </programme>
+  <programme start="20260117065258 +0700" stop="20260117071846 +0700" channel="tv5.style">
+    <title>Le grand journal des territoires</title>
     <desc />
   </programme>
   <channel id="tv5monde">
